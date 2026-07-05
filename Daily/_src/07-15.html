@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/15 Day7 佛罗伦萨→罗马→深夜飞雅典</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/15（三）</span><span class="day-badge">Day 7</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">🚄 佛罗伦萨 → 罗马 Termini → FCO ✈️ 深夜飞雅典（⚠️ 罗马不进城、不过夜 · v5.4 改签版）</div>
+
+<h2>🚄✈️ 交通（两段接力）</h2>
+<table>
+  <tr><th>高铁</th><td><b>Frecciarossa 9543</b>　Firenze S.M. Novella <b>16:14</b> → Roma Termini <b>17:49</b>（1h35）<br>PNR <span class="ref">Y4U5A5</span> · Business · 座 2 车 3D (Miao) / 4D (Sakoda) · €91.80/2 人 · 电子票（发车前 1 分钟关门）</td></tr>
+  <tr><th>市内转场</th><td>18:00 左右 Roma Termini → <b>FCO T1</b>：Leonardo Express ~32min（Termini 24 站台方向）或 taxi（固定价 ~€50）</td></tr>
+  <tr><th>航班</th><td><b>AZ722</b>（ITA Airways 实承运）　FCO <b>T1 21:50</b> → 7/16 <b>00:45</b> 抵雅典 ATH<br>PNR <span class="ref">AZZ0QN</span> · Business (I) · 托运 2×32kg/人 · <b>座位未预选（-----），值机时选</b></td></tr>
+  <tr><th>新票号</th><td>⚠️ 改签后新 e-ticket：<span class="ref">0162117768104</span>(Miao) / <span class="ref">0162117768109</span>(Sakoda)（旧票 …7290/7289 已作废）</td></tr>
+</table>
+
+<h2>🏨 住宿（今夜后半在雅典机场旁）</h2>
+<table>
+  <tr><th>酒店</th><td><b>Athens Airport Living Spaces</b>（Spata, 8 Agiou Dimitriou, 19004 · ATH 机场旁公寓式酒店 · ☎ +30 693 749 5702）</td></tr>
+  <tr><th>确认号</th><td>Booking.com <span class="ref">5745.404.178</span> · PIN <span class="ref">0816</span> · Superior Studio（Queen 床+沙发床）· €140.60 <span class="sub">⚠️ 不可退改</span></td></tr>
+  <tr><th>入住</th><td>订单名义 7/15 15:00 起 → 实际 <b>7/16 凌晨 ~01:15 深夜到店入住</b>（同一订单，已含 7/15 晚）</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">上午</div><div class="c"><b>佛罗伦萨自由活动</b>：睡懒觉 / 补逛老城·珠宝·咖啡馆 + <b>打包行李</b>（今天是长转场日）</div></li>
+  <li><div class="t">中午</div><div class="c">自由午餐（SMN / 老城附近）</div></li>
+  <li><div class="t">14:45</div><div class="c"><b>W Florence 取行李</b>（早退房可寄存）</div></li>
+  <li><div class="t">15:30</div><div class="c">步行 3min → Firenze S.M. Novella 站（闸机扫码进站台）</div></li>
+  <li><div class="t">16:14</div><div class="c">🚄 Frecciarossa 9543 发车 <span class="booked">已订</span> <span class="ref">Y4U5A5</span></div></li>
+  <li><div class="t">17:49</div><div class="c">抵 Roma Termini —— <b>不出城！直接转场 FCO</b></div></li>
+  <li><div class="t">18:00</div><div class="c">Termini → FCO：<b>Leonardo Express</b>（~32min，现场购票/App）或 taxi</div></li>
+  <li><div class="t">18:45</div><div class="c">抵 <b>FCO T1</b> → ITA 商务舱柜台值机（顺便选 AZ722 座位）+ 托运 + 安检</div></li>
+  <li><div class="t">19:00</div><div class="c">🍽 <b>ITA Lounge 晚餐 + 休息</b>（Pierluigi 已取消，今晚晚餐定案在商务舱贵宾厅）</div></li>
+  <li><div class="t">21:50</div><div class="c">✈️ <b>AZ722 起飞</b> <span class="booked">已订</span> <span class="ref">AZZ0QN</span>（登机口截止：起飞前 30min）</div></li>
+  <li><div class="t">00:45</div><div class="c">（次日 7/16 凌晨）抵雅典 ATH → 见 7/16 行程单</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">重大改签（v5.3/v5.4）</span>：原 7/16 早班 AZ720 已作废！新航班是 <b>7/15 当晚 21:50 AZ722</b> —— 罗马<b>不进城、不过夜</b>，17:49 到 Termini 后直接去机场。</li>
+    <li><span class="no">别按旧计划走</span>：❌ Sheraton Roma Parco de' Medici 酒店<b>已取消</b>；❌ Pierluigi 20:00 晚餐<b>已在线取消</b> —— 不要去！</li>
+    <li>AZ722 值机请用<b>新票号</b>（…8104 Miao / …8109 Sakoda）+ PNR AZZ0QN；座位未预选，值机时尽早选。</li>
+    <li>票规：SKCHG / 不可签转 / 不可退（UA ONLY）—— 千万别误机；国际商务舱建议 ≥2h 前到 FCO。</li>
+    <li>今夜实为「红眼转场」：雅典 00:45 落地后还有酒店 check-in，白天佛罗伦萨别安排太累。</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Tickets/7:15 Firenze → Roma.pdf</code> ｜ <code>Tickets/7:15-7:16 FCO→ATH→JTR.pdf</code>（⚠️ 改签后新票）｜ <code>Hotels/7:15-7:16 Athens Airport Living Spaces.pdf</code></div>
+
+<div class="tomorrow">📅 <b>明日预告（7/16 Day 8 雅典 → 圣托里尼）</b>：00:45 抵 ATH → ~01:15 Athens Airport Living Spaces 入住补眠 → 11:00 退房（不可延）→ <b>15:05 A3368 飞圣托里尼</b> → 17:00 Mystique Oia check-in（Wet Allure Suite）</div>
+
+</body>
+</html>

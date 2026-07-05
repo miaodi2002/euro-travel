@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/25 Day17 巴塞罗那→苏黎世</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/25（六）</span><span class="day-badge">Day 17</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">🛫 巴塞罗那 → 苏黎世（换城日 · BCN 退税 + 转入瑞士段 😴 落地轻松）</div>
+
+<h2>✈️ 交通（SWISS · PNR <span class="ref">7BWRK8</span>）</h2>
+<table>
+  <tr><th>航班</th><td><b>LX1955</b>（A321）　巴塞罗那 <b>BCN T1 14:55</b> → 苏黎世 <b>ZRH 16:40</b>（飞行 1h45，✅ 已订）</td></tr>
+  <tr><th>舱位座位</th><td>Economy Classic · 座 <b>16D</b>（Miao, 通道）/ <b>16E</b>(Sakoda, 中央) · €566.20/2 人（PayPal）</td></tr>
+  <tr><th>行李</th><td>托运 <b>23kg×1/人</b> + 机内 8kg + 随身物品 · 票号 <span class="ref">2202246089660</span>(Miao) / <span class="ref">…661</span>(Sakoda)</td></tr>
+  <tr><th>去机场</th><td>11:45 EDITION 退房 → <b>12:00 taxi → BCN T1</b>（周六中午 25-35min，~€32-38）；值机截止 <b>14:10</b></td></tr>
+</table>
+
+<h2>🏨 住宿（换酒店日）</h2>
+<table>
+  <tr><th>退房</th><td><b>The Barcelona EDITION</b>（Av. Francesc Cambó 14）· conf <span class="ref">71415491</span> · 11:45 前退房</td></tr>
+  <tr><th>入住</th><td><b>Zurich Marriott Hotel</b>（Neumuehlequai 42, 8006 Zürich，Limmat 河边）· conf <span class="ref">71467622</span> · Superior Room, 1 King, North Wing · 1 晚 510 CHF（会员 Flexible）· 已提希望上层楼（不保证）· 钛金</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">上午</div><div class="c">Born 咖啡 + 打包（❗托运前把 LOEWE 等退税单+小票+商品整理到易取处）；<b>SWISS 在线值机</b>出发前 23h 开放——前一晚就办好</div></li>
+  <li><div class="t">11:45</div><div class="c">🏨 EDITION 退房</div></li>
+  <li><div class="t">12:00</div><div class="c">🚕 taxi → BCN T1（25-35min，~€32-38）</div></li>
+  <li><div class="t">12:35</div><div class="c">到 T1 → <b>先办退税：DIVA 自助机验证 Tax Free 单</b>（⚠️ 必须在托运行李之前）</div></li>
+  <li><div class="t">13:00</div><div class="c">托运行李（值机截止 14:10）→ 安检（⚠️ 暑期周六可排 20-40min）→ 登机口</div></li>
+  <li><div class="t">14:55</div><div class="c">✈️ <b>LX1955 起飞</b> <span class="booked">已订</span> <span class="ref">7BWRK8</span></div></li>
+  <li><div class="t">16:40</div><div class="c">抵苏黎世 ZRH → 出关取行李（瑞士非 EU：申根内飞行但有海关通道，走绿色通道留意免税额）</div></li>
+  <li><div class="t">17:20</div><div class="c">🚋 电车（11/14 号 Tram）或 taxi <b>~5min</b> → <b>Zurich Marriott</b> check-in <span class="ref">71467622</span></div></li>
+  <li><div class="t">18:00</div><div class="c">傍晚：<b>Niederdorf 老城</b>漫步 + Limmat 河 / 苏黎世湖畔散步</div></li>
+  <li><div class="t">19:30</div><div class="c">老城晚餐（随性 walk-in）→ 早休息（明天 08:15 司机出发）</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">退税关键日</span>：7/25 飞瑞士 = <b>离开 EU 关税区</b> → 西班牙购物（LOEWE 等）Tax Free 单必须今天在 <b>BCN T1 DIVA 自助机</b>验证，且要在<b>托运行李之前</b>办！</li>
+    <li>瑞士入境个人<b>免税额 CHF 150/人</b> —— 高额购物留意申报线</li>
+    <li>值机截止 <b>14:10</b>；⚠️ 暑期周六 T1 安检可排 20-40min，退税+托运预留充足时间（12:35 到场即从容）</li>
+    <li>瑞士用 <b>CHF</b> 非欧元（刷卡为主即可）；ZRH→酒店电车仅 5min，行李多直接 taxi</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Tickets/7:25 BCN→ZRH.pdf</code> ｜ <code>Hotels/7:25-7:26 Zurich Marriott.pdf</code></div>
+
+<div class="tomorrow">📅 <b>明日预告（7/26 Day 18 私人司机日）</b>：08:00 早餐 → <b>08:15 私人司机出发</b>（行李全装车，最晚 08:30）→ Brünig 观景线 → <b>12:12 Gelmerbahn（已订）</b>→ Staubbach 瀑布 → 齿轨上 Wengen，~17:20 Belvedere check-in</div>
+
+</body>
+</html>

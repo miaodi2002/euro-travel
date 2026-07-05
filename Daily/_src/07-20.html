@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/20 Day12 圣托里尼→巴塞罗那</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+  /* COMPACT-2 */
+  body { font-size: 9.5pt; line-height: 1.42; }
+  .header .date { font-size: 15.5pt; }
+  .city-line { font-size: 11.5pt; margin-bottom: 6px; }
+  h2 { font-size: 11pt; margin: 6px 0 3px; }
+  th, td { font-size: 9pt; padding: 2.5px 6px; }
+  .timeline li { padding: 2px 0; }
+  table { margin: 2px 0; }
+  .warn li { margin: 1.5px 0; }
+  .docs { margin-top: 5px; }
+  .tomorrow { margin-top: 5px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/20（一）</span><span class="day-badge">Day 12</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">🛫 圣托里尼 JTR → 巴塞罗那 BCN（移动日 · Born 初日 + 海滩）</div>
+
+<h2>✈️ 交通（Vueling · PNR <span class="ref">EKHTKG</span>）</h2>
+<table>
+  <tr><th>航班</th><td><b>VY3315</b>　圣托里尼 JTR <b>10:00</b> → 巴塞罗那 <b>BCN T1 12:20</b>（周一 · 申根域内无边检）</td></tr>
+  <tr><th>票种座位</th><td><b>Fly Grande</b> · 座位 <b>1A / 1B</b>（Space One 第一排）· €356.10/2 人已付</td></tr>
+  <tr><th>行李</th><td>每人：25kg 托运 + 10kg 头顶行李（55×40×20）+ 座下小包（40×30×20）</td></tr>
+  <tr><th>福利</th><td>Fast Track 安检 + 优先登机 + 专用值机柜台 + 起飞 2h 前可免费改签/取消</td></tr>
+  <tr><th>时限</th><td>值机柜台开 08:00 / <b>关 09:20</b>；登机 09:20 开始、<b>09:40 截止</b>（邮件确认函≠登机牌，需值机取牌或 App 在线值机）</td></tr>
+</table>
+
+<h2>🏨 住宿（换酒店日）</h2>
+<table>
+  <tr><th>退房</th><td><b>Sandblu Santorini LXR</b>（conf <span class="ref">9088112650151</span>）· 规定退房 11:00，今日早退；现地精算杂费约 ¥5,541 相当（当地货币）</td></tr>
+  <tr><th>入住</th><td><b>The Barcelona EDITION</b>　Av. Francesc Cambó 14, 08003（Born 区）· conf <span class="ref">71415491</span> · 客室 1 King · <b>5 晚 = 509,500 pts + €132 税</b></td></tr>
+  <tr><th>会员</th><td>Bonvoy 钛金：请求早入住 / 先寄行李；check-in 报 honeymoon。位置：Picasso 美术馆 1min / Gòtic 5min / 海滩步行 ~20min</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">06:45</div><div class="c">起床 · 早餐（FHR 双早，赶时间可请酒店打包）· 结账退房</div></li>
+  <li><div class="t">07:30</div><div class="c">🚗 酒店送车出发 → JTR 机场（昨晚已确认；夏季 JTR 极度拥挤，宁早勿晚）</div></li>
+  <li><div class="t">08:00</div><div class="c">JTR 值机（Fly Grande 专用柜台 + Fast Track 安检）→ 候机</div></li>
+  <li><div class="t">10:00</div><div class="c">✈️ <b>VY3315 起飞</b> <span class="booked">已订</span> <span class="ref">EKHTKG</span>（优先登机 · 座 1A/1B）</div></li>
+  <li><div class="t">12:20</div><div class="c">抵巴塞罗那 <b>BCN T1</b>（申根内无护照检查）</div></li>
+  <li><div class="t">12:50</div><div class="c">取行李 → 🚕 taxi ~30min（~€35-40，带行李比 Aerobús 省心）</div></li>
+  <li><div class="t">13:30</div><div class="c">🏨 <b>The Barcelona EDITION</b> check-in <span class="booked">已订</span> <span class="ref">71415491</span>（钛金早入住，未备好则寄行李先出门；报 honeymoon）</div></li>
+  <li><div class="t">14:30</div><div class="c">🚶 <b>El Born 散策</b>：Mercat del Born → Santa Maria del Mar 教堂 → 顺路 <b>La Chinata Born 店</b>（Passeig del Born 11，橄榄油伴手礼在此补）</div></li>
+  <li><div class="t">16:30</div><div class="c">🏖 步行 ~20-25min → <b>Barceloneta 海滩</b>（7 月水温 25-26°C，下水正合适）</div></li>
+  <li><div class="t">18:45</div><div class="c">🍺 <b>Cervecería Vaso de Oro</b>（Carrer de Balboa 6）—— 不可预约，<b>19:00 前到店</b>；自酿啤酒 + 招牌 solomillo con foie（牛柳鹅肝）；周一营业 ✓</div></li>
+  <li><div class="t">20:30</div><div class="c">🌆 海滨长廊散步 → 慢走回酒店（~20min）</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">赶飞机</span>：值机柜台 <b>09:20 关闭</b>、登机 09:40 截止 —— 07:30 务必发车；改签/取消只能在起飞 2h 前（即 08:00 前）操作</li>
+    <li>手提限额严格：座下包超尺寸会被柜台收费托运（最高 €75）—— 头顶包 ≤10kg 注意</li>
+    <li><span class="no">Barceloneta 偷窃高发</span>：轮流下水看包、护照留酒店保险箱、手机不离身</li>
+    <li>Vaso de Oro 不可预约且座位少，<b>19:00 前到</b>是唯一攻略；吃完火腿现场吃 —— ❌ 伊比利亚火腿禁带回日本（肉制品入境禁止）</li>
+    <li>EDITION 预订 7/19（日）23:59 前可免费取消 —— 今日入住后即锁定，无需操作</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Tickets/7:20 JTR→BCN.pdf</code> ｜ <code>Hotels/7:20-7:25 Barcelona EDITION.pdf</code> ｜ <code>Hotels/7:18-7:20 Santorini Sandblu LXR.pdf</code></div>
+
+<div class="tomorrow">📅 <b>明日预告（7/21 Day 13 巴塞罗那 · LOEWE + タパス日）</b>：10:30 La Chinata（Diputació 262）→ <b>11:00 CASA LOEWE</b>（Passeig de Gràcia 35）→ 12:00 Quimet &amp; Quimet 午餐（11:55 到冲第一波）→ 下午 Passeig de Gràcia 慢逛</div>
+
+</body>
+</html>

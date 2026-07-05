@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/29 Day21 法兰克福 工作+老城+购物</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/29（三）</span><span class="day-badge">Day 21</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">💻 法兰克福（上午工作半天 · 下午老城 / 歌德故居 / 购物 · 晚 fine dining 🔴 待订）</div>
+
+<h2>🚶 交通</h2>
+<table>
+  <tr><th>全天</th><td>市内步行日 — 酒店（Thurn-und-Taxis-Platz 2）即在 Zeil 旁：Kleinmarkthalle ~7min / Römerberg ~12min / Goethe Haus ~10min / Goethestraße ~5min；晚餐如去 Sachsenhausen 方向 taxi ~10min</td></tr>
+</table>
+
+<h2>🏨 住宿</h2>
+<table>
+  <tr><th>酒店</th><td><b>JW Marriott Hotel Frankfurt</b>（续住第 2 晚）· 确认号 <span class="ref">71632783</span> · Deluxe Room, 1 King</td></tr>
+  <tr><th>会员</th><td>Bonvoy 钛金 — 可用 Executive Lounge 办公 / 早餐福利</td></tr>
+</table>
+
+<h2>🍽 晚餐 fine dining（🔴 待订 — 替代 Lafleur）</h2>
+<table>
+  <tr><th>首选</th><td><b>RAUSCH</b> — 2026 新晋 <b>2★</b>，周二-六 18:30 起营业 · ☎ <span class="ref">+49 69 66817701</span></td></tr>
+  <tr><th>备选</th><td><b>Lohninger</b> — 2026 新晋 <b>1★</b>，奥地利菜（fine 版维也纳炸牛排），Schweizer Str. 1（Sachsenhausen Main 河边），周二-六（lohninger.de）</td></tr>
+  <tr><th>保底</th><td>Carmelo Greco（1★ 意大利菜 — 刚离意 8 天，不优先）</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">09:00</div><div class="c">起床 + 酒店早餐</div></li>
+  <li><div class="t">09:30</div><div class="c">💻 <b>工作半天至 13:00</b>（房间 / Executive Lounge；= 日本时间 16:30-20:00，正好覆盖东京下午）</div></li>
+  <li><div class="t">13:15</div><div class="c">🥨 午餐 <b>Kleinmarkthalle 室内市场</b>（步行 ~7min）— <b>Schreiber 香肠柜台</b>本地人名物 ＋ <b>市场酒摊买莱茵雷司令 Riesling</b>（wishlist 项在此解决，选择比机场好）</div></li>
+  <li><div class="t">14:30</div><div class="c"><b>Römerberg 罗马广场 + Neue Altstadt 新老城</b>白天版 + 大教堂外观（散步 ~1h）</div></li>
+  <li><div class="t">15:30</div><div class="c">🏛 <b>Goethe Haus 歌德故居</b>（Großer Hirschgraben 23-25，~45min，18:00 关）</div></li>
+  <li><div class="t">16:30</div><div class="c">🛍 <b>购物至 18:30：Goethestraße（奢侈品街）+ Zeil</b>（单店单笔 ≥€70.01 记得索取 Tax Free 退税表；商店 ~20:00 关）</div></li>
+  <li><div class="t">19:00</div><div class="c">🍽 晚餐 <b>fine dining</b> 🔴 <b>待订</b> — 首选 <b>RAUSCH 2★</b> / 备选 <b>Lohninger 1★</b>（见上表）</div></li>
+  <li><div class="t">21:30</div><div class="c">回酒店，开始预打包（明天 15:00 就要退房出发）</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">Lafleur 2★ 夏休 7/6-8/13（官网确认）不可行</span> —— 法兰克福 7 月底集体 Sommerpause（MAIN TOWER 7/20-8/9 关 / Gustav・Weinsinn 已永久歇业）；<b>订 RAUSCH / Lohninger 前也先确认无夏休</b></li>
+    <li>Kleinmarkthalle 周一-六开、<b>18:00 关</b>（周日休）；Schreiber 柜台高峰排队，13:15 错峰刚好</li>
+    <li>Goethe Haus <b>18:00 关门</b>，15:30 进场留足 ~45min</li>
+    <li><span class="no">退税关键</span>：今天所有购物<b>单店 ≥€70.01 必须当场索退税表</b>（出示护照）——明天 7/30 在 FRA T3 统一盖章退税</li>
+    <li>买的 Riesling 走托运：用 VinPouch / 充气酒袋缓冲打包</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Hotels/7:28-7:30 Frankfurt JW Marriott.pdf</code> ｜ fine dining 确认后补充预订凭证</div>
+
+<div class="tomorrow">📅 <b>明日预告（7/30 Day 22 出发日）</b>：睡到自然醒 → 上午自由机动 → <b>15:00 退房出发</b>（⚠️ 比旧计划提前 3h — 全程退税压在明天：海关盖章 + Global Blue/Planet）→ 20:10 JL408 FRA T3 → NRT（已订）</div>
+
+</body>
+</html>

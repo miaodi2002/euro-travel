@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/8 Day0 出发·抵达米兰</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/8（三）</span><span class="day-badge">Day 0</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">🛫 东京 羽田 → 迪拜 → 米兰 Malpensa（移动日 · 机场酒店过夜）</div>
+
+<h2>✈️ 交通（EK 商务舱 · PNR <span class="ref">M8NHD2</span>）</h2>
+<table>
+  <tr><th>第 1 段</th><td><b>EK313</b>　羽田 HND T3 <b>00:05</b> → 迪拜 DXB T3 05:40 <span class="sub">⚠️ 7/8 凌晨起飞 = <b>7/7（二）晚上就要到羽田</b>（建议 21:30 前值机）</span></td></tr>
+  <tr><th>转机</th><td>DXB 转机 <b>9h55</b>（05:40-15:35）— Emirates 商务舱 Lounge 休息 / 淋浴</td></tr>
+  <tr><th>第 2 段</th><td><b>EK091</b>　迪拜 DXB T3 15:35 → 米兰 <b>MXP T1 20:15</b>（同一日历日抵达）</td></tr>
+  <tr><th>舱位行李</th><td>Business (D) · 托运 40kg/人 · 票号 <span class="ref">1312144551180</span>(Miao) / <span class="ref">…179</span>(Sakoda)</td></tr>
+</table>
+
+<h2>🏨 住宿</h2>
+<table>
+  <tr><th>酒店</th><td><b>Sheraton Milan Malpensa Airport</b>（MXP <b>T1 航站楼直连</b>，出到达厅步行/连廊即到）</td></tr>
+  <tr><th>确认号</th><td><span class="ref">71359009</span> · Classic Room, 1 King · 45,000 pts + €6 · 1 晚</td></tr>
+  <tr><th>会员</th><td>Bonvoy 钛金（含早餐福利；check-in 报 honeymoon）</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">00:05</div><div class="c">EK313 羽田起飞 <span class="booked">已订</span>（前夜 7/7 21:30 前到 HND T3 值机）</div></li>
+  <li><div class="t">05:40</div><div class="c">抵迪拜 DXB T3 → EK 商务 Lounge（早餐 / 淋浴 / 补眠）</div></li>
+  <li><div class="t">15:35</div><div class="c">EK091 起飞 <span class="booked">已订</span></div></li>
+  <li><div class="t">20:15</div><div class="c">抵米兰 <b>MXP T1</b></div></li>
+  <li><div class="t">20:45</div><div class="c">出关 + 取行李（申根入境：中国护照备签证复印件 + 行程单 + 酒店预订单）</div></li>
+  <li><div class="t">21:00</div><div class="c">步行/连廊 → <b>Sheraton Malpensa</b> check-in</div></li>
+  <li><div class="t">21:15</div><div class="c">📝 <b>关键备忘：让前台预约明早 07:30 的 taxi</b>（Sheraton Malpensa → Casa Brera，Malpensa→市中心固定价约 €104）——不订明早现叫车没保证</div></li>
+  <li><div class="t">22:00</div><div class="c">简餐 + 早睡（明天 07:30 出发进城）</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">日期陷阱</span>：EK313 是 <b>7/8 00:05</b> 起飞 —— 实际是 <b>7/7（二）晚上出门去机场</b>，别按 7/8 白天准备！</li>
+    <li>⚠️ Sakoda 的 EK e-ticket PDF 副本遗失（同 PNR 出票无碍，如需纸面可从邮箱补打）</li>
+    <li>入境后即欧盟：手机开通 eSIM/漫游；备少量欧元现金</li>
+    <li>明天 09:30 Duomo 露台已订：<b>大件行李不能带</b> → 明早先到 Casa Brera 放行李（流程已排好）</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Tickets/7:8 HND→DXB→MXP_Miao.pdf</code> ｜ <code>Hotels/7:8-7:9 Milano Sheraton Malpensa.pdf</code></div>
+
+<div class="tomorrow">📅 <b>明日预告（7/9 Day 1 米兰）</b>：07:00 早餐 → 07:30 taxi 进城 Casa Brera 寄行李 → <b>09:30 Duomo 屋顶露台（已订，9:25 集合）</b> → 19:00 Stendhal Brera 晚餐（已订）</div>
+
+</body>
+</html>

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/28 Day20 ICE 抵法兰克福</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+  /* COMPACT-2 */
+  body { font-size: 9.5pt; line-height: 1.42; }
+  .header .date { font-size: 15.5pt; }
+  .city-line { font-size: 11.5pt; margin-bottom: 6px; }
+  h2 { font-size: 11pt; margin: 6px 0 3px; }
+  th, td { font-size: 9pt; padding: 2.5px 6px; }
+  .timeline li { padding: 2px 0; }
+  table { margin: 2px 0; }
+  .warn li { margin: 1.5px 0; }
+  .docs { margin-top: 5px; }
+  .tomorrow { margin-top: 5px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/28（二）</span><span class="day-badge">Day 20</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">🚄 Wengen → Interlaken Ost → 法兰克福（ICE 移动日 · JW Marriott 入住 · Sachsenhausen 苹果酒馆）</div>
+
+<h2>🚄 交通（DB ICE 1 等 · 预订号 <span class="ref">878050552107</span> · 票码 <span class="ref">K53YL8EZ</span>）</h2>
+<table>
+  <tr><th>下山</th><td>Wengen 齿轨 → Lauterbrunnen（12min）→ BOB → <b>Interlaken Ost</b>（比住谷底多留 ~15min 提前量，赶 10:59）</td></tr>
+  <tr><th>第 1 段</th><td><b>ICE 106</b>（去向 Hamburg）　Interlaken Ost <b>10:59</b>（Pl.5）→ Mannheim Hbf <b>15:22</b>（Pl.3）</td></tr>
+  <tr><th>换乘</th><td>Mannheim <b>7min 同站台换乘 Gleis 3 → 2</b>（下车即换，无需过天桥）</td></tr>
+  <tr><th>第 2 段</th><td><b>ICE 596</b>（去向 Berlin）　Mannheim Hbf <b>15:29</b>（Pl.2）→ <b>Frankfurt(Main) Hbf 16:09</b>（Pl.9）· 全程 5h10 / 1 换乘</td></tr>
+  <tr><th>座位票价</th><td>1 等 · <b>车厢 12，座 45 + 46</b>（两段同位，Handybereich）· Sparpreis Europa <b>€211.78</b>/2 人 · Res.-Nr. <span class="ref">804450009932</span> / <span class="ref">804450009933</span></td></tr>
+  <tr><th>出票</th><td>🎫 票在 <b>DB Navigator App</b>（CIV 1080，订于 2026-05-31）· Zugbindung 只限所订两班车 · 查票须出示<b>护照</b></td></tr>
+</table>
+
+<h2>🏨 住宿</h2>
+<table>
+  <tr><th>酒店</th><td><b>JW Marriott Hotel Frankfurt</b>（Thurn-und-Taxis-Platz 2, 60313 Innenstadt — Hbf 步行 ~5min，Zeil 步行街旁）</td></tr>
+  <tr><th>确认号</th><td><span class="ref">71632783</span> · Deluxe Room, 1 King · 66,000 pts + 1 张兑换证（省 66k）· 2 晚（7/28-30）</td></tr>
+  <tr><th>会员</th><td>Bonvoy 钛金（SNA 已于入住前 5 天 = 7/23 提交；Amex 卡担保，7/26 23:59 前可免费取消——已过即入住）</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">08:00</div><div class="c">Belvedere 早餐 + 少女峰景留影（最后一个瑞士早晨）</div></li>
+  <li><div class="t">09:30</div><div class="c">离店 → Wengen 站（酒店接驳）→ 齿轨下山 Lauterbrunnen（12min）→ BOB → Interlaken Ost</div></li>
+  <li><div class="t">10:59</div><div class="c"><b>ICE 106</b> Interlaken Ost 发车（Pl.5，车厢 12 座 45/46）<span class="booked">已订</span></div></li>
+  <li><div class="t">15:22</div><div class="c">抵 Mannheim Hbf（Pl.3）→ <span class="no" style="color:#c0392b;font-weight:700">⚠️ 7min 同站台换乘 Gleis 3→2</span></div></li>
+  <li><div class="t">15:29</div><div class="c"><b>ICE 596</b> 发车（Pl.2，同车厢同座）<span class="booked">已订</span></div></li>
+  <li><div class="t">16:09</div><div class="c">抵 <b>Frankfurt(Main) Hbf</b>（Pl.9）</div></li>
+  <li><div class="t">16:15</div><div class="c">步行 ~5min → <b>JW Marriott check-in</b> <span class="booked">已订</span> <span class="ref">71632783</span></div></li>
+  <li><div class="t">16:30</div><div class="c">房间休整（5h 火车后缓一缓）至 18:30</div></li>
+  <li><div class="t">18:30</div><div class="c">出门轻逛：<b>MyZeil 屋顶</b>远眺银行区天际线（酒店步行 3min）</div></li>
+  <li><div class="t">19:30</div><div class="c">🍺 晚餐 <b>Adolf Wagner 苹果酒馆</b>（Sachsenhausen, Schweizer Str. 71）— <b>Apfelwein 苹果酒 + Schnitzel 配 Grüne Soße 绿酱</b>；无需盛装、一般无需预订；taxi ~10min 或步行 ~25min（备选 Atschel / Zum Gemalten Haus）</div></li>
+  <li><div class="t">21:00</div><div class="c">餐后散步 <b>Eiserner Steg 铁桥</b>（Main 河 + 天际线夜景）→ <b>Römerberg 罗马广场夜景</b> → 步行 ~15min 回酒店</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">车票在 DB Navigator App</span> —— 出发前<b>提前离线截图备份</b>（车票二维码 + 座位信息），山区/车上信号不稳</li>
+    <li><span class="no">暑期莱茵谷 ICE 易晚点</span>：若 ICE 106 晚点导致 Mannheim 换乘失败，凭 Zugbindung 车票找 DB 工作人员改乘下一班（Mannheim→Frankfurt 班次密集）</li>
+    <li>Mannheim 换乘虽只 7min，但 <b>Gleis 3→2 同一站台对面</b>，下车原地等即可，不要走远</li>
+    <li>查票需出示<b>护照</b>（Nur gültig mit amtlichem Lichtbildausweis）</li>
+    <li>Adolf Wagner 传统酒馆为长桌拼桌文化，苹果酒默认整壶（Bembel）上</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Tickets/7:28 Lauterbrunnen → Frankfurt.txt</code>（+ DB Navigator App）｜ <code>Hotels/7:28-7:30 Frankfurt JW Marriott.pdf</code></div>
+
+<div class="tomorrow">📅 <b>明日预告（7/29 Day 21 法兰克福）</b>：09:30-13:00 💻 工作半天（= 日本 16:30-20:00）→ 13:15 Kleinmarkthalle 午餐 + 买莱茵雷司令 → Römerberg / Goethe Haus → Goethestraße + Zeil 购物 → 19:00 fine dining 🔴 待订（首选 RAUSCH 2★）</div>
+
+</body>
+</html>

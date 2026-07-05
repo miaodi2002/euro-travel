@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/22 Day14 巴塞罗那 高迪日</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/22（三）</span><span class="day-badge">Day 14</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">⛪ 巴塞罗那 — 高迪日（Sagrada Família 日语导览团 + Casa Batlló，两票均已订）</div>
+
+<h2>🚶 交通（市内移动）</h2>
+<table>
+  <tr><th>早上</th><td>08:15 出门 🚕 taxi ~10min（或地铁）→ Sagrada Família 区（<b>集合点 Sardenya 311，非教堂正门</b>）</td></tr>
+  <tr><th>下午</th><td>El Glop → Passeig de Gràcia：地铁 L2 / 散步消食 ~13:45 出发（Casa Batlló = PdG 43）</td></tr>
+  <tr><th>晚间</th><td>Casa Batlló → Vinitus（Consell de Cent 333）步行数分钟；饭后步行 ~12min 回酒店</td></tr>
+</table>
+
+<h2>🏨 住宿（续住第 3/5 晚）</h2>
+<table>
+  <tr><th>酒店</th><td><b>The Barcelona EDITION</b>（Av. Francesc Cambó 14，Born 区）</td></tr>
+  <tr><th>确认号</th><td><span class="ref">71415491</span> · 5 晚（7/20-25）· 509.5k pts + €132 · Bonvoy 钛金</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">08:15</div><div class="c">出门 🚕 ~10min（或地铁）→ Sagrada Família 区</div></li>
+  <li><div class="t">08:50</div><div class="c"><b>集合 The Touring Pandas 办公室</b> — <span class="no" style="color:#c0392b;font-weight:700">⚠️ Carrer de Sardenya 311, Local 3（穿过玻璃门到 Local 3）— 不是教堂正门</span>；迟到/no-show 不退款</div></li>
+  <li><div class="t">09:00</div><div class="c">⛪ <b>Sagrada Família 日语导览团 + 塔楼</b> <span class="booked">已订</span> Klook <span class="ref">MXW879435</span>（Voucher <span class="ref">1049592785</span>/<span class="ref">86</span>）— <b>1h30 内部导览 + 30min 塔楼</b>（电梯上 / <b>螺旋楼梯下</b>），结束后可自由停留；手机出示 voucher</div></li>
+  <li><div class="t">11:45</div><div class="c">出教堂 → 步行 3min</div></li>
+  <li><div class="t">12:00</div><div class="c">🍽 午餐 <b>El Glop Gaudí</b>（Carrer de València 443；🟢 建议 OpenTable 提前订 12:00-12:30 位）</div></li>
+  <li><div class="t">13:45</div><div class="c">地铁 L2 / 散步消食 → Passeig de Gràcia</div></li>
+  <li><div class="t">15:00</div><div class="c">🏛 <b>Casa Batlló</b>（Passeig de Gràcia 43）<span class="booked">已订</span> General Visit – Gold <span class="ref">102085084</span>（€43×2，票 <span class="ref">303684202-1/2</span> / <span class="ref">303684203-2/2</span>）— QR 入场；含 Dragon's Rooftop 屋顶；~1.5h → 16:30 出</div></li>
+  <li><div class="t">16:30</div><div class="c">PdG 慢逛补货 / 回酒店休息（至 18:15）</div></li>
+  <li><div class="t">18:45</div><div class="c">🥘 晚餐 <b>Vinitus</b>（Consell de Cent 333；不可预约，<b>19:00 前到</b>）</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">集合点不在教堂</span>：The Touring Pandas 办公室 <b>Carrer de Sardenya 311, Local 3</b>，09:00 出发 <b>08:50 前到</b>（票面要求出发前 10min）；<span class="no">迟到/no-show 不退款</span>；导览团免费取消截止 <b>7/21 09:00</b>（巴塞时间）已过即锁定</li>
+    <li>塔楼<b>电梯上、螺旋楼梯下</b>（数百级），穿好走的鞋；不可轮椅；紧急联络 The Touring Pandas：☎/WhatsApp <b>+34 622 143 262</b></li>
+    <li><span class="no">Casa Batlló 票面 15:00</span>（太太笔记 17:00 有误，以票面为准）；<b>迟到宽限仅 15min</b> — 14:45 前到 PdG 43 门口</li>
+    <li>Vinitus 不可预约 — 19:00 前到店</li>
+    <li>JON CAKE 不在今天 → 已挪 7/23 下午茶（Casa Batlló 步行圈内无门店）</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Attractions/7:22 Sagrada Familia.pdf</code> ｜ <code>Attractions/7:22 Casa Batlló.pdf</code> ｜ <code>Hotels/7:20-7:25 Barcelona EDITION.pdf</code></div>
+
+<div class="tomorrow">📅 <b>明日预告（7/23 Day 15 旧市街）</b>：10:00 La Boqueria（火腿现场吃 — <b>❌ 一片都不能带回日本</b>）→ 11:00 Buenas Migas → DesignPlace → 午后海滩/自由 → 16:30 JON CAKE（<b>上午先电话/IG 预留切块</b>）→ 19:30 Born 随性 walk-in</div>
+
+</body>
+</html>

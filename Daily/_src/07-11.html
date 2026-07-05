@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/11 Day3 米兰上午 → 威尼斯第1晚</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+  /* COMPACT-2 */
+  body { font-size: 9.5pt; line-height: 1.42; }
+  .header .date { font-size: 15.5pt; }
+  .city-line { font-size: 11.5pt; margin-bottom: 6px; }
+  h2 { font-size: 11pt; margin: 6px 0 3px; }
+  th, td { font-size: 9pt; padding: 2.5px 6px; }
+  .timeline li { padding: 2px 0; }
+  table { margin: 2px 0; }
+  .warn li { margin: 1.5px 0; }
+  .docs { margin-top: 5px; }
+  .tomorrow { margin-top: 5px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/11（六）</span><span class="day-badge">Day 3</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">☕ 米兰上午收尾（咖啡＋Brera＋Galleria＋午餐）→ 🚄 15:45 Frecciarossa 转威尼斯 · 威尼斯第 1 晚</div>
+
+<h2>🚄 交通（Frecciarossa Business · PNR <span class="ref">Y8JE9N</span>）</h2>
+<table>
+  <tr><th>市内</th><td>13:30 回酒店取行李 → <b>14:00</b> 🚕 taxi ~7min → <b>Milano Centrale</b>（闸机扫票面 QR 进站台）</td></tr>
+  <tr><th>高铁</th><td><b>FR 9741</b>　Milano Centrale <b>15:45</b> → Venezia S. Lucia <b>18:12</b>（2h27）· FrecciaDAYS/Business · 电子票</td></tr>
+  <tr><th>座位</th><td>车厢 <b>1</b>：<b>16A</b>（Sakoda）+ <b>16B</b>（Miao）· €63.80/2 人 · 票码 <span class="ref">2848698341</span>(Sakoda) / <span class="ref">2848698342</span>(Miao)</td></tr>
+  <tr><th>到站后</th><td>出 Santa Lucia 站 → <b>步行 5-7min</b> 即到 AC Hotel（无需水上 taxi）</td></tr>
+</table>
+
+<h2>🏨 住宿（换城市：退房 ＋ 入住）</h2>
+<table>
+  <tr><th>退房</th><td><b>Casa Brera</b>（<span class="ref">71361226</span>）· <b>09:00 退房，行李寄存前台</b>，13:30 回取</td></tr>
+  <tr><th>入住</th><td><b>AC Hotel Venezia</b>（Rio Terà Sant'Andrea 466, 30135 Venezia · Cannaregio，Santa Lucia 站旁）</td></tr>
+  <tr><th>确认号</th><td><span class="ref">71335812</span> · Room, 1 Queen · 146,000 pts + €14 · 7/11-7/13（2 晚）</td></tr>
+  <tr><th>会员</th><td>Bonvoy 钛金（check-in 报 honeymoon/纪念；问 <b>SNA 套房升级</b> + 周一行李寄存）</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">09:00</div><div class="c">起床 → 🏨 <b>Casa Brera 退房，行李寄存前台</b>（轻装出门）</div></li>
+  <li><div class="t">10:00</div><div class="c">🌸 <b>Café Fioraio Bianchi</b>（花屋咖啡，Via Montebello 7；早餐 + 咖啡）— 太太追加</div></li>
+  <li><div class="t">10:30</div><div class="c">Brera 区散策（石板路 + boutique + 画廊）</div></li>
+  <li><div class="t">11:00</div><div class="c">🍫 <b>Cioccolatitaliani</b>（Via S. Raffaele 6，Galleria 旁；蛋筒底注巧克力）— 太太愿望 ✓</div></li>
+  <li><div class="t">11:30</div><div class="c">📸 <b>Galleria Vittorio Emanuele II</b>（世界最老商场，Prada 本店，拍照点）</div></li>
+  <li><div class="t">12:00</div><div class="c">🍽 <b>午餐 Trattoria Milanese</b>（Via Santa Marta 11；cotoletta / ossobuco）🕐 <b>待确认 — 需电话预约 +39 02 8645 1991</b></div></li>
+  <li><div class="t">13:30</div><div class="c">回 Casa Brera 取行李</div></li>
+  <li><div class="t">14:00</div><div class="c">🚕 taxi ~7min → <b>Milano Centrale</b></div></li>
+  <li><div class="t">15:45</div><div class="c">🚄 <b>FR 9741 发车</b> <span class="booked">已订</span> <span class="ref">Y8JE9N</span>（车厢 1 / 16A+16B）</div></li>
+  <li><div class="t">18:12</div><div class="c">抵 <b>Venezia S. Lucia</b> → 步行 5-7min → AC Hotel Venezia</div></li>
+  <li><div class="t">18:30</div><div class="c">🏨 <b>check-in</b> <span class="booked">已订</span> <span class="ref">71335812</span>（报 honeymoon；问 SNA 升级 + 周一行李寄存）</div></li>
+  <li><div class="t">18:50</div><div class="c">放行李、轻装出门</div></li>
+  <li><div class="t">19:15</div><div class="c">🍷 <b>Vino Vero</b>（Fondamenta Misericordia，步行 ~12min）— 运河边自然酒 + cicchetti（站着吃，无需订）</div></li>
+  <li><div class="t">20:30</div><div class="c">🍽 <b>晚餐 Hostaria Osottoosopra</b>（Santa Croce 164）🕐 <b>待确认</b>（酒店前台代订中）</div></li>
+  <li><div class="t">21:45</div><div class="c">🌉 <b>Rialto 桥夜景</b> — 第 1 次过桥，大运河灯影 — 太太愿望 ✓</div></li>
+  <li><div class="t">22:10</div><div class="c">🍦 <b>Gelateria Gallonetto</b>（周六开到 ~22:30）— 第 1 次冰淇淋 — 太太愿望 ✓</div></li>
+  <li><div class="t">22:30</div><div class="c">沿 Strada Nuova 散步回 AC Hotel</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">Trattoria Milanese 无在线订位</span>（Quandoo 明确写不可线上订）— 需<b>电话预约 +39 02 8645 1991</b>，周六午餐热门，最迟今早出发前打</li>
+    <li><span class="no">晚餐待确认</span>：alla Vedova 7/11 当日休息（酒店已致电确认）→ 改 <b>Osottoosopra</b>（+39 333 802 7830），AC Hotel 前台代订中 — 到店 check-in 时找前台确认结果</li>
+    <li>Milano Centrale 进站台需扫票 QR 过闸；<b>车门发车前 1 分钟关闭</b></li>
+    <li>票面提示：4/3–7/26 部分日期进威尼斯需缴 Venice access fee — 酒店过夜住客可豁免，建议提前在官网登记豁免码备查</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Tickets/7:11 Milano→Venezia.pdf</code> ｜ <code>Hotels/7:11-7:13 Venezia AC Hotel.pdf</code></div>
+
+<div class="tomorrow">📅 <b>明日预告（7/12 Day 4 威尼斯）</b>：上午 Murano 玻璃岛 → <b>14:00 Palazzo Ducale（已订 €70，含叹息桥内部）</b> → 19:00 Osteria al Portego 晚餐（已订）→ 20:30 日落贡多拉钻叹息桥（🕐 待确认，Danieli/San Zaccaria 码头上船）</div>
+
+</body>
+</html>

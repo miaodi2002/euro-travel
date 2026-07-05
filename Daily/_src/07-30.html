@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>7/30 Day22 出发日 FRA→NRT</title>
+<style>
+  @page { size: A4; margin: 11mm 12mm; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+    font-size: 10.5pt; line-height: 1.5; color: #1a1a1a;
+  }
+  .header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 3px solid #1a5276; padding-bottom: 6px; margin-bottom: 10px;
+  }
+  .header .date { font-size: 17pt; font-weight: 700; color: #1a5276; }
+  .header .day-badge { font-size: 10pt; color: #fff; background: #1a5276; border-radius: 4px; padding: 2px 8px; margin-left: 8px; font-weight: 600; }
+  .header .trip { font-size: 9pt; color: #888; }
+  .city-line { font-size: 12.5pt; font-weight: 600; color: #333; margin-bottom: 10px; }
+  h2 {
+    font-size: 11.5pt; color: #1a5276; margin: 12px 0 5px;
+    border-left: 4px solid #1a5276; padding-left: 7px;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+  th, td { border: 1px solid #ccd6dd; padding: 4px 7px; text-align: left; vertical-align: top; font-size: 9.5pt; }
+  th { background: #eaf1f6; font-weight: 600; white-space: nowrap; width: 72px; }
+  .timeline { list-style: none; margin: 4px 0; }
+  .timeline li {
+    display: flex; padding: 3.5px 0; border-bottom: 1px dotted #dde;
+  }
+  .timeline .t { flex: 0 0 52px; font-weight: 700; color: #1a5276; font-variant-numeric: tabular-nums; }
+  .timeline .c { flex: 1; }
+  .booked { background: #e8f6ee; border: 1px solid #58b57f; border-radius: 3px; font-size: 8.5pt; padding: 0 4px; color: #1e7a44; font-weight: 600; margin-left: 3px; white-space: nowrap; }
+  .ref { font-family: "SF Mono", Menlo, monospace; font-size: 9pt; background: #f0f3f6; padding: 0 3px; border-radius: 2px; }
+  .warn {
+    background: #fff8e6; border: 1.5px solid #e6b800; border-radius: 5px;
+    padding: 7px 10px; margin: 6px 0;
+  }
+  .warn ul { margin-left: 16px; }
+  .warn li { margin: 2.5px 0; }
+  .warn .no { color: #c0392b; font-weight: 700; }
+  .docs { font-size: 8.5pt; color: #667; margin-top: 8px; }
+  .docs code { font-family: Menlo, monospace; background: #f0f3f6; padding: 0 3px; }
+  .tomorrow {
+    margin-top: 10px; background: #eef4fa; border-radius: 5px; padding: 6px 10px; font-size: 9.5pt;
+  }
+  .tomorrow b { color: #1a5276; }
+  .sub { color: #778; font-size: 9pt; }
+  /* COMPACT-PATCH */
+  body { font-size: 10pt; }
+  .timeline li { padding: 2.5px 0; }
+  th, td { padding: 3px 6px; }
+  h2 { margin: 8px 0 4px; }
+  .header { margin-bottom: 8px; padding-bottom: 5px; }
+  .warn { padding: 5px 9px; margin: 5px 0; }
+  .tomorrow { margin-top: 7px; padding: 5px 9px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div><span class="date">7/30（四）</span><span class="day-badge">Day 22</span></div>
+  <div class="trip">2026 夏欧洲行 · 22 晚 · Miao ＆ Sakoda</div>
+</div>
+<div class="city-line">🛫 法兰克福 → FRA T3 退税 → JL408 回国（出发日 · 上午全空机动）</div>
+
+<h2>✈️ 交通（JAL 商务舱 · PNR <span class="ref">EKWC4T</span>）</h2>
+<table>
+  <tr><th>航班</th><td><b>JL408</b>　法兰克福 <b>FRA T3</b> <b>20:10</b> → 东京成田 <b>NRT T2</b> 翌日 <b>7/31（五）16:15</b>（飞行 13h05）<span class="booked">已订</span></td></tr>
+  <tr><th>舱位行李</th><td>Business · 托运 3PC/人 · JAL Award（税/费 ¥52,090/人）· 票号 <span class="ref">1312144556414</span>(Miao)</td></tr>
+  <tr><th>去机场</th><td>JW Marriott → FRA <b>T3</b>：taxi ~25min（备选 S8/S9 至 Frankfurt Flughafen 11min + 站内 shuttle 到 T3）</td></tr>
+</table>
+
+<h2>🏨 住宿（退房）</h2>
+<table>
+  <tr><th>酒店</th><td><b>JW Marriott Hotel Frankfurt</b> · 确认号 <span class="ref">71632783</span> · 66k pts + 1 兑换证 2 晚，今日结束</td></tr>
+  <tr><th>退房</th><td>钛金申请 <b>16:00 延迟退房</b>作缓冲，但实际 <b>15:00 退房出发</b>（房间可用到最后一刻整理行李）</td></tr>
+</table>
+
+<h2>🕐 当日行程</h2>
+<ul class="timeline">
+  <li><div class="t">--:--</div><div class="c">睡到自然醒 + 慢早餐（22 晚旅程最后一天，上午全空）</div></li>
+  <li><div class="t">上午</div><div class="c">自由机动：Main 河边散步 / Städel 美术馆（10:00 开）/ 补购物 / 打包（如日本周四下午有会，工作半天可挪到此上午）</div></li>
+  <li><div class="t">14:30</div><div class="c">最终打包检查：<b>退税品分装</b> — 托运的（Riesling 等）放行李箱最上层备查；<b>戒指随身手提、未佩戴</b>；全部收据 + Tax Free 表格备齐</div></li>
+  <li><div class="t">15:00</div><div class="c"><b>退房出发</b> → taxi ~25min</div></li>
+  <li><div class="t">15:30</div><div class="c">抵 <b>FRA T3</b> → 🧾 <b>退税流程</b>：① 海关（Zoll）盖章（托运行李内退税品<b>托运前</b>给海关查验）② Global Blue / Planet 柜台办退款（旺季排队可 1h+）</div></li>
+  <li><div class="t">16:30</div><div class="c">JAL 商务 check-in（起飞 60min 前必须完成手续）→ 安检 出境</div></li>
+  <li><div class="t">17:30</div><div class="c">Lounge 晚餐 + 休息</div></li>
+  <li><div class="t">20:10</div><div class="c">✈️ <b>JL408 起飞</b> <span class="booked">已订</span> <span class="ref">EKWC4T</span> — 再见欧洲！</div></li>
+</ul>
+
+<h2>⚠️ 注意事项</h2>
+<div class="warn">
+  <ul>
+    <li><span class="no">15:00 出发 — 比旧笔记「18:00 出发」提前 3h</span>：<b>全程退税（戒指 + 意/西/德购物）都压在今天</b>，海关盖章 + 退税柜台旺季排 1h+，T3 新航站楼流程不熟，多留裕量</li>
+    <li><span class="no">退税顺序</span>：托运行李内的退税品必须<b>先给海关查验、再托运</b>——别先把箱子交出去</li>
+    <li><span class="no">戒指</span>：随身手提、<b>未佩戴</b>状态、收据 + 退税表格备齐（海关可能要求出示实物）</li>
+    <li>T3 为 2026 新启用航站楼 — <b>临行前再确认 JL408 航站楼</b>无变更</li>
+    <li>7/31 抵 NRT 后即日本入境：Visit Japan Web 提前填好；托运酒类入境免税额留意（2 人 6 瓶内一般无虞）</li>
+  </ul>
+</div>
+
+<div class="docs">📎 凭证：<code>Tickets/7:30 FRA→NRT_Miao.pdf</code> ｜ <code>Hotels/7:28-7:30 Frankfurt JW Marriott.pdf</code></div>
+
+<div class="tomorrow">📅 <b>回国后（7/31 五）</b>：<b>16:15 抵东京成田 NRT T2</b>（JL408 · 13h05）— 入境 + 取行李后回家休整。2026 夏欧洲行 22 晚 4 国 + FRA 缓冲，全程完 🎉</div>
+
+</body>
+</html>
