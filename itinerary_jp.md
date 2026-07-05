@@ -1,12 +1,13 @@
 # 2026 夏 ヨーロッパ 5 か国 22 日間 旅程書（日本語版）
 
 > **バージョン**：v4.8.5（2026-06-06 — ホテル 7/8-7/30 **11 軒 22 泊すべて予約完了**；サントリーニ honeymoon 3 軒予約済み；多くが原計画と異なる物件を実選択；**v4.8.3** Zurich 宿泊復活；**v4.8.4** JW Marriott が Roomers Frankfurt 代替；**v4.8.5** Belvedere Wengen 補予約 + スイス day-by-day「シミュレーション A」確定）
+> ⚠️ **v5.3（2026-07-05）UA 旅程の重大変更**：7/16 FCO→ATH→JTR が United の便変更で waitlist + 乗継不可能に。電話で再確定した新旅程 = **AZ722 7/15 21:50 FCO → 7/16 00:45 ATH + A3368（変更なし）**（同 PNR AZZ0QN）。**ローマ Sheraton Roma Parco de' Medici はキャンセル済み**、ローマ区間は Termini 到着後そのまま FCO へ直行、市内観光・宿泊なし。**v5.4（2026-07-05）**：アテネ空港付近ホテルを予約完了 **Athens Airport Living Spaces**（Booking.com #5745.404.178）；Pierluigi 20:00 ディナーは**ユーザーがオンラインで既にキャンセル**、7/15 夜は FCO 空港ビジネスラウンジで食事に変更。詳細は下記「ローマ」「サントリーニ移動日」day-by-day 参照。
 > **同行**：成人 2 名
 > **航空**：✅ 国際線全予約済み（EK + UA + Vueling + SWISS + JL408）
 > **イタリア高速鉄道**：✅ Frecciarossa Business 3 区間予約済み（ミラノ→ヴェネツィア / ヴェネツィア→フィレンツェ / フィレンツェ→ローマ）
 > **欧州滞在合計**：22 泊（7/8 実際到着 + 7/30 出発）
 > **イタリア都市配分（v4.6 確定）**：ミラノ 3N + ヴェネツィア 2N + フィレンツェ 2N + ローマ 1N = 8N
-> **ホテル構成**：v4.8.5 → **11 軒全予約 22N**（ミラノ 3N + ヴェネツィア 2N + フィレンツェ 2N + ローマ 1N + サントリーニ 4N + バルセロナ 5N + チューリッヒ 1N + **Wengen 2N** + フランクフルト 2N）
+> **ホテル構成**：v5.4 → **11 軒全予約 22N**（ミラノ 3N + ヴェネツィア 2N + フィレンツェ 2N + ~~ローマ 1N~~❌キャンセル済み + アテネ 1N（Athens Airport Living Spaces）+ サントリーニ 4N + バルセロナ 5N + チューリッヒ 1N + **Wengen 2N** + フランクフルト 2N）
 > **メイン索引**：[`INDEX.md`](INDEX.md) / [`INDEX_jp.md`](INDEX_jp.md)（同期協定 + 全明細）
 > **中国語版**：[`itinerary.md`](itinerary.md)（マスター版、本日本語版と同期維持）
 > **TODO 進捗**：[`tasks/todo_current.md`](tasks/todo_current.md)
@@ -77,7 +78,7 @@
 | 区間 | 日付 | 路線 | 便名 | PNR | 実時刻（現地）|
 |---|---|---|---|---|---|
 | 出発 | 2026-07-08（水）| HND T3 → DXB T3 → MXP T1 | EK313 + EK091 | **M8NHD2** | **00:05 → 05:40 / 15:35 → 20:15** ⚠️ 同暦日 |
-| 区間 1 | 2026-07-16（木）| FCO T1 → ATH → JTR | AZ720 + A3368 | **AZZ0QN** | 08:15 → 11:10 / 15:05 → 15:55 |
+| 区間 1 | 2026-07-15/16（水/木）⚠️変更 | FCO T1 → ATH → JTR | AZ722 + A3368 | **AZZ0QN** | 7/15 21:50 → 7/16 00:45 / 7/16 15:05 → 15:55 |
 | 区間 2 | 2026-07-20（月）| JTR → BCN T1 | VY3315 | **EKHTKG** | 10:00 → 12:20 |
 | 区間 3 | 2026-07-25（土）| BCN T1 → ZRH | LX1955 (A321) | **7BWRK8** | 14:55 → **16:40** |
 | 帰路 | 2026-07-30（木）| FRA T3 → NRT T2 | JL408 | **EKWC4T** | **20:10 → 7/31 16:15**（13h05）|
@@ -231,28 +232,28 @@
 - **20:54 🌅 日没** + 街全体 + ライトアップした Ponte Vecchio を一望（ブルーアワー 21:00-21:30）→ 下山
 - **21:15 🍝 ディナー @ Zeb（ステーキ以外、7/13 と差別化）** — 🟡 **メールで 21:15 / 2 名予約リクエスト済み（火曜営業の確認待ち）**；Via San Miniato 2r（Porta San Miniato、Piazzale から坂を下り 7-10 分）、自家製生パスタ/ラザニアの Bib Gourmand 小店（~17 席）；☎️ +39 055 234 2864 / mangia@zebgastronomia.com｜⚠️ 火曜夜は 4-10 月の季節営業、厨房は 22:30 まで；代替 Il Santo Bevitore（23:30 まで、タクシー ~10 分）
 
-#### 7/15（水）Day 7 — フリータイム（午前）+ Frecciarossa ローマへ
+#### 7/15（水）Day 7 — フリータイム（午前）+ Frecciarossa ローマへ → **そのまま乗継でアテネへ（市内観光・宿泊なし）**⚠️v5.4変更
+> ⚠️ **v5.3/v5.4 変更（2026-07-05）**：UA が 7/16 早朝便 AZ720 を waitlist かつ乗継不可能な便に変更したため、電話で **AZ722 21:50 FCO 発**に変更。これによりローマ区間は「夕方観光+宿泊」から**Termini 到着後そのまま FCO へ直行**に変更、Sheraton Roma Parco de' Medici はキャンセル済み、**Pierluigi ディナーはユーザーがオンラインで既にキャンセル済み**。
 - 午前 **フリータイム**（朝寝坊 / 旧市街・宝飾・カフェの再訪 / 荷造り）— 元の Antinori ワイナリーは 7/15 が満席のため取消、午前は自由に
 - 昼 自由ランチ（SMN / 旧市街周辺）
 - 14:45 W Florence 荷物取り（チェックアウト後預け可）
 - 15:30 徒歩 3 分 → Firenze SMN
 - 🚄 **16:14 Frecciarossa 9543 Business → 17:49 Roma Termini**（1h35）
   - PNR **Y4U5A5**, 座席 2/3D (Miao) + 2/4D (Sakoda), €91.80/2 名
-- 17:55 Termini 出 → **タクシー 30 分** → **Sheraton Roma Parco de' Medici**（Viale Salvatore Rebecchini 145, EUR/Magliana, conf #71320466, Superior King Garden View, 24k pts + €15）— ⚠️ v4.8 注意：ホテルは FCO 隣接、Termini ではない、荷物先預け or 先観光後戻り
-  - **オプション A（推奨）**：18:00 タクシーで荷物預け → 19:00 タクシーで市内観光（車程 25 分）
-  - **オプション B（タクシー 1 段省略）**：小バッグで直接観光、22:30 後タクシーでホテル（大荷物は Termini 荷物預け €6/24h 可能）
-- **19:00 旧市街の夕方散歩（食前）**：Pantheon → Piazza Navona（~50 分；Pierluigi まで徒歩 8-12 分）
-- **20:00 🍷 ディナー @ Pierluigi** ✅ **予約済み**（conf **AB6J4UBUCBY** / SevenRooms、2 名、Piazza de' Ricci 144、[`Restaurants/7:15 Roma Pierluigi.pdf`](Restaurants/7:15%20Roma%20Pierluigi.pdf)）— 1938 年創業のシーフード名店 + ルネサンス小広場テラス；⚠️ キャンセルは ≥24h 前、さもなくば €50/人（店にテラス席を確認/リクエスト）
-- **21:45 食後の夜散歩**：Trevi Fountain（夜のライトアップが最高）→ Spanish Steps（7 月日没 20:45、夜景）
-- 22:45 タクシー ~30 分で Sheraton Parco de' Medici に戻る（店がタクシー手配可；翌朝早 FCO 便）
+- ❌ ~~17:55 Termini 出 → タクシー 30 分 → Sheraton Roma Parco de' Medici~~ **ホテルはキャンセル済み**（v5.3）
+- **18:00 頃 Roma Termini → FCO T1**（Leonardo Express ~32分 またはタクシー）— 国際線ビジネスクラスは 2 時間前チェックイン推奨
+- **18:45-19:00 FCO T1 到着** → チェックイン + セキュリティ → **✅ 19:00 から ITA ラウンジで夕食/休憩**（Pierluigi はキャンセル済み、ディナーは空港ビジネスラウンジで確定）
+- ✈️ **21:50 AZ722 FCO T1 → 7/16 00:45 ATH**（Business I、ITA Airways 実運航）
 
-#### 7/16（木）Day 8 — イタリア離れサントリーニへ（移動日）— v4.8 最適化：FCO 隣接で朝の流れ大幅短縮
-- **06:30 起床 → 07:00 Sheraton Parco de' Medici チェックアウト**（v4.8 利点：原 St. Regis Rome 案より起床 1.5h 遅い）
-- 07:00-07:15 **タクシー 10-15 分 → FCO T1**（ホテルに FCO シャトル有り、フロントで確認）— v4.8：Leonardo Express 不要
-- 07:15-08:00 ITA ビジネス優先チェックイン + セキュリティ + ITA ラウンジ朝食
-- ✈️ **08:15 AZ720 FCO T1 → 11:10 ATH**（Business I, 2h55, ITA 実運航）
-- **11:10-15:05 ATH 乗継 3h55** — Aegean Star Lounge（Star Gold + Business 二重特典）
-- ✈️ **15:05 A3368 ATH → 15:55 JTR**（Business I, 50 分、Aegean 実運航）
+#### 7/16（木）Day 8 — 深夜アテネ到着 + 日中はアテネ付近で休養 → サントリーニへ（移動日）⚠️v5.4変更
+- ✈️ **00:45 AZ722 ATH 到着**（7/16 未明、実際は 7/15 21:50 FCO 発）
+- 00:45-01:15 出国 + 荷物受取 → **Athens Airport Living Spaces** へ（Spata、8 Αγίου Δημητρίου, 19004；空港付近アパートメントホテル、所要 15 分未満の見込み）
+- **01:15 頃チェックイン**（conf **5745.404.178**、PIN **0816**、Superior Studio、ソファベッド+クイーンベッド）— 予約上のチェックインは 7/15 15:00 からだが、同一予約内で深夜到着に対応
+- 未明-午前 **ホテルで休養**（時差 + 長時間フライトの疲れを癒す）
+- **11:00 チェックアウト**（既定のチェックアウト時刻）
+- 11:00-14:00 頃 **フリータイム**（Spata は ATH 空港からごく近いため、ホテル周辺や共用スペースで休憩、または早めに空港ラウンジへ；⚠️ 変更・返金不可の予約のためレイトチェックアウト交渉は不可）
+- 午後 **ATH 空港へ移動、A3368 のチェックイン + セキュリティ**
+- ✈️ **15:05 A3368 ATH → 15:55 JTR**（Business I, 50 分、Aegean 実運航、変更なし）
 - 16:30 JTR 出国 + 荷物（小空港早い）
 - 16:30 専用車 30 分 → Oia（事前 driver 予約）
 - **17:00 Mystique Oia チェックイン**（**ウェットアルーアスイート**、conf #85281803、324k pts；チタンアップグレード email 6/1-6/8 ウィンドウ）
@@ -421,19 +422,20 @@
 | 2 | 7/9 (木) | ミラノ Brera | **Casa Brera, a Luxury Collection Hotel** | Luxury Collection | ✅ Cat 8 | 2 | 246k pts + €48 | ✅ 予約 #71361226 |
 | 3 | 7/11 (土) | ヴェネツィア Cannaregio | **AC Hotel Venezia** | AC | ✅ Cat 6 | 2 | 146k pts + €14 | ✅ 予約 #71335812 |
 | 4 | 7/13 (月) | フィレンツェ | **W Florence** | W | ✅ Cat 7 | 2 | 182k pts + €32 | ✅ 予約 #71329387 |
-| 5 | 7/15 (水) | ローマ EUR/FCO | **Sheraton Roma Parco de' Medici** | Sheraton | ✅ Cat 3 | 1 | 24k pts + €15 | ✅ 予約 #71320466 |
+| ❌ | ~~7/15 (水)~~ | ~~ローマ EUR/FCO~~ | ~~Sheraton Roma Parco de' Medici~~ | ~~Sheraton~~ | — | ~~1~~ | — | 🔴 **キャンセル済み**（v5.3）|
+| 5 | 7/15 (水) | アテネ Spata（空港付近）| **Athens Airport Living Spaces** | 独立アパートメントホテル | ❌ | 1 | €140.60（¥25,948、変更・返金不可）| ✅ 予約 #5745.404.178 |
 | 6 | 7/16 (木) | サントリーニ Oia | **Mystique LC** | Luxury Collection | ✅ Cat 8 peak | 2 | 324k pts (ウェットアルーアスイート) | ✅ 予約 #85281803 |
 | 7 | 7/18 (土) | サントリーニ Pyrgos | **Sandblu Santorini, LXR Hotels & Resorts** | LXR | ✅（Amex 旅程 FHR）| 2 | ¥244,075 + FHR US$125 | ✅ 予約 #9088112650151 |
 | 8 | 7/20 (月) | バルセロナ Born | **The Barcelona EDITION** | EDITION | ✅ Cat 7-8 | 5 | 509.5k pts + €132（4N 引換証 125.5k 節約）| ✅ 予約 #71415491 |
 | 9 | 7/25 (土) | チューリッヒ | **Zurich Marriott Hotel** | Marriott | ✅ | 1 | 510 CHF（会員フレキシブル）| ✅ 予約 #71467622 |
 | 10 | **7/26 (日)** | **Wengen**（ユングフラウ区）| **Grand Hotel Belvedere, a Beaumier Hotel** | Beaumier 5★（独立、2024 全面リノベ）| ❌ | **2** | ¥289,456 / CHF 1,434（Deluxe – Jungfrau View, 朝食付、不可退改）| ✅ 予約 #5963.885.781 |
 | 11 | 7/28 (火) | フランクフルト Innenstadt | **JW Marriott Hotel Frankfurt** | JW Marriott | ✅ | 2 | 66k pts + 1 引換証（66k 節約）| ✅ 予約 #71632783 |
-| | | | | **合計** | **10/11 マリオット系**（Wengen Belvedere のみ独立）| **22** | | |
+| | | | | **合計** | **9/11 マリオット系**（Wengen Belvedere + Athens Living Spaces 独立）| **22** | | |
 
-**予約済み統計**：**11 軒 22 泊全予約** / 総 Bonvoy ポイント **1,542,500 pts** + 現金税 **€247** + Sandblu **¥244,075** + Zurich **510 CHF** + Belvedere **CHF 1,434.32（¥289,456）** / 総節約引換証 **191,500 pts**（EDITION 4N + JW Marriott 1N）
+**予約済み統計**：**11 軒 22 泊 全予約完了** / 総 Bonvoy ポイント **1,518,500 pts**（ローマ 24k pts 返還済み）+ 現金税 **€232** + Sandblu **¥244,075** + Zurich **510 CHF** + Belvedere **CHF 1,434.32（¥289,456）** + Athens **€140.60（¥25,948）** / 総節約引換証 **191,500 pts**（EDITION 4N + JW Marriott 1N）
 
 ### チタン SNA 申請（各軒個別）
-- **確率高**：Casa Brera / AC Venezia / W Florence / Sheraton Roma Parco de' Medici / EDITION（淡 / 低 occupancy / suite 在庫多）
+- **確率高**：Casa Brera / AC Venezia / W Florence / EDITION（淡 / 低 occupancy / suite 在庫多；~~Sheraton Roma Parco de' Medici~~ はキャンセル済み）
 - **難しい**：Mystique（夏ピーク 24h Aura/Allure 難）— 金で email アップグレード試行
 - **オプション**：Sheraton MXP 1N（空港ホテル特別不要）
 - Sandblu LXR：Amex FHR で部屋アップ + US$125 クレ含む（SNA 不要）
@@ -466,7 +468,7 @@
 | **7/12 (日) 夜** | ヴェネツィア | **Osteria al Portego** | bacari 気軽 | ✅ **予約済み**（AC Hotel フロント代行確認、19:00、2026-07-05）|
 | **7/13 (月) 19:30** | フィレンツェ Oltrarno | **All'Antico Ristoro di' Cambi**（妻のお気に入り）| 🥩 ビステッカ | ✅ **予約済み** 2 名（Di Miao, confermata）；食後 Ponte Santa Trinita ライトアップ |
 | **7/14 (火) 21:15** | フィレンツェ Oltrarno | **Zeb**（San Miniato、坂下すぐ）| 🍝 ステーキ以外（生パスタ）| 🟡 **メール予約リクエスト済み（確認待ち）** 2 名；Piazzale 日没後すぐ |
-| **7/15 (水) 夜 20:00** | ローマ 旧市街 | **Pierluigi**（Piazza de' Ricci）| シーフード + テラス | ✅ **予約済み** 2 名（conf AB6J4UBUCBY）；⚠️ キャンセル ≥24h、さもなくば €50/人 |
+| ~~7/15 (水) 夜 20:00~~ | ~~ローマ 旧市街~~ | ~~Pierluigi~~ | ~~シーフード + テラス~~ | ❌ **2026-07-05 キャンセル済み**（ユーザーがオンライン取消、新旅程との重複のため）；7/15 夜は FCO 空港ビジネスラウンジで食事に変更 |
 | **7/17 (金) 18:30** | サントリーニ Imerovigli | **Lycabettus @ Andronis** | cliff fine dining | ✅ **予約済み** ref `1Iq_055...` — Cliff Area / honeymoon / front-row request；⚠️ 130 段階段なしエレベーター |
 | **7/18 (土) 13:00 昼** | サントリーニ Ammoudi Bay | **Sunset Ammoudi** | シーフードランチ | ✅ **予約済み** ref `QMfr8X2...` — front-row sea view リクエスト；赤崖青海日中対比 |
 | **7/18 (土) 夜** | サントリーニ Imerovigli | ~~La Maison @ Imerovigli~~ | ~~**1★**~~ | ❌ v4.8 Lycabettus 7/17 + Sunset Ammoudi 7/18 昼に置換（La Maison 予約せず）|
@@ -483,7 +485,7 @@
 | 1 | 7/11 (土) | ミラノ → ヴェネツィア | ✅ **Frecciarossa 9741 Business**, Milano Centrale 15:45 → Venezia S. Lucia 18:12（PNR Y8JE9N, 座 1/16A+B, €63.80/2 名）| 予約済み |
 | 2 | 7/13 (月) | ヴェネツィア → フィレンツェ | ✅ **Frecciarossa 9427 Business**, Venezia S. Lucia 15:26 → Firenze SMN 17:39（PNR Y8J8TN, 座 2/16A+B, €119.80/2 名）| 予約済み |
 | 3a | 7/15 (水) PM | フィレンツェ → ローマ | ✅ **Frecciarossa 9543 Business**, Firenze SMN 16:14 → Roma Termini 17:49（PNR Y4U5A5, 座 2/3D+4D, €91.80/2 名）| 予約済み |
-| 3b | 7/16 早 | ローマ → FCO → ATH → JTR | ✅ **予約済み PNR AZZ0QN**（UA マイル）：Leonardo Express 06:15 + ITA AZ720 08:15-11:10 + Aegean A3368 15:05-15:55、**双区間 Business** | — |
+| 3b | 7/15 夜-7/16 | ローマ → FCO → ATH（宿泊）→ JTR | ⚠️ **v5.3/v5.4 便変更**：✅ **PNR AZZ0QN**（UA マイル）：Roma Termini→FCO Leonardo Express + **AZ722 7/15 21:50-7/16 00:45**（元 AZ720 08:15 は waitlist+乗継不可能で無効化）+ **Athens Airport Living Spaces** 1 泊（予約済み #5745.404.178）+ Aegean A3368 15:05-15:55、**双区間 Business** | — |
 | 4 | 7/20 (月) | サントリーニ → バルセロナ | ✅ **VY3315 JTR 10:00 → BCN T1 12:20**（PNR EKHTKG, Fly Grande €356.10/2 名, 座 1A/B Space One）| vueling.com |
 | 5 | 7/25 (土) | バルセロナ → チューリッヒ | ✅ **SWISS LX1955 BCN T1 14:55 → ZRH 16:40**（PNR 7BWRK8, A321, €566.20/2 名 Economy V, 座 16D/E）| 予約済み |
 | 6a | 7/25 (土) PM | ZRH 空港 → Zurich Marriott | トラム 11/14 号 Tram またはタクシー（5 分）→ Neumuehlequai 42（v4.8.3：当日 Lauterbrunnen へ行かず、市内泊）| 現場 |
@@ -499,7 +501,7 @@
 | 区間 | 航空会社 | 連盟 | ユーザーマイル | 推奨 |
 |---|---|---|---|---|
 | 7/8 HND→DXB→MXP | Emirates EK | 非盟 | ✅ **JAL Award**（partner、使用済み）| ¥47,430 税/人 |
-| 7/16 FCO→ATH→JTR | ITA + Aegean A3 | Star | ✅ **UA MileagePlus**（使用済み）| 90k UA + $122.80/2 名 Business |
+| 7/15-16 FCO→ATH→JTR | ITA (AZ722) + Aegean A3 | Star | ✅ **UA MileagePlus**（使用済み、⚠️v5.3 便変更で再発行）| 90k UA + $122.80/2 名 Business |
 | 7/20 JTR→BCN | Vueling VY | **非盟** | ❌ 不可交換 | ✅ 現金 Fly Grande €356.10/2 名 |
 | 7/25 BCN→ZRH | SWISS LX | Star | ✅ **PayPal 現金**（ANA 空席なし fallback）| €566.20/2 名 |
 | 7/30 FRA→NRT | JL408 | Oneworld | ✅ **JAL Award**（使用済み）| ¥52,090 税/人 ビジネス |

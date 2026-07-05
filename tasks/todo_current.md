@@ -1,11 +1,20 @@
 # ✅ 2026 夏欧洲行 — 当前行动 TODO（live checklist）
 
-> **更新**：2026-07-05 · **⚠️ 今天距出发（7/8）只剩 3 天**（清理米兰旧待办：Cracco/Seta 米其林 · Last Supper · Quadrilatero 旗舰店预约 —— 全部按用户确认删除，因太太 v5.0 重做版已无这些安排；Trattoria Milanese 7/11 午餐确认**无在线订位**，需电话 +39 02 8645 1991；7/9 Sheraton Malpensa→Casa Brera 07:30 taxi 已加入 7/8 当晚 check-in 备忘）
+> **更新**：2026-07-05 · **⚠️ 今天距出发（7/8）只剩 3 天**；UA 行程改签善后已全部处理完毕（AZ722 改签票 + 雅典酒店 + Pierluigi 取消，详见下方「✅ UA 改签善后」区块）
 > 取代旧 `todo.md`（v4.2 历史版，已停用）
 > 已订全貌见 `INDEX.md`；行程见 `itinerary.md`
 >
-> **已 100% 锁定**：✈️ 机票 5 段 · 🚄 火车 4 段 · 🏨 酒店 11 家 22 晚 · 🍽️ 圣托里尼餐 3 家 · 🎟️ 瑞士景点 2（Gelmerbahn + 少女峰）
-> **下面全是"还需行动"的项** —— 重点是 🔴 已临近预订窗口的米其林 / 景点 / 私车。
+> **已锁定**：✈️ 机票 5 段（含 AZZ0QN 改签重发）· 🚄 火车 4 段 · 🏨 酒店 11 家 22 晚全订 · 🍽️ 圣托里尼餐 3 家 · 🎟️ 瑞士景点 2（Gelmerbahn + 少女峰）
+> **下面全是"还需行动"的项** —— 重点是已临近预订窗口的米其林 / 景点 / 私车。
+
+---
+
+## ✅ UA 改签善后（v5.3/v5.4 — 2026-07-05，已全部处理完毕）
+
+- [x] ✅ **AZZ0QN 改签票已入库**：`Tickets/7:15-7:16 FCO→ATH→JTR.pdf`（AZ722 7/15 21:50 FCO→7/16 00:45 ATH + A3368 15:05→15:55 不变），旧票 PDF 已删除
+- [x] ✅ **雅典（ATH）机场附近酒店已订**：**Athens Airport Living Spaces**（Spata，Booking.com #5745.404.178，PIN 0816，7/15 15:00-7/16 11:00，€140.60 不可退改），`Hotels/7:15-7:16 Athens Airport Living Spaces.pdf` 已入库
+- [x] ✅ **Pierluigi 7/15 20:00 晚餐已取消**（用户在线取消）；7/15 晚改为 FCO 机场商务舱贵宾厅用餐
+- 全部 6 处文件（INDEX.md / INDEX_jp.md / itinerary.md / itinerary_jp.md / memory / 本文件）均已同步
 
 ---
 
@@ -35,10 +44,9 @@
 - [x] ✅ **威尼斯 al Portego 已订**（7/12 19:00）；🕐 **7/11 晚餐改 Hostaria Osottoosopra 待确认**（详见上「威尼斯段收尾」；v4.9 改随性 bacari，放弃旧 Osteria alle Testiere）
 - [x] ✅ **佛罗伦萨 ビステッカ — All'Antico Ristoro di' Cambi 已订**（7/13 周一 **19:30** · 2 位 · 预约人 Di Miao · confermata 2026-06-28；[`Restaurants/7:13 Firenze Cambi.pdf`]）
 - [x] ~~巴塞罗那 Lasarte（3★）7/23~~ — **❌ 2026-07-05 用户放弃米其林**：7/23 晚不订店，Born 附近看心情 walk-in
-- [ ] 🟡 米兰 Trippa 或 Ratanà（7/9 晚，当代米兰菜）
 - [x] ~~威尼斯 Antiche Carampane / Burano Gatto Nero~~（v4.9 放弃：威尼斯改 bacari，且只去 Murano 不去 Burano）
 - [ ] 🟡 **佛罗伦萨 Zeb（7/14 周二 21:15 · 2 位）— 已发邮件预约，待店家回复确认**（⚠️ 周二晚是 4-10 月季节营业，需店家点头；☎️ +39 055 234 2864 / mangia@zebgastronomia.com）。收到确认后丢给 Claude 归档 + 标 ✅
-- [x] ✅ **罗马 Pierluigi 已订**（7/15 周三 **20:00** · 2 位 · conf AB6J4UBUCBY · Piazza de' Ricci 露台海鲜；[`Restaurants/7:15 Roma Pierluigi.pdf`]）⚠️ 取消 ≥24h 否则 €50/人
+- [x] ~~罗马 Pierluigi~~ ❌ **已取消**（7/15 周三 20:00 · 用户在线取消，与 UA 改签后新行程冲突；7/15 晚改机场贵宾厅用餐）
 - [ ] 🔴 **法兰克福 fine dining 换店订位（7/29 晚）**：~~Lafleur~~ **❌ 夏休 2026-07-06 ~ 08-13（官网确认），行程期间不营业**；法兰克福 7 月底集体 Sommerpause（MAIN TOWER 7/20-8/9 关、Gustav/Weinsinn 已永久歇业）。候选（需逐家确认夏休再订）：① **RAUSCH**（2026 新晋 2★，周二-六 18:30 起）② **Lohninger**（2026 新晋 1★，奥地利菜，Main 河边 Sachsenhausen，周二-六）③ Carmelo Greco（1★ 意大利菜，刚离意 8 天不推荐重复）
 
 ---
@@ -70,7 +78,6 @@
 
 ## 🚗 私人接送 / 地面交通（需提前订）
 
-- [ ] 🟡 **7/10 Serravalle Outlet 私车 RT**（米兰往返，14 天前 → 6/26 前）
 - [ ] 🟡 **7/16 圣托里尼机场/港 → Mystique（Oia）接送**（抵岛 15:55，找 Mystique 安排）
 - [ ] 🟡 **7/20 Sandblu → 圣托里尼机场 接送**（赶 VY3315 10:00 起飞，前一晚确认）
 - [ ] 🟢 7/26 瑞士私人司机 —— **你处理中**（把上面瑞士段时间约束给到司机）
@@ -79,7 +86,7 @@
 
 ## 🏨 酒店福利（Bonvoy 钛金）
 
-- [ ] 🟡 **提交 SNA 套房升级**（释放期入住前 5 天）：Casa Brera / AC Venezia / W Florence / Sheraton Roma Parco / Barcelona EDITION / JW Marriott Frankfurt
+- [ ] 🟡 **提交 SNA 套房升级**（释放期入住前 5 天）：Casa Brera / AC Venezia / W Florence / Barcelona EDITION / JW Marriott Frankfurt（~~Sheraton Roma Parco~~ 已取消）
 - [ ] 🟢 确认 **Mystique 升级**（已订 Wet Allure Suite = 目标房型，确认无需再发 email）
 - [ ] 🟢 各店标注 **honeymoon / 纪念**，争取迎宾（圣岛 3 餐已写）
 
@@ -98,8 +105,8 @@
 
 ## ✅ 已完成（速查）
 
-- ✈️ 机票 5 段全开票（HND→MXP / FCO→JTR / JTR→BCN / BCN→ZRH / FRA→NRT）
+- ✈️ 机票 5 段全开票（HND→MXP / FCO→JTR[⚠️v5.3改签为AZ722] / JTR→BCN / BCN→ZRH / FRA→NRT）
 - 🚄 意大利 Frecciarossa 3 段 + DB ICE（7/28 Interlaken→Frankfurt）
-- 🏨 11 家 22 晚（米 3 + 威 2 + 佛 2 + 罗 1 + 圣 4 + 巴 5 + 苏黎世 1 + Wengen 2 + 法兰 2）
+- 🏨 11 家 22 晚全订（米 3 + 威 2 + 佛 2 + ~~罗 1~~❌已取消→雅典 1（Athens Airport Living Spaces）+ 圣 4 + 巴 5 + 苏黎世 1 + Wengen 2 + 法兰 2）
 - 🍽️ 圣托里尼 3 餐（Lycabettus 7/17 / Sunset Ammoudi 7/18 午 / Kastro 7/19 日落）
 - 🎟️ 瑞士 Gelmerbahn 7/26（12:12/14:00）+ Jungfraujoch 7/27（Good Morning 07:46↔12:38）

@@ -1,12 +1,13 @@
 # 2026 夏 欧洲 5 国 22 天行程书
 
 > **版本**：v4.8.5（2026-06-06 — 酒店 7/8-7/30 **全订 11 家 22N**；圣托里尼 honeymoon 3 餐已订；多家与原计划不同物业实际选择；**v4.8.3** Zurich 过夜回归；**v4.8.4** JW Marriott 替代 Roomers Frankfurt；**v4.8.5** Belvedere Wengen 补订 + 瑞士 day-by-day 锁"模拟 A"）
+> ⚠️ **v5.3（2026-07-05）UA 行程重大变更**：7/16 FCO→ATH→JTR 被 United 改签为 waitlist + 转机断裂，电话改签后确认新行程 **AZ722 7/15 21:50 FCO → 7/16 00:45 ATH + A3368 不变**（同 PNR AZZ0QN）。**罗马 Sheraton Roma Parco de' Medici 已取消**，罗马段改为抵 Termini 后直接转 FCO、不进城不过夜。**v5.4（2026-07-05）**：雅典机场附近酒店已订妥 **Athens Airport Living Spaces**（Booking.com #5745.404.178）；Pierluigi 20:00 晚餐**用户已在线取消**，7/15 晚改为机场商务舱贵宾厅用餐。详见下方「罗马」「圣托里尼转场」day-by-day。
 > **同行**：2 位成人
 > **航司**：✅ 全部跨国机票已订（EK + UA + Vueling + SWISS + JL408）
 > **意大利高铁**：✅ 3 段 Frecciarossa Business 已订（米→威 / 威→佛 / 佛→罗）
 > **总在欧**：22 晚（7/8 实际抵 + 7/30 离）
 > **意大利城市分配（v4.6 锁版）**：米兰 3N + 威尼斯 2N + 佛罗伦萨 2N + 罗马 1N = 8N
-> **酒店组合**：v4.8.5 → **11 家全订 22N**（米兰 3N + 威 2N + 佛 2N + 罗 1N + 圣 4N + 巴 5N + 苏黎世 1N + **Wengen 2N** + 法兰克福 2N）
+> **酒店组合**：v5.4 → **11 家全订 22N**（米兰 3N + 威 2N + 佛 2N + ~~罗 1N~~❌已取消 + 雅典 1N（Athens Airport Living Spaces）+ 圣 4N + 巴 5N + 苏黎世 1N + **Wengen 2N** + 法兰克福 2N）
 > **酒店索引**：`INDEX.md`（同步协议 + 完整 8 家明细）
 > **TODO 进度**：见 `tasks/todo.md`
 
@@ -75,7 +76,7 @@
 | 航段 | 日期 | 路线 | 航班 | PNR | 实际时刻（当地）|
 |---|---|---|---|---|---|
 | 出发 | 2026-07-08（三）| HND T3 → DXB T3 → MXP T1 | EK313 + EK091 | **M8NHD2** | **00:05 → 05:40 / 15:35 → 20:15** ⚠️ 同日历日 |
-| 段 1 | 2026-07-16（四）| FCO T1 → ATH → JTR | AZ720 + A3368 | **AZZ0QN** | 08:15 → 11:10 / 15:05 → 15:55 |
+| 段 1 | 2026-07-15/16（三/四）⚠️改签 | FCO T1 → ATH → JTR | AZ722 + A3368 | **AZZ0QN** | 7/15 21:50 → 7/16 00:45 / 7/16 15:05 → 15:55 |
 | 段 2 | 2026-07-20（一）| JTR → BCN T1 | VY3315 | **EKHTKG** | 10:00 → 12:20 |
 | 段 3 | 2026-07-25（六）| BCN T1 → ZRH | LX1955 (A321) | **7BWRK8** | 14:55 → **16:40** |
 | 返程 | 2026-07-30（四）| FRA T3 → NRT T2 | JL408 | **EKWC4T** | **20:10 → 7/31 16:15**（13h05）|
@@ -229,28 +230,28 @@
 - **20:54 🌅 日落** + 全城 + 亮灯 Ponte Vecchio 俯瞰（蓝调 21:00-21:30）→ 下山
 - **21:15 🍝 晚餐 @ Zeb（非牛排，跟 7/13 错开）** — 🟡 **已发邮件订 21:15 / 2 位（待 Zeb 回复确认周二营业）**；Via San Miniato 2r（Porta San Miniato，从 Piazzale 下山仅 7-10min），鲜意面/千层面 Bib Gourmand 小店（~17 座）；☎️ +39 055 234 2864 / mangia@zebgastronomia.com｜⚠️ 周二晚是 4-10 月季节加场，厨房到 22:30；备选 Il Santo Bevitore（开到 23:30，打车 ~10min）
 
-#### 7/15（三）Day 7 — 自由行动（上午）+ Frecciarossa 转罗马
+#### 7/15（三）Day 7 — 自由行动（上午）+ Frecciarossa 转罗马 → **直接转机赴雅典（不进城、不过夜）**⚠️v5.4改
+> ⚠️ **v5.3/v5.4 变更（2026-07-05）**：UA 把 7/16 早班 AZ720 改签成 waitlist 且转机断裂，电话改签为 **AZ722 21:50 FCO 出发**。因此罗马段从"傍晚 sightseeing + 过夜"整个改为**抵 Termini 后直接转场 FCO**，Sheraton Roma Parco de' Medici 酒店已取消，**Pierluigi 晚餐用户已在线取消**。
 - 上午 **自由行动**（睡懒觉 / 补逛老城·珠宝·咖啡馆 / 打包行李）— 原 Antinori 酒庄因 7/15 当天全约满取消，腾出整个上午自由安排
 - 中午 自由午餐（SMN / 老城附近）
 - 14:45 W Florence 取行李（退房可寄存）
 - 15:30 步行 3min → Firenze SMN
 - 🚄 **16:14 Frecciarossa 9543 Business → 17:49 Roma Termini**（1h35）
   - PNR **Y4U5A5**, 座 2/3D (Miao) + 2/4D (Sakoda), €91.80/2 人
-- 17:55 出 Termini → **taxi 30min** → **Sheraton Roma Parco de' Medici**（Viale Salvatore Rebecchini 145, EUR/Magliana, conf #71320466, Superior King Garden View, 24k pts + €15）— ⚠️ v4.8 注意：酒店紧邻 FCO 不在 Termini，先寄行李 or 先 sightseeing 后回
-  - **选项 A（推荐）**：18:00 taxi 寄行李 → 19:00 taxi 回市中心 sightseeing（车程 25min）
-  - **选项 B（省 1 段 taxi）**：直接背小包 sightseeing，22:30 后再 taxi 回酒店（行李大可寄 Termini 行李房 €6/24h）
-- **19:00 老城傍晚漫步（餐前）**：Pantheon → Piazza Navona（~50min；离 Pierluigi 步行 8-12min）
-- **20:00 🍷 晚餐 @ Pierluigi** ✅ **已订**（conf **AB6J4UBUCBY** / SevenRooms，2 位，Piazza de' Ricci 144，[`Restaurants/7:15 Roma Pierluigi.pdf`](Restaurants/7:15%20Roma%20Pierluigi.pdf)）— 1938 海鲜名店 + 文艺复兴小广场露台；⚠️ 取消需 ≥24h，否则 €50/人（建议向店家确认/要露台位）
-- **21:45 餐后夜游**：Trevi Fountain（夜间亮灯最美）→ Spanish Steps（7 月日落 20:45，夜景灯光）
-- 22:45 taxi ~30min 回 Sheraton Parco de' Medici（店家可代叫车；次日早 FCO 航班）
+- ❌ ~~17:55 出 Termini → taxi 30min → Sheraton Roma Parco de' Medici~~ **酒店已取消**（v5.3）
+- **18:00 左右 Roma Termini → FCO T1**（Leonardo Express ~32min 或 taxi）— 国际商务舱建议 ≥2h 前到场值机
+- **18:45-19:00 抵 FCO T1** → check-in + 安检 → **✅ 19:00 起 ITA Lounge 晚餐/休息**（Pierluigi 已取消，晚餐定案在机场商务舱贵宾厅解决）
+- ✈️ **21:50 AZ722 FCO T1 → 7/16 00:45 ATH**（Business I，ITA Airways 实承运）
 
-#### 7/16（四）Day 8 — 离意飞圣托里尼（转场日）— v4.8 优化：紧邻 FCO 大幅缩短早晨流程
-- **06:30 起 → 07:00 Sheraton Parco de' Medici 退房**（v4.8 优势：起床晚 1.5h vs 原 St. Regis Rome 方案）
-- 07:00-07:15 **taxi 10-15min → FCO T1**（酒店有 FCO shuttle 可询前台）— v4.8：不再需要 Leonardo Express
-- 07:15-08:00 ITA 商务舱优先值机 + 安检 + ITA Lounge 早餐
-- ✈️ **08:15 AZ720 FCO T1 → 11:10 ATH**（Business I, 2h55, ITA 实承运）
-- **11:10-15:05 ATH 转机 3h55** — Aegean Star Lounge（Star Gold + Business 双重权益）
-- ✈️ **15:05 A3368 ATH → 15:55 JTR**（Business I, 50min, Aegean 实承运）
+#### 7/16（四）Day 8 — 凌晨抵雅典 + 白天在雅典附近休整 → 飞圣托里尼（转场日）⚠️v5.4改
+- ✈️ **00:45 AZ722 抵 ATH**（7/16 凌晨，实际是 7/15 21:50 从 FCO 起飞）
+- 00:45-01:15 出关 + 取行李 → 前往 **Athens Airport Living Spaces**（Spata，8 Αγίου Δημητρίου, 19004；机场附近公寓式酒店，车程预计 <15min）
+- **01:15 左右 check-in**（conf **5745.404.178**，PIN **0816**，Superior Studio，沙发床+Queen床）— 预订时段名义上是 7/15 15:00 起，深夜抵达在同一订单下入住
+- 凌晨-上午 **酒店休整补眠**（时差 + 长途飞行）
+- **11:00 酒店退房**（checkout 时段已定）
+- 11:00-14:00 左右 **自由活动**（Spata 距 ATH 机场很近，可在酒店周边或公共区休息，也可提早回机场用 lounge；⚠️ 不可退改订单，无法申请延迟退房）
+- 下午 **前往 ATH 机场，办理 A3368 值机 + 安检**
+- ✈️ **15:05 A3368 ATH → 15:55 JTR**（Business I, 50min, Aegean 实承运，未变）
 - 16:30 JTR 出关 + 行李（小机场快）
 - 16:30 私车 30min → Oia（提前预约 driver）
 - **17:00 Mystique Oia check-in**（**Wet Allure Suite**，conf #85281803，324k pts；钛金升级 email 6/1-6/8 窗口）
@@ -411,7 +412,9 @@
 
 ---
 
-## 🏨 酒店总览（v4.8.5 — 11 家全订 ✅）
+## 🏨 酒店总览（v5.4 — 11 家全订 22N ✅）
+
+> ⚠️ **v5.3/v5.4 变更**：原 #5 罗马 Sheraton Roma Parco de' Medici（1N）**已取消**（UA 改签致罗马段直接转机不过夜）。新增 **Athens Airport Living Spaces**（雅典机场附近，1N，已订）。
 
 | # | 日期 | 城市 | 物业 | 品牌 | 万豪 | 晚数 | 兑换 | 状态 |
 |---|---|---|---|---|---|---|---|---|
@@ -419,19 +422,20 @@
 | 2 | 7/9 (四) | 米兰 Brera | **Casa Brera, a Luxury Collection Hotel** | Luxury Collection | ✅ Cat 8 | 2 | 246k pts + €48 | ✅ 已订 #71361226 |
 | 3 | 7/11 (六) | 威尼斯 Cannaregio | **AC Hotel Venezia** | AC | ✅ Cat 6 | 2 | 146k pts + €14 | ✅ 已订 #71335812 |
 | 4 | 7/13 (一) | 佛罗伦萨 | **W Florence** | W | ✅ Cat 7 | 2 | 182k pts + €32 | ✅ 已订 #71329387 |
-| 5 | 7/15 (三) | 罗马 EUR/FCO | **Sheraton Roma Parco de' Medici** | Sheraton | ✅ Cat 3 | 1 | 24k pts + €15 | ✅ 已订 #71320466 |
+| ❌ | ~~7/15 (三)~~ | ~~罗马 EUR/FCO~~ | ~~Sheraton Roma Parco de' Medici~~ | ~~Sheraton~~ | — | ~~1~~ | — | 🔴 **已取消**（v5.3） |
+| 5 | 7/15 (三) | 雅典 Spata（机场附近）| **Athens Airport Living Spaces** | 独立公寓式酒店 | ❌ | 1 | €140.60（¥25,948，不可退改）| ✅ 已订 #5745.404.178 |
 | 6 | 7/16 (四) | 圣托里尼 Oia | **Mystique LC** | Luxury Collection | ✅ Cat 8 peak | 2 | 324k pts (Wet Allure Suite) | ✅ 已订 #85281803 |
 | 7 | 7/18 (土) | 圣托里尼 Pyrgos | **Sandblu Santorini, LXR Hotels & Resorts** | LXR | ✅（Amex 旅程 FHR）| 2 | ¥244,075 + FHR US$125 信用 | ✅ 已订 #9088112650151 |
 | 8 | 7/20 (一) | 巴塞罗那 Born | **The Barcelona EDITION** | EDITION | ✅ Cat 7-8 | 5 | 509.5k pts + €132（4N 兑换证省 125.5k）| ✅ 已订 #71415491 |
 | 9 | 7/25 (六) | 苏黎世 | **Zurich Marriott Hotel** | Marriott | ✅ | 1 | 510 CHF（会員フレキシブル）| ✅ 已订 #71467622 |
 | 10 | **7/26 (日)** | **Wengen**（少女峰区）| **Grand Hotel Belvedere, a Beaumier Hotel** | Beaumier 5★（独立，2024 全翻新）| ❌ | **2** | ¥289,456 / CHF 1,434（Deluxe – Jungfrau View, 含早, 不可退改）| ✅ 已订 #5963.885.781 |
 | 11 | 7/28 (火) | 法兰克福 Innenstadt | **JW Marriott Hotel Frankfurt** | JW Marriott | ✅ | 2 | 66k pts + 1 兑换证（省 66k）| ✅ 已订 #71632783 |
-| | | | | **合计** | **10/11 万豪系**（仅 Wengen Belvedere 独立）| **22** | | |
+| | | | | **合计** | **9/11 万豪系**（Wengen Belvedere + Athens Living Spaces 独立）| **22** | | |
 
-**已订统计**：**11 家 22 晚全订** / 总 Bonvoy 点数 **1,542,500 pts** + 现金税 **€247** + Sandblu **¥244,075** + Zurich **510 CHF** + Belvedere **CHF 1,434.32（¥289,456）** / 总省下兑换证 **191,500 pts**（EDITION 4N + JW Marriott 1N）
+**已订统计**：**11 家 22 晚全订** / 总 Bonvoy 点数 **1,518,500 pts**（罗马 24k pts 已退回）+ 现金税 **€232** + Sandblu **¥244,075** + Zurich **510 CHF** + Belvedere **CHF 1,434.32（¥289,456）** + Athens **€140.60（¥25,948）** / 总省下兑换证 **191,500 pts**（EDITION 4N + JW Marriott 1N）
 
 ### 钛金 SNA 提交（每家逐一）
-- **概率高**：Casa Brera / AC Venezia / W Florence / Sheraton Roma Parco de' Medici / EDITION（淡 / 低 occupancy / 较多 suite 库存）
+- **概率高**：Casa Brera / AC Venezia / W Florence / EDITION（淡 / 低 occupancy / 较多 suite 库存；~~Sheraton Roma Parco de' Medici~~ 已取消）
 - **难放**：Mystique（旺季夏 24h Aura/Allure 难得）— 钱不如尝试 email 升级
 - **可选**：Sheraton MXP 1N（机场酒店不必特别折腾）
 - Sandblu LXR：Amex FHR 已含房升 + US$125 信用（不需 SNA）
@@ -464,7 +468,7 @@
 | **7/12 (日) 晚** | 威尼斯 | **Osteria al Portego** | bacari 随性 | ✅ **已订**（AC Hotel 前台代订确认，19:00，2026-07-05）|
 | **7/13 (一) 19:30** | 佛罗伦萨 Oltrarno | **All'Antico Ristoro di' Cambi**（太太最爱）| 🥩 ビステッカ（佛式牛排）| ✅ **已订** 2 位（Di Miao, confermata）；餐后 Ponte Santa Trinita 老桥夜景 |
 | **7/14 (二) 21:15** | 佛罗伦萨 Oltrarno | **Zeb**（San Miniato，下山近）| 🍝 非牛排（鲜意面 Bib Gourmand）| 🟡 **已发邮件订（待确认）** 2 位；Piazzale 日落后下山即到 |
-| **7/15 (三) 晚 20:00** | 罗马 老城 | **Pierluigi**（Piazza de' Ricci）| 海鲜 + 露台 | ✅ **已订** 2 位（conf AB6J4UBUCBY）；⚠️ 取消 ≥24h 否则 €50/人 |
+| ~~7/15 (三) 晚 20:00~~ | ~~罗马 老城~~ | ~~Pierluigi~~ | ~~海鲜 + 露台~~ | ❌ **2026-07-05 已取消**（用户在线取消，与新行程冲突）；7/15 晚改 FCO 机场商务舱贵宾厅用餐 |
 | **7/17 (五) 18:30** | 圣托里尼 Imerovigli | **Lycabettus @ Andronis** | cliff fine dining | ✅ **已订** ref `1Iq_055...` — Cliff Area / honeymoon / front-row request；⚠️ 130 级楼梯无电梯 |
 | **7/18 (六) 13:00 午** | 圣托里尼 Ammoudi Bay | **Sunset Ammoudi** | 海鲜 lunch | ✅ **已订** ref `QMfr8X2...` — front-row sea view 请求；红崖蓝海日间对比 |
 | **7/18 (六) 晚** | 圣托里尼 Imerovigli | ~~La Maison @ Imerovigli~~ | ~~**1★**~~ | ❌ v4.8 改为 Lycabettus 7/17 + Sunset Ammoudi 7/18 午餐替代（不订 La Maison）|
@@ -481,7 +485,7 @@
 | 1 | 7/11 (六) | 米兰 → 威尼斯 | ✅ **Frecciarossa 9741 Business**, Milano Centrale 15:45 → Venezia S. Lucia 18:12（PNR Y8JE9N, 座 1/16A+B, €63.80/2 人）| 已订 |
 | 2 | 7/13 (一) | 威尼斯 → 佛罗伦萨 | ✅ **Frecciarossa 9427 Business**, Venezia S. Lucia 15:26 → Firenze SMN 17:39（PNR Y8J8TN, 座 2/16A+B, €119.80/2 人）| 已订 |
 | 3a | 7/15 (三) PM | 佛罗伦萨 → 罗马 | ✅ **Frecciarossa 9543 Business**, Firenze SMN 16:14 → Roma Termini 17:49（PNR Y4U5A5, 座 2/3D+4D, €91.80/2 人）| 已订 |
-| 3b | 7/16 早 | 罗马 → FCO → ATH → JTR | ✅ **已订 PNR AZZ0QN**（UA miles）：Leonardo Express 06:15 + ITA AZ720 08:15-11:10 + Aegean A3368 15:05-15:55，**双段 Business** | — |
+| 3b | 7/15 晚-7/16 | 罗马 → FCO → ATH（过夜）→ JTR | ⚠️ **v5.3/v5.4 改签**：✅ **PNR AZZ0QN**（UA miles）：Roma Termini→FCO Leonardo Express + **AZ722 7/15 21:50-7/16 00:45**（原 AZ720 08:15 waitlist+断转机已作废）+ **Athens Airport Living Spaces** 1 晚（已订 #5745.404.178）+ Aegean A3368 15:05-15:55，**双段 Business** | — |
 | 4 | 7/20 (一) | 圣托里尼 → 巴塞罗那 | ✅ **VY3315 JTR 10:00 → BCN T1 12:20**（PNR EKHTKG, Fly Grande €356.10/2 人, 座 1A/B Space One）| vueling.com |
 | 5 | 7/25 (六) | 巴塞罗那 → 苏黎世 | ✅ **SWISS LX1955 BCN T1 14:55 → ZRH 16:40**（PNR 7BWRK8, A321, €566.20/2 人 Economy V, 座 16D/E）| 已订 |
 | 6a | 7/25 (六) PM | ZRH 机场 → Zurich Marriott | 电车 11/14 号 Tram 或 taxi（5min）→ Neumuehlequai 42（v4.8.3：当晚不去 Lauterbrunnen，市区过夜）| 现场 |
@@ -497,7 +501,7 @@
 | 段 | 航司 | 联盟 | 用户里程 | 推荐 |
 |---|---|---|---|---|
 | 7/8 HND→DXB→MXP | Emirates EK | 非盟 | ✅ **JAL Award**（partner，已用）| ¥47,430 税/人 |
-| 7/16 FCO→ATH→JTR | ITA + Aegean A3 | Star | ✅ **UA MileagePlus**（已用）| 90k UA + $122.80/2 人 Business |
+| 7/15-16 FCO→ATH→JTR | ITA (AZ722) + Aegean A3 | Star | ✅ **UA MileagePlus**（已用，⚠️v5.3 改签重发）| 90k UA + $122.80/2 人 Business |
 | 7/20 JTR→BCN | Vueling VY | **非盟** | ❌ 不可兑 | ✅ 现金 Fly Grande €356.10/2 人 |
 | 7/25 BCN→ZRH | SWISS LX | Star | ✅ **PayPal 现金**（ANA 无空位 fallback）| €566.20/2 人 |
 | 7/30 FRA→NRT | JL408 | Oneworld | ✅ **JAL Award**（已用）| ¥52,090 税/人 商务舱 |
