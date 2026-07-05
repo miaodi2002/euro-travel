@@ -47,16 +47,14 @@
 **🚧 v4.8.5 未策定：**
 - **チューリッヒ 7/25-26（1N）予約済み** — day-by-day 未策定（7/25 16:40 ZRH 到着 → 当日 Interlaken へ SBB で行かず、市内でゆっくり食事 + Bahnhofstrasse 散策 + Limmat 河畔）
 - ✅ **Wengen 2N（7/26-28）予約済み** — Grand Hotel Belvedere（Beaumier 5★、Deluxe – Jungfrau View、含朝食、#5963.885.781）/ day-by-day「シミュレーション A」確定（#1 ユングフラウヨッホ + #2 Staubbach + #3 Gelmerbahn + #5 Gimmelwald；7/26 専用車）
-- **フランクフルト 2N（7/28-30）JW Marriott 予約済み** — day-by-day 未策定（7/28 16:09 Frankfurt Hbf 到着、徒歩 ~5 分 → JW Marriott；7/29 終日 Lafleur ミシュラン / Römerberg / Goethe Haus / Zeil 買い物 / ライン リースリング；7/30 朝 leisurely → 18:00 タクシー → FRA T3）
+- ✅ **フランクフルト 2N（7/28-30）day-by-day v5.2 確定版（2026-07-05）** — 7/28 到着夜 = Sachsenhausen アップルワイン酒場 + 夜景；7/29 午前**仕事半日** + 午後旧市街/買い物 + fine dining；7/30 完全フリー + **15:00 前倒し出発**（FRA 免税手続き集中）。⚠️ **Lafleur 夏季休業 2026-07-06~08-13 で不可**（公式サイト確認）→ **RAUSCH（2★）/ Lohninger（1★）** に変更 🔴 要予約
 
 **次回継続（todo.md 優先順）：**
 1. 🟡 ミシュラン一括予約（v4.6 日程に従い、最難は Osteria alle Testiere 7/12）
-2. 🟡 Antinori Chianti 7/15 半日 + Rinuccio 1180 ランチ予約（60 日前）
-3. 🟡 Duomo 屋根 7/9 + Duomo クーポラ Florence 7/14（30 日前タイムスロット）
-4. 🔴 **チタンエリート SNA** 10 軒ホテル各申請（Casa Brera / AC Venezia / W Florence / Sheraton Roma / Mystique / EDITION / Zurich Marriott / JW Marriott FRA 確率高；MXP Sheraton 1N オプション）
-5. 🟢 Hermès Milano SA 7/9 + Hermès BCN 7/22（2-3 週間前 email）
-6. 🟢 Mystique アップグレード email（**2026-06-01 ~ 06-08 ウィンドウ** ⚠️ 残り少ない）
-7. ✅ ~~Lauterbrunnen 独立精品~~ → **Wengen Belvedere 予約済み**（#5963.885.781）
+2. 🟡 Duomo 屋根 7/9 + Duomo クーポラ Florence 7/14（30 日前タイムスロット）
+3. 🔴 **チタンエリート SNA** 10 軒ホテル各申請（Casa Brera / AC Venezia / W Florence / Sheraton Roma / Mystique / EDITION / Zurich Marriott / JW Marriott FRA 確率高；MXP Sheraton 1N オプション）
+4. 🟢 Mystique アップグレード email（**2026-06-01 ~ 06-08 ウィンドウ** ⚠️ 残り少ない）
+5. ✅ ~~Lauterbrunnen 独立精品~~ → **Wengen Belvedere 予約済み**（#5963.885.781）
 
 ---
 
@@ -105,158 +103,148 @@
 
 ## 🗺️ Day-by-Day 詳細旅程（v4.8 — イタリア確定 / 実ホテル反映 / サントリーニ以降一部未策定）
 
-### ミラノ / Milano（3 泊 · MXP Sheraton 1N + Casa Brera LC 2N · **v4.6 ペース確定 + v4.8 ホテル更新**）
+### ミラノ / Milano（3 泊 · MXP Sheraton 1N + Casa Brera LC 2N · **v5.0 妻リメイク版（2026-06-28）**）
 
-> **v4.6 ペース原則**：起床 ≥09:00 / 1 日 3-4 コア活動 / 長めのランチ + バッファ / 詰め込みなし / 妻 3 つの食物願望全部保持 / Hermès SA 保持 / 買い物コア = アウトレット（Quadrilatero は Hermès SA のみ）
+> **v5.0 妻リメイク版**：妻が自身の要望で再構成（旧 v4.6/v4.8 を置換）。**予約済み**：Duomo 屋上テラス 7/9 · Stendhal Brera ディナー 7/9 · Serravalle Easy Shopping バス 7/10 · Frecciarossa 7/11。⚠️ **Duomo はテラスのみ（大聖堂内部は含まない）**；7/10 ショッピング後 = Da Pepèn テイクアウト + 部屋飲み（ミシュランなし）。
+> 🏨 **宿**：7/8 **Sheraton Malpensa**（空港、T1 直結）→ 7/9-11 **Casa Brera**（Brera 地区、#71361226）。🚖 **移動**：7/9 朝 **タクシー直行 Sheraton Malpensa → Casa Brera**（**前夜にホテルへ予約**、Malpensa→中心の定額 €104、~50分 door-to-door）；市内は全て徒歩（Brera/Duomo とも近い）；7/10 Serravalle バス（Via Fatebenefratelli 4、ホテル徒歩 2分）；7/11 タクシーで Centrale、15:45 の列車へ。⚠️ Duomo テラスは**大型荷物禁止** → 先に Casa Brera で荷物を置く；07:30 発で余裕。
 
-#### 7/8（水）Day 0 — MXP 空港泊（v4.8 調整）
-- 20:15 MXP T1 到着（EK091）
-- 20:45 出国 + 荷物受取
-- 21:00 徒歩 / シャトル → **Sheraton Milan Malpensa Airport Hotel**（T1 直結、conf #71359009、Classic Room 1 King, 45k pts + €6）
-- 21:30 チェックイン + Bonvoy チタンラウンジ（ある場合）
-- 22:00 軽食 + 就寝
+#### 7/8（水）Day 0 — 移動日 → MXP 空港泊
+- 終日 **HND T3 → DXB T3 → MXP T1**（EK313 + EK091、Ref **M8NHD2**）、MXP 20:15 着
+- 20:45 入国 + 荷物受取
+- 21:00 🏨 徒歩/シャトル → **Sheraton Milan Malpensa Airport**（**T1 直結**、conf #71359009、Classic Room 1 King、45k pts + €6）チェックイン
+- **21:15 📝 メモ：チェックイン時にフロントへ翌朝 07:30 発の車を依頼（Sheraton Malpensa → Casa Brera、定額約 €104）**——忘れずに、当日呼びだと保証なし
+- 22:00 軽食 + 就寝（翌朝早め、早寝）
 
-#### 7/9（木）Day 1 — Malpensa → Casa Brera + Duomo + Hermès + フード探訪
-- 07:30 起床、Sheraton MXP 朝食（チタン特典）
-- 08:30 チェックアウト + Malpensa Express MXP T1 → Milano Centrale（53 分、€13/名、30 分毎）
-- 09:25 Centrale 到着 → タクシー 7 分 → **Casa Brera, a Luxury Collection Hotel**（Piazzetta M. Bossi 2、Brera 地区、conf #71361226、Superior 2 Single, 246k pts + €48）
-- 09:45 早めチェックイン + 荷物預け（Bonvoy チタンラウンジ）
-- 11:30 徒歩 12 分 → Duomo
-- **12:00-13:30 Duomo 大聖堂内部 + 屋根テラス**（エレベーター €20、事前タイムスロット予約）
-- 13:30 Galleria Vittorio Emanuele II + Prada Galleria 1913 1 号店（途中）
-- **14:00 🥖 Da Pepèn パニーニランチ**（Via Marcello Malpighi 3）— 妻の願望 ✓
-- **15:30-17:00 🛍️ Hermès Milano SA 予約**（Via Montenapoleone 12、2-3 週間前 email）
-- **17:15 🍦 CIACCO ジェラート**（Via Spadari 13）— 妻の願望 ✓
-- **17:45 🍫 Cioccolatitaliani**（Via S. Raffaele 6, Galleria 横）— 妻の願望 ✓
-- 18:30 Casa Brera に戻って休憩（Galleria から徒歩 10 分 Via Manzoni 経由）
-- **19:30 Aperitivo @ Camparino in Galleria**（ネグローニ発祥地）
-- **20:30 ディナー Trippa**（hipster レトロミラノ料理、予約不可、並ぶ）or **Ratanà**（1★ 当代ミラノ料理、要予約）
-- 23:00 Casa Brera に戻る
+#### 7/9（木）Day 1 — Malpensa → Casa Brera + 市内観光 + ショッピング + グルメ
+- 07:00 起床 + Sheraton MXP 朝食（チタン特典）
+- 07:30 🏨 チェックアウト → 🚕 **タクシー（前夜にホテルへ予約依頼）Sheraton Malpensa → Casa Brera**（~50km、~50分；Malpensa→ミラノ中心の**定額 €104**）
+- ~08:25 **Casa Brera, a Luxury Collection Hotel** 着（Piazzetta M. Bossi 2、Brera、conf #71361226、Superior 2 Single、246k pts + €48）→ **早めチェックイン / 荷物預け**（チタンラウンジ；⚠️ **Duomo テラスは大型荷物禁止、先に置く**）
+- 08:45 徒歩 ~12分 → Duomo
+- 09:15 Duomo 到着（15 分前；実際の集合 **9:25**）
+- **09:30 ☀️ Duomo 屋上テラス** ✅ **予約済**（GetYourGuide **GYGZGZZAW6KN** / PIN X#hTN+nV、2 大人、¥8,106、[`Attractions/7:9 Duomo Terrace.pdf`](Attractions/7:9%20Duomo%20Terrace.pdf)）⚠️ **テラスのみ・大聖堂内部は含まない**；エレベーターは Duomo 裏側；大型バッグ/食べ物/ガラス品禁止、肩膝を隠す服装
+- 10:10 🎨 **ブレラ絵画館**（Pinacoteca di Brera、ホテル方面へ徒歩 10 分）
+- **12:00 🥟 Luini Panzerotti**（Via Santa Radegonda 16、Duomo 裏；1888 年創業の揚げピザ panzerotti）
+- **12:30 🛍 Intrend（Max Mara）**（Largo Corsia dei Servi 15、Duomo 徒歩 3 分）
+- 14:30 🏰 **Castello Sforzesco** 散策
+- **15:30 🍝 Piazza Sempione 6**（生パスタ €12、水無料、パン €1；営業 12:00-22:30）
+- **16:30 🍦 CIACCO**（Via Marghera 29A、ミラノ No.1 ジェラート）— 妻の願望 ✓
+- 18:30 🏨 Casa Brera に戻って休憩（Brera、Stendhal まで徒歩 ~5分）
+- **19:00 🍷 ディナー Stendhal Brera** ✅ **予約済**（Google/Zenchef ID **167A-1B06-C207-A80E**、2 名、Via San Marco；⚠️ キャンセルは ≥3h 前、[`Restaurants/7:9 Milano Stendhal Brera.pdf`](Restaurants/7:9%20Milano%20Stendhal%20Brera.pdf)）
 
-#### 7/10（金）Day 2 — Serravalle Outlet 終日
-- 08:30 起床
-- 09:15 朝食
-- 09:45 専用車出発（Casa Brera 玄関 pickup）
-- 10:45-16:00 **Serravalle Designer Outlet**（5h+ 含 13:30 軽食）
-  - 主要ブランド：Prada / Miu Miu / Bottega Veneta / Loro Piana / Tod's / Fendi / Hogan / Pellico / Max Mara / Pomellato（市価 -30~40%）
-- 16:00 専用車でミラノに戻る（1h）
-- 17:00 Casa Brera 到着、戦利品整理 + 撮影
-- 17:00-19:00 休憩 / 着替え
-- **19:30 ミシュランディナー Cracco**（Galleria 2★）or **Seta @ Mandarin Oriental**（2★）— **60-90 日前予約必須**
-- 23:00 Casa Brera に戻る
+#### 7/10（金）Day 2 — Serravalle Shopping Day
+- 10:05 集合 **Via Fatebenefratelli 4**（ホテル徒歩 2 分、Biosseri レストラン前）
+- **10:15 🚌 Serravalle Easy Shopping バス出発** ✅ **予約済**（Frigerio Viaggi、2 名、**€66**、Ref **V1FU0EFC4Z000C85PSMT**；Fashion Passport 追加 10% off + Hands-Free Shopping 含む、[`Attractions/7:10 Serravalle Shuttle.pdf`](Attractions/7:10%20Serravalle%20Shuttle.pdf)）
+- 11:15 Serravalle 到着
+- **11:15-18:00 🛍 ショッピング**：Fendi / Celine / Prada / Miu Miu / Bottega Veneta / Loro Piana / Tod's / Pellico / Pomellato / Jil Sander / **Hogan**（~13:30 フードコートで軽食；💡 Max Mara は 7/9 Intrend で購入、ここはスキップ可）
+- **18:30 🚌 帰りバス**（Serravalle Starbucks 前）→ ~19:30 ミラノ Via Fatebenefratelli 下車
+- **20:00 🥪 Da Pepèn テイクアウト**（Via Marcello Malpighi 3、~22:00 閉店；馬肉ペーストのパニーノ）— 妻の願望 ✓
+- 20:30 🍷 ホテルで部屋飲み
 
-#### 7/11（土）Day 3 — Brera 地区直接散策 + Frecciarossa ヴェネツィアへ（v4.8 利点：Casa Brera が Brera 中心、出てすぐ）
-- 09:00 起床
-- 10:00 朝食 Casa Brera（チタンラウンジ / ゆっくり）
-- 11:30 徒歩 5 分 → **Castello Sforzesco**（外観、ミラノ公爵城、Casa Brera 南西 500m）
-- 12:00 **Parco Sempione** 散策（ミラノ中央公園、並木）
-- 12:30 徒歩 → **Brera 地区漫遊**（Casa Brera 周辺、ミラノで最も artsy な街、石畳 + boutique）
-- **13:00 Brera ランチ — Trattoria Milanese**（ミラノ料理クラシック cotoletta + ossobuco）or **N'Ombra de Vin**（19C ワインセラー + cicchetti、Brera 地区内）
-- 14:15 **☕ Café Fioraio Bianchi**（花屋カフェ、IG 映え、Brera 内）+ 最後の散策
-- 14:30 Casa Brera に戻り荷物
-- 14:45 タクシー 7 分 → Milano Centrale（または徒歩 30 分）
-- 🚄 **15:45 Frecciarossa 9741 Business → 18:12 Venezia S. Lucia**（2h27）
-  - PNR **Y8JE9N**, 座席 1/16A (Sakoda) + 1/16B (Miao), €63.80/2 名
-- 18:20 SL 駅出 → 徒歩 **5-7 分** → **AC Hotel Venezia**（Rio Terà Sant'Andrea 466, Cannaregio, conf #71335812, 1 Queen, 146k pts + €14）— v4.8：水上タクシー不要
-- 18:30 チェックイン（Bonvoy チタン SNA / ラウンジ要確認）
-- 19:15 徒歩 → San Polo 地区（Scalzi 橋 → Rio Terà di S. Apollonia ルート、約 25 分）or 水上タクシー €30
-- **21:00 🦞 ディナー Antiche Carampane** — クラシック Venetian シーフード（クモガニ spaghetti、sarde in saor、シーフードリゾット）— **14 日前予約必須**
-- 23:00 AC Hotel に散歩で戻る（夜の運河ロマンチック）
+#### 7/11（土）Day 3（午前·ミラノ）— Café + Brera + Galleria + ランチ → ヴェネツィアへ
+- 09:00 起床 + 🏨 **Casa Brera チェックアウト、荷物をフロントに預ける**（身軽に外出）
+- **10:00 🌸 Café Fioraio Bianchi**（花屋カフェ、Brera 地区 Via Montebello 7；IG 映え、朝食 + コーヒー）— 妻の追加
+- 10:30 **Brera 地区散策**（石畳 + ブティック + ギャラリー）
+- **11:00 🍫 Cioccolatitaliani**（Via S. Raffaele 6、Galleria 横；コーンの底にチョコ注入）— 妻の願望 ✓
+- **11:30 📸 Galleria Vittorio Emanuele II**（世界最古のモール、Prada 本店、写真スポット）
+- **12:00 🍽 ランチ Trattoria Milanese**（Via Santa Marta 11；ミラノ伝統料理 cotoletta カツレツ / ossobuco）— 妻の追加；⚠️ **オンライン予約不可**（Quandoo ページに「オンライン予約不可、直接連絡を」と明記）、電話予約が必要：**+39 02 8645 1991**（土曜ランチは人気、出発前に電話推奨）
+- 13:30 Casa Brera に戻り荷物ピックアップ
+- 14:00 🚕 タクシー ~7分 → **Milano Centrale**
+- 🚄 **15:45 Frecciarossa 9741 Business → Venezia**（下のヴェネツィア段 7/11 へ接続）
 
 ---
 
-### ヴェネツィア / Venezia（2 泊 · AC Hotel Venezia · **v4.6 ペース確定 + v4.8 ホテル更新**）
+### ヴェネツィア / Venezia（2 泊 · AC Hotel Venezia · **v4.9 妻の願望版・再構築（2026-06-28）**）
 
-> **v4.6 確定**：バランス型主線 / 半日 Burano（Murano スキップ）/ ドゥカーレ宮殿は外観のみ / 全てクラシック地元ディナー（ミシュランなし）/ 夕暮れゴンドラで嘆きの橋下を通る
-> **v4.8 更新**：AC Hotel は Cannaregio 地区 Santa Lucia 駅横（徒歩 5-7 分）、San Marco/Rialto から徒歩 15-20 分。朝の Vaporetto 起点 Fondamente Nove へ徒歩 12 分
+> **v4.9 再構築**：旧 v4.6（Burano + ミシュラン）を破棄。妻の 5 大願望で再編 → 🚣ゴンドラで嘆きの橋くぐり / 🌉Rialto 橋を渡る / 😮‍💨嘆きの橋（内側+外側）/ 🔮Murano ガラス / 🍦Gallonetto ジェラート。ペースは快適バランス型（毎日コア 3 + 余白）；**Murano のみ（Burano は行かない）**；大聖堂は**内部に入る**；ディナーは気軽な **bacari**（ミシュランなし）。
+> ⚠️ **曜日を修正**：7/11 **土** / 7/12 **日** / 7/13 **月**（旧版は曜日が 1 日ずれ → 日曜は大聖堂が午後のみ・Rialto 魚市場が日月休 等の罠を回避）。
+> **予約済み**：🏛️ドゥカーレ宮殿 7/12 14:00（€70、嘆きの橋内側含む）· ⛪大聖堂 7/13 11:30 完全券（€60）。**🕐 確認待ち**：ゴンドラ（Danieli プライベート、Gondolieri Travel にメール済）· ディナー ×2（ホテル代行予約）。
+> **立地**：AC Hotel は Cannaregio の Santa Lucia 駅横（徒歩 5-7 分）；中心まで徒歩 ~12-15 分で Rialto；Murano は Fondamente Nove + 4.1 線。
+> ✅ **ミラノ段は妻がリメイクして反映済み（上の「ミラノ v5.0」参照）**。
 
-#### 7/12（日）Day 4 — Burano 半日 + Rialto + Cicchetti + ゴンドラ + Osteria
-- 09:00 起床
-- 10:00 朝食 AC Hotel
-- 11:00 徒歩 12 分 → **Fondamente Nove 駅**（v4.8：AC Hotel は Cannaregio、Fondamente Nove は Gritti より近い）
-- 11:15 Vaporetto Line 12 → Burano 直行（40 分）
-- **12:05 🎨 Burano 到着** — 世界一カラフルな漁村
-- 12:05-13:00 Via Galuppi メインストリート + カラフルな家 + **Casa di Bepi**（ゼブラハウス）撮影
-- **13:00 🦐 Trattoria al Gatto Nero ランチ** — Burano 最高のシーフードリゾット（**7-14 日前予約必須**）
-- 14:30 レース店（500 年 Burano lace 歴史）+ 自由撮影
-- 15:30 Vaporetto Line 12 → ヴェネツィア戻り（50 分）
-- 16:30 Fondamente Nove 到着 → 徒歩 → Rialto（15 分）
-- **16:45 🌉 Rialto 橋** + Grand Canal 全景 — 妻の願望 ✓
-- 17:00 Rialto 街区漫遊
-- **17:30 🍷 Cantina Do Mori バカロ**（1462 年最古 bacaro、cicchetti + ワイン、立ち食い 45 分、現場で予約不要）
-- 18:30 徒歩 → San Marco 近くゴンドラ乗り場
-- **19:00 🚣 夕暮れゴンドラ 30 分** — クラシックルート **Bridge of Sighs 嘆きの橋下** + 小運河（€80/船）— 妻の願望 ✓
-- 19:45 徒歩で AC Hotel 戻り（約 25 分、Rialto + Strada Nuova 経由）or 水上タクシー
-- 20:15 短時間着替え
-- 20:15 徒歩 / Vaporetto → Osteria（San Marco 地区）
-- **20:30 🐟 ディナー Osteria alle Testiere** — 12 席小店シーフード専門（**60 日前予約必須**、最難）
-- 23:00 AC Hotel に戻る（夜の Vaporetto 1 号 Rialto → Ferrovia ~15 分）
+#### 7/11（土）Day 3 — Frecciarossa ヴェネツィア到着 + ヴェネツィア初日（v4.9）
+- 🚄 **15:45 Frecciarossa 9741 Business → 18:12 Venezia S. Lucia**（2h27）— PNR **Y8JE9N**, 座席 1/16A (Sakoda) + 1/16B (Miao), €63.80/2 名（午前のミラノ段は上の「ミラノ v5.0」7/11 参照）
+- 18:20 SL 駅出 → 徒歩 **5-7 分** → **AC Hotel Venezia**（Rio Terà Sant'Andrea 466, Cannaregio, conf #71335812, 1 Queen, 146k pts + €14）— v4.8：水上タクシー不要
+- 18:30 チェックイン（ハネムーン/記念と伝える；チタン **SNA スイートアップグレード** + 月曜の荷物預かりを依頼）
+- 18:50 荷物を置いて身軽に
+- **19:15 🍷 Vino Vero**（Fondamenta Misericordia、徒歩 ~12 分）— 運河沿いの自然派ワイン + cicchetti（立ち飲み、予約不要）
+- **20:30 🍽️ ディナー Hostaria Osottoosopra**（Santa Croce 164、+39 333 802 7830；ヴェネツィア伝統料理に現代的アレンジ）— 🕐 **確認待ち**：❌ alla Vedova は 7/11 定休（ホテルが電話確認済み）、ホテル推薦の Osottoosopra か Ae Cravate に変更、Osottoosopra の代行予約を返信で依頼済み
+- **21:45 🌉 Rialto 橋ライトアップ** — 1 回目の橋渡り、Grand Canal の灯り — 妻の願望 ✓
+- **22:10 🍦 Gelateria Gallonetto** — 土曜 ~22:30 まで、1 回目のジェラート — 妻の願望 ✓
+- 22:30 Strada Nuova を散歩して AC Hotel へ
 
-#### 7/13（月）Day 5 — San Marco + 嘆きの橋 + Frecciarossa フィレンツェへ
-- 09:00 起床
-- 10:00 朝食 AC Hotel
-- 11:15 Vaporetto 1 号 Ferrovia → San Marco-Vallaresso（~30 分、Grand Canal 全景）or 徒歩 25 分
-- 11:30 **Piazza San Marco** 到着
-- 11:30-12:00 **🏛️ San Marco 広場 + 大聖堂外観**（バシリカ金面 + Loggia 拱柱）
-- 12:00 徒歩 → ドゥカーレ宮殿外観
-- **12:15 🌉 嘆きの橋 Ponte dei Sospiri** を **Ponte della Paglia** から撮影 — 妻の願望 ✓
-- 12:30 Riva degli Schiavoni 水際散策
-- **13:00 ☕ Caffè Florian コーヒー**（1720、世界最古カフェ、テラス広場席）
-- 13:45 Vaporetto 1 → Ferrovia へ戻る（30 分）または徒歩で AC Hotel
-- 14:15 AC Hotel 荷物取り → 徒歩 5 分 → Venezia S. Lucia
-- 14:30 SL 到着、55 分バッファ
+#### 7/12（日）Day 4 — Murano ガラス + San Marco クラスター + 夕日ゴンドラ
+- 08:00 朝食（ホテル / **Panificio Volpe** ゲットーのパン屋、7:00 開）
+- 09:00 徒歩 ~18 分 → **Fondamente Nove** → **Vaporetto 4.1**（~10 分）
+- **09:45 🔮 Murano 到着** — Fondamenta dei Vetrai 沿いにガラス工房/ショールームを見学（実演中なら無料で数分見られる）；お好みで **Murano ガラス博物館 Museo del Vetro**（€10）— 妻の願望 ✓
+  - 購入時は **「Vetro Artistico Murano」商標 + QR で真贋確認 + 証明書**（中国製コピー対策）
+- 12:00 Murano で軽めランチ / 戻り
+- 12:15 Vaporetto で **San Marco** へ（~45 分、一度の大移動。往復ジグザグはしない）
+- **13:15 🍽️ ランチ Sepa**（Calle de la Bissa、Rialto 横、イカ墨など小皿、予約不要）；途中 **🌉 2 回目の Rialto 橋（昼）** — 妻の願望 ✓
+- **14:00 🏛️ ドゥカーレ宮殿 Palazzo Ducale**（✅ **予約済み** €70、時間指定 14:00）— 標準ルートで**嘆きの橋の内側を通過**して新牢獄へ — 妻の願望 ✓（嘆きの橋・内側）
+- **16:00 😮‍💨 Ponte della Paglia から嘆きの橋を撮影**（無料）— 妻の願望 ✓（嘆きの橋・外側）
+- 16:20 Piazza San Marco 散策・撮影；**Caffè Florian** でオーケストラを聴くなら ~70 分（2 名テラス ~€35–50、楽団チャージ €6–8/人込み）；**🍦 Gallonetto** で 2 回目のジェラート
+- 17:00 ホテルで小休憩 / 着替え
+- **19:00 🍽️ ディナー Osteria al Portego**（Castello の bacaro）✅ **予約済み**（AC Hotel フロント代行確認、2026-07-05 返信）
+- 20:15 徒歩で **Danieli / San Zaccaria 乗り場**（⚠️ 嘆きの橋くぐりはここからのみ、Bacino Orseolo ではない）
+- **20:30 🚣 夕日ゴンドラで嘆きの橋くぐり**（🕐 **確認待ち**：Gondolieri Travel にプライベート ~€130–155 をメール；返信なければ現場 walk-up €110、船頭に «sotto il Ponte dei Sospiri» と伝える）— 妻の願望 ✓；日没 20:58
+- 21:05 Piazza San Marco の夜景（人が少なく幻想的）で一杯
+- 21:40 Vaporetto 1/2 号 San Marco → Ferrovia（~25–30 分）→ AC Hotel
+
+#### 7/13（月）Day 5 — サンマルコ寺院 + 仕上げ + Frecciarossa フィレンツェへ（夜：ノヴェッラ薬局 + ビステッカ + ヴェッキオ橋ライトアップ）
+- 08:30 ゆっくり朝食（ホテル / Panificio Volpe）
+- 09:30 チェックアウト + **荷物をホテルに預ける**
+- 09:45–11:15 のんびり San Marco へ：**🌉 3 回目の Rialto 橋（昼）** + 最後のガラス/仮面/紙製品の買い物（前日に撮り足りなければ嘆きの橋の外観も）
+- **11:30 ⛪ サンマルコ寺院**（✅ **予約済み** €60、完全券：本堂の黄金モザイク + **Pala d'Oro 黄金祭壇** + Loggia テラス）— 妻の願望 ✓
+  - ⚠️ **肩と膝を隠す**（薄手のストール）；40×30×20cm を超えるバッグ/荷物は持込不可（Ateneo San Basso に預ける）；鐘楼は別
+- 12:45 ランチ **Sepa / Farini**（Rialto 横、カウンターで素早く、長居しない）
+- 13:30 徒歩/Vaporetto で戻り → 荷物ピックアップ
+- 14:15 徒歩 5 分 → Venezia S. Lucia
+- 14:50 ホームで待機
 - 🚄 **15:26 Frecciarossa 9427 Business → 17:39 Firenze SMN**（2h13）
   - PNR **Y8J8TN**, 座席 2/16A (Miao) + 2/16B (Sakoda), €119.80/2 名
 - 17:42 徒歩 **3 分** → **W Florence**（Via del Melarancio 1, SMN 駅正面）— v4.8：W Florence は駅すぐ
-- 17:45 **W Florence チェックイン**（conf #71329387, Deluxe 1 King, 182k pts + €32、Bonvoy チタン SNA / Living Room ラウンジ）
-- 19:00 タクシー 10 分 → **Piazzale Michelangelo**
-- 19:00-20:00 **🌅 夕暮れ全景 + ブロンズダビデ像複製**（Accademia 並ぶ必要なし、屋外広場）
-- 20:00 散策で下山、Rose Garden バラ園経由
-- 20:45 徒歩で Arno 河畔へ → W Florence
-- **21:00 ディナー**：**Trattoria Sostanza**（バターチキン + Tuscan T-bone クラシック）or **Buca Lapi**（1880 年最古 cantina）or **Pinchiorri**（3★ splurge）
+- 17:45 **W Florence チェックイン**（conf #71329387, Deluxe 1 King, 182k pts + €32、Bonvoy チタン SNA / Living Room ラウンジ）→ 荷物を置く
+- **18:15 💎 ノヴェッラ薬局** — 妻の願望 ✓ **Officina Profumo-Farmaceutica di Santa Maria Novella**（Via della Scala 16、ホテルから徒歩 5-7 分；世界最古の薬局 1221、毎日 20:00 まで）。Acqua di SMN 香水 / Pot-Pourri ポプリ / ローズウォーター / ハンドメイド石鹸 / Iris 香水；フレスコの歴史の間 + 小博物館、無料 walk-in、30-45 分（開店 09:30 か夕方が空く、11-16 時は混雑；非 EU はパスポートで免税、€70 以上）
+- **19:30 🥩 ビステッカ ディナー @ All'Antico Ristoro di' Cambi** ✅ **予約済み**（confermata、予約者 Di Miao、2 名、[`Restaurants/7:13 Firenze Cambi.pdf`](Restaurants/7:13%20Firenze%20Cambi.pdf)）— 妻の願望 ✓ 妻のお気に入り（San Frediano/Oltrarno、Via Sant'Onofrio 1r、1950 年創業のレンガ天井の老舗、~€60/kg）；ホテルから徒歩 ~20 分 or タクシー ~10 分（食後 ~12 分歩いて Ponte Santa Trinita のライトアップへ）
+- **21:00 🌃 ヴェッキオ橋ライトアップ** — 妻の願望 ✓ **Ponte Santa Trinita**（下流 3-4 分）へ歩きブルーアワーの灯り＋水面の反射（7 月の日没 20:54、**ブルーアワー 21:00-21:30 が最良**、完全な暗闇後は青空のコントラストが消える）→ ジェラート → ライトアップした Ponte Vecchio を渡って W Florence へ
 
 ---
 
 ### フィレンツェ / Firenze（**2 泊** · W Florence · **v4.6 ペース確定 + v4.8 ホテル更新**）+ ローマ / Roma（1 泊 · Sheraton Roma Parco de' Medici）
 
-> **v4.6 確定**：フィ 2N（Antinori Chianti 半日含む、Uffizi / Accademia 美術館なし）+ ローマ 1N 夕暮れフラッシュ + Trastevere ディナー
+> **v4.9 フィレンツェ再構築（妻の願望版、2026-06-28）**：7/13 夜 = ノヴェッラ薬局 + ビステッカ + ヴェッキオ橋(Ponte Santa Trinita)ライトアップ；7/14 = カラーストーン指輪（Cassetti / Fratelli Piccini / Alessandro Dari）+ ドゥオーモ + ミケランジェロ広場の夕日；**7/15 = 午前フリータイム**（元の Antinori ワイナリーは 7/15 満席のため取消）。⚠️ **ピサの斜塔は妻の同意のうえ削除**。旧版の Boboli 庭園 + Tornabuoni ファッション買い物は削除。Fratelli Piccini は月曜休 → 宝石は 7/14(火)に固定
+> **v4.6 確定**：フィ 2N（Uffizi / Accademia 美術館なし）+ ローマ 1N 夕暮れフラッシュ + Trastevere ディナー
 > **v4.8 更新**：W Florence は SMN 駅横旧市街北 — Mercato Centrale 5 分、Duomo 8 分；Sheraton Roma Parco de' Medici は FCO 空港隣接（Termini ではない）、7/15 夜観光後タクシー 30 分でホテル、7/16 朝 FCO 10-15 分
 
-#### 7/14（火）Day 6 — Duomo + Mercato + Boboli + 旧市街買い物
-- 09:00 起床
-- 10:00 朝食 W Florence（Living Room ラウンジ）
-- **11:00 Duomo + Brunelleschi クーポラ登頂**（463 段、1.5h、**事前タイムスロット予約必須**）
-  - 同チケットに Baptistry 洗礼堂（Gates of Paradise）+ 鐘楼 Giotto's 含む
-- **12:30 Baptistry** 内部（金モザイクドーム 15 分）
-- 13:00 徒歩 → **Mercato Centrale 中央市場**（10 分）
-- **13:00 🍴 Mercato Centrale ランチ**：1 階伝統市場（生鮮、チーズ、ハム）+ **2 階フードホール出来立て**（Lampredotto モツサンド、Bistecca alla Fiorentina カット）
-- 14:30 徒歩 → **Ponte Vecchio**（5 分）
-- 15:00 橋渡り → **Pitti 宮殿外観 + Boboli 庭園**（3h 屋外園林）
-- 17:30 徒歩で北岸戻り、Santa Trinita 橋経由
-- **18:00 🍷 Procacci**（Via de' Tornabuoni 64）— **Antinori 直営店**
-  - Chianti Classico DOCG 6-12 本 + 旗艦 Tignanello（スーパー Toscana）+ Truffle Panini と VinPouch 真空パック
-- 19:00 **Tornabuoni 通り高級買い物** — Salvatore Ferragamo（フィレンツェ発祥）/ Gucci / Pucci
-- **20:30 ディナー**：**La Bottega del Buon Caffè**（1★ Arno 河畔）or **Ora d'Aria**（1★ 当代 Tuscan）or **Il Latini**（家族長卓クラシック）
+#### 7/14（火）Day 6 — カラーストーン指輪（Ponte Vecchio）+ ドゥオーモ + Alessandro Dari + ミケランジェロ広場の夕日
+- 09:30 起床 + 朝食 W Florence（Living Room ラウンジ）
+- **10:30 💍 Ponte Vecchio でカラーストーン指輪選び（本日のメイン、午前は橋が最も空く）** — 妻の願望 ✓
+  - **Cassetti**（Ponte Vecchio 54/R、1926；トルマリン/サファイア/タンザナイト、自社アトリエでオーダー可；月-土 10:30-19:00、日 11:00-19:00）`ponte54@cassetti.it` / +39 055 287361 — 注：54/R が宝飾の旗艦、29/33/52/56R は時計
+  - **Fratelli Piccini**（Ponte Vecchio 21/23r、1903；ルビー/エメラルド/サファイア、ヴァザーリの回廊下のアトリエでオーダー/リフォーム可；**火-土 10:30-19:00、日+月は休**）WhatsApp +39 366 823 1542 / `fp@fratellipiccini.com`
+  - 💡 **見るだけなら予約不要**、両店とも walk-in で自由に入れる；午前 10:30 は橋が最も空く＝最適、パスポート 2 冊持参（購入時の免税用）。**気に入って本格購入する場合のみ**個室予約の価値（ルース石・鑑定書/サイズ直し/免税の相談）
+  - ⚠️ **Rajola は橋に店舗なし**（旧店は 1960s 閉店・ブランドはナポリへ移転）→ 手頃な彩色半貴石なら橋上の **Gioielleria Vaggi（Ponte Vecchio 2R）** 等
+- 13:00 ランチ（Mercato Centrale 2 階フードホール：Lampredotto モツ + カット Bistecca、または Signoria 周辺の食堂）
+- **14:30 ⛪ ドゥオーモ Duomo** — 妻の願望 ✓ 大聖堂内部（無料・要クーポン）+ Baptistry 洗礼堂（金モザイクドーム）；**任意**で Brunelleschi クーポラ 463 段の登頂（事前タイムスロット予約、duomo.firenze.it、~30 日前）
+- ~17:00 （指輪を当日サイズ直しなら）橋へ戻り **受け取り**（19:00 閉店前）→ 橋を渡り **Oltrarno** へ
+- **17:30 🎨 Alessandro Dari**（Via San Niccolò 115/R、Oltrarno；彫金×カラーストーンの一点物、€5 の工房博物館；⚠️ 橋から徒歩 **~15 分（メモの 3 分ではない）**、Piazzale と同方向；本格購入は事前に +39 055 244747 で巨匠の在席確認）
+- 18:45 坂を徒歩/タクシー → **ミケランジェロ広場 Piazzale Michelangelo** — 妻の願望 ✓ ブロンズのダビデ像複製 + アペリティーボ
+- **20:54 🌅 日没** + 街全体 + ライトアップした Ponte Vecchio を一望（ブルーアワー 21:00-21:30）→ 下山
+- **21:15 🍝 ディナー @ Zeb（ステーキ以外、7/13 と差別化）** — 🟡 **メールで 21:15 / 2 名予約リクエスト済み（火曜営業の確認待ち）**；Via San Miniato 2r（Porta San Miniato、Piazzale から坂を下り 7-10 分）、自家製生パスタ/ラザニアの Bib Gourmand 小店（~17 席）；☎️ +39 055 234 2864 / mangia@zebgastronomia.com｜⚠️ 火曜夜は 4-10 月の季節営業、厨房は 22:30 まで；代替 Il Santo Bevitore（23:30 まで、タクシー ~10 分）
 
-#### 7/15（水）Day 7 — Antinori Chianti 半日 + Frecciarossa ローマへ
-- 07:30 朝食 W Florence
-- 08:30 専用車 → **Antinori nel Chianti Classico @ Bargino**（40 分、W Florence 玄関 pickup）
-- **09:30-13:30 🍷 Antinori 体験**：
-  - ワイン博物館 + 酒蔵 1h
-  - 試飲 4-5 種 45 分
-  - **Rinuccio 1180 レストランランチ**（パノラマ Chianti view）
-- **購入**：Chianti Classico DOCG + Tuscan EVOO オリーブオイル（プロのフォームパッキング）
-- 14:00 専用車でフィレンツェ戻り（40 分）
-- 14:45 W Florence 荷物取り
+#### 7/15（水）Day 7 — フリータイム（午前）+ Frecciarossa ローマへ
+- 午前 **フリータイム**（朝寝坊 / 旧市街・宝飾・カフェの再訪 / 荷造り）— 元の Antinori ワイナリーは 7/15 が満席のため取消、午前は自由に
+- 昼 自由ランチ（SMN / 旧市街周辺）
+- 14:45 W Florence 荷物取り（チェックアウト後預け可）
 - 15:30 徒歩 3 分 → Firenze SMN
 - 🚄 **16:14 Frecciarossa 9543 Business → 17:49 Roma Termini**（1h35）
   - PNR **Y4U5A5**, 座席 2/3D (Miao) + 2/4D (Sakoda), €91.80/2 名
 - 17:55 Termini 出 → **タクシー 30 分** → **Sheraton Roma Parco de' Medici**（Viale Salvatore Rebecchini 145, EUR/Magliana, conf #71320466, Superior King Garden View, 24k pts + €15）— ⚠️ v4.8 注意：ホテルは FCO 隣接、Termini ではない、荷物先預け or 先観光後戻り
   - **オプション A（推奨）**：18:00 タクシーで荷物預け → 19:00 タクシーで市内観光（車程 25 分）
   - **オプション B（タクシー 1 段省略）**：小バッグで直接観光、22:30 後タクシーでホテル（大荷物は Termini 荷物預け €6/24h 可能）
-- **19:00 夕暮れフラッシュ 4 スポット**：Pantheon → Piazza Navona → Trevi Fountain（夕暮れライトアップ）→ Spanish Steps（90 分）
-- **20:30 ディナー Trastevere 地区**：**Roscioli Salumeria con Cucina**（ローマ教科書レストラン、要予約）or **Pierluigi**（シーフード + piazza）or **Da Enzo al 29**（典型ローマ家庭料理）
-- 23:00 タクシー 30 分で Sheraton Parco de' Medici に戻る
+- **19:00 旧市街の夕方散歩（食前）**：Pantheon → Piazza Navona（~50 分；Pierluigi まで徒歩 8-12 分）
+- **20:00 🍷 ディナー @ Pierluigi** ✅ **予約済み**（conf **AB6J4UBUCBY** / SevenRooms、2 名、Piazza de' Ricci 144、[`Restaurants/7:15 Roma Pierluigi.pdf`](Restaurants/7:15%20Roma%20Pierluigi.pdf)）— 1938 年創業のシーフード名店 + ルネサンス小広場テラス；⚠️ キャンセルは ≥24h 前、さもなくば €50/人（店にテラス席を確認/リクエスト）
+- **21:45 食後の夜散歩**：Trevi Fountain（夜のライトアップが最高）→ Spanish Steps（7 月日没 20:45、夜景）
+- 22:45 タクシー ~30 分で Sheraton Parco de' Medici に戻る（店がタクシー手配可；翌朝早 FCO 便）
 
 #### 7/16（木）Day 8 — イタリア離れサントリーニへ（移動日）— v4.8 最適化：FCO 隣接で朝の流れ大幅短縮
 - **06:30 起床 → 07:00 Sheraton Parco de' Medici チェックアウト**（v4.8 利点：原 St. Regis Rome 案より起床 1.5h 遅い）
@@ -292,16 +280,64 @@
 
 ---
 
-### バルセロナ / Barcelona（5 泊 · The Barcelona EDITION · 7/20-25 · 🚧 day-by-day 未策定）
+### バルセロナ / Barcelona（5 泊 · The Barcelona EDITION · 7/20-25 · ✅ **v5.1 妻版確定（2026-07-05）**）
 
-> **v4.8 更新**：The Barcelona EDITION ✅ 予約済み（conf #71415491, Avinguda de Francesc Cambó 14, Born 地区, Room 1 King, 5N = 509,500 pts + €132、うち 7/23 は 4N 引換証で無料、125,500 pts 節約）
-> **位置変化**：原計画 Hotel Arts（海辺タワー）→ 実際 EDITION（Born 地区旧市街中心）
-> - Picasso 美術館徒歩 **1 分**
-> - Gòtic 地区徒歩 5 分 / Las Ramblas 徒歩 10 分
-> - Born ナイトライフ / Mercat del Born がすぐ隣
-> - Passeig de Gràcia（Casa Batlló/Hermès BCN）徒歩 12 分
-> - Barceloneta ビーチ徒歩 12 分（海辺ではないが近い）
-> - day-by-day 詳細未策定
+> **v5.1 妻版**：妻の草案 → Claude が全店舗/観光地を web 検証・修正（ゆったりペース：1 日 1 コア + 食）。**予約済**：⛪ Sagrada 日本語ガイドツアー+塔 7/22 09:00（Klook）· 🏛 Casa Batlló 7/22 **15:00**（Gold；⚠️ チケット記載 15:00、草案の 17:00 ではない）。**バルセロナ全チケット予約完了 ✅**（Sagrada 7/22 + Casa Batlló 7/22 + Park Güell 7/24）。**❌ Lasarte は取りやめ**（2026-07-05 ユーザー決定：7/23 夜は予約なし、Born 周辺で気分次第 walk-in）。
+> 🏨 **宿**：The Barcelona EDITION（conf #71415491, Av. Francesc Cambó 14, Born 地区, 5N = 509.5k pts + €132）。Picasso 美術館 1 分 / Gòtic 5 分 / Passeig de Gràcia 徒歩 12 分 / Barceloneta ビーチ徒歩 ~20 分。
+> 📌 **共通戦略**：予約不可のタパス店（Vaso de Oro / Cervecería Catalana / Vinitus）は一律 **19:00 前に入店**；❌ **イベリコ生ハムは日本に持ち帰り不可**（日本は肉製品の持込禁止 + スペイン ASF により 2025-11 から輸入全面停止）— Boqueria は現地で食べる、お土産はオリーブオイル（La Chinata）/サフラン/トゥロン/ワインに；⚠️ 出発前に IG 確認：@paris64world（pop-up 営業）+ @quimetiquimet（年次休暇なし確認）。
+
+#### 7/20（月）Day 12 — 移動日 → Born 初日 + ビーチ
+- ✈️ **10:00 VY3315 JTR → 12:20 BCN T1**（PNR EKHTKG, Fly Grande, 座 1A/1B）
+- 12:50 入国 + 荷物 → 🚕 taxi ~30 分（~€35-40、荷物ありなら Aerobús より楽）
+- 13:30 🏨 **The Barcelona EDITION** チェックイン（チタン早期チェックイン/荷物預け；honeymoon 伝える）
+- 14:30 **El Born 散策**：Mercat del Born + Santa Maria del Mar + 途中 **La Chinata Born 店**（Passeig del Born 11；オリーブオイル土産はここで）
+- 16:30 徒歩 ~20-25 分 → **Barceloneta ビーチ**（7 月水温 25-26°C；⚠️ スリ多発：交代で泳ぐ、パスポートはホテル金庫）
+- **18:45 🍺 夕食 Cervecería Vaso de Oro**（Carrer de Balboa 6；予約不可、19:00 前入店；自家醸造ビール + 名物 solomillo con foie 牛ヒレ×フォアグラ；月曜営業 ✓、夏休みは 9 月）
+- 20:30 海辺遊歩道散歩 → ゆっくりホテルへ
+
+#### 7/21（火）Day 13 — LOEWE + タパス Day
+- 10:00 出発、徒歩/taxi → Passeig de Gràcia
+- 10:30 **La Chinata**（Diputació 262、LOEWE から 2 分）/ PdG ウィンドウ（⚠️ LOEWE は 11:00 開店、10:30 ではない）
+- **11:00 🛍 CASA LOEWE**（Passeig de Gràcia 35、Casa Lleó Morera 内 512㎡ 旗艦店、ピカソ陶器コレクション；予約不要）
+- 11:45 🚕 ~10 分 → Poble Sec
+- **12:00 🍷 昼食 Quimet & Quimet**（Poeta Cabanyes 25；火曜昼営業 ✓；予約不可の立ち飲み小店 ~1h 回転、開店凸は 11:55 到着で第一陣；montaditos + 缶詰シーフード）
+- 14:00 地下鉄/taxi → 北 Eixample：**PARIS/64 pop-up**（Rosselló 195；⚠️ ポップアップ、7 月営業は出発前 IG 確認）→ **natura**（Passeig de Gràcia 122-124、2 分）
+- 15:30 **Passeig de Gràcia を北から南へ**ゆっくり（Casa Milà 外観撮影）→ カフェ / ホテル休憩
+- **18:45 🍤 夕食 Cervecería Catalana**（Mallorca 236；予約不可、19:00 前入店、カウンター席なら早い）
+
+#### 7/22（水）Day 14 — ガウディ Day ⛪
+- 08:15 出発 🚕 ~10 分（or 地下鉄）→ Sagrada Família 地区
+- **08:50 集合 The Touring Pandas**（⚠️ **Carrer de Sardenya 311, Local 3 — 教会正面ではない**；遅刻返金なし）
+- **09:00 ⛪ Sagrada Família 日本語ガイドツアー + 塔** ✅ **予約済**（Klook **MXW879435**、Voucher 1049592785/86、[`Attractions/7:22 Sagrada Familia.pdf`](Attractions/7:22%20Sagrada%20Familia.pdf)）— 内部ガイド 1h30 + 塔 30 分（エレベーター上り/**螺旋階段下り**）、終了後自由滞在可；無料キャンセルは 7/21 09:00 まで
+- ~11:45 退出 → **12:00 🍽 昼食 El Glop Gaudí**（Carrer de València 443、徒歩 3 分；🟢 OpenTable で 12:00-12:30 予約推奨）
+- 13:45 地下鉄 L2 / 散歩 → Passeig de Gràcia
+- **15:00 🏛 Casa Batlló** ✅ **予約済**（General Visit – Gold #102085084, €43×2, [`Attractions/7:22 Casa Batlló.pdf`](Attractions/7:22%20Casa%20Batlló.pdf)；⚠️ 遅刻猶予 15 分のみ；Dragon's Rooftop 込み；~1.5h → 16:30 退出）
+- 16:30-18:15 PdG 買い残しチェック / ホテル休憩
+- **18:45 🥘 夕食 Vinitus**（Consell de Cent 333；予約不可、19:00 前入店）
+- （JON CAKE は原案今日 → **7/23 のカフェタイムへ移動**、Casa Batlló 徒歩圏に店舗なし）
+
+#### 7/23（木）Day 15 — 旧市街 + Born 気ままナイト
+- 09:30 Gòtic を散歩 → **10:00 🥓 La Boqueria / Mercat de Sant Josep**（木曜営業 ✓；10 時以降は観光客で混雑、早めに；**生ハムは現地で食べる**：627 番 **Joan, La Llar del Pernil** のカット + フレッシュジュース；❌ **一枚も日本に持ち帰れない**）
+- 11:00 ☕ **Buenas Migas**（Plaça del Bonsuccés 6、市場から徒歩 4-5 分、focaccia + テラス）
+- 11:45 途中 **DesignPlace**（Carrer del Pi 11、ゴシック地区のローカルデザイン雑貨）→ ゆっくり Born へ
+- 午後：**ビーチ / 自由 / 昼寝**（ゆとりの余白）
+- **16:30 🍰 JONCAKE & COFFEE**（Sant Pere Més Baix 36、ホテルから 2-3 分；バスクチーズケーキ；🟢 人気フレーバーは売切あり、当日午前に電話/IG で取り置き）
+- 18:00 ホテルで休憩
+- **19:30 🍽 夕食：Born 周辺で気分次第 walk-in**（❌ Lasarte 取りやめ — 近所の bacari/タパスを気分で、予約なし）
+
+#### 7/24（金）Day 16 — Park Güell + 自由日
+- 09:15 出発 → **V19 バス**（Pl. Antoni Maura 停留所、ホテル徒歩 2 分）~30-35 分で **Albert Llanas** 直通（公園東側入口、下りで入園・登りなし）
+- **10:00 🌈 Park Güell Monumental Zone** ✅ **予約済**（Booking **8713018**、General €18×2、記名 MIAO DI + SAKODA AIRI、[`Attractions/7:24 Park Güell.pdf`](Attractions/7:24%20Park%20Güell.pdf)）— **10:00-10:30 の間に入場**；園内時間無制限だが**再入場不可**；パスポート携帯推奨；~2h：Banc de Trencadís モザイクベンチ + 正門トカゲ
+- 12:00 下山 → Gràcia 地区で昼食 or 市内へ
+- 午後：**お気に入りリピート / 行き残し / ビーチ / 買い足し**（自由）
+- 夜：**好きな店で〆**（気まま；Born の bacari/タパス walk-in）
+
+#### 7/25（土）Day 17 — 出発 → チューリッヒ（スイス区間へ）
+- 午前自由（Born でカフェ + パッキング；**SWISS オンラインチェックインを事前に**）
+- 11:45 🏨 チェックアウト → **12:00 🚕 taxi → BCN T1**（土曜昼 25-35 分、~€32-38）
+- ~12:35 T1 着（チェックイン締切 **14:10**；⚠️ 夏の土曜はセキュリティ 20-40 分待ちあり）
+- ⚠️ **スペインの買い物の免税手続きは BCN で**：7/25 スイス行き = EU 関税圏を出る → LOEWE などスペイン購入分の Tax Free 書類は **T1 の DIVA 端末**で検証（荷物を預ける前に）；スイス入国の個人免税枠 CHF 150/人 に注意
+- ✈️ **14:55 LX1955 → 16:40 ZRH**（PNR 7BWRK8, 座 16D/E）→「スイス」7/25 へ続く
 
 ---
 
@@ -340,12 +376,40 @@
 
 ---
 
-### フランクフルト / Frankfurt + 出発（2 泊 + 7/30 出発 · 7/28-30 · 🚧 day-by-day 未策定 / ホテル予約済み ✅）
+### フランクフルト / Frankfurt + 出発（2 泊 + 7/30 出発 · 7/28-30 · ✅ **day-by-day v5.2 確定版（2026-07-05）**）
 
 > 7/28 ICE 106 + ICE 596 Interlaken Ost 10:59 → Frankfurt Hbf 16:09（予約済み）→ 徒歩 **~5 分** → **JW Marriott Hotel Frankfurt**（Thurn-und-Taxis-Platz 2, Innenstadt 中心、conf #71632783, Deluxe 1 King, 66k pts + 1 引換証）
 > **v4.8.4 更新**：原 Roomers Frankfurt（Autograph, 未予約）→ 実際 **JW Marriott Frankfurt** ✅ — JW は Hauptbahnhof + Zeil 歩行者天国近く（Roomers は Sachsenhausen 美術館区、よりブティック）；4N 類引換証 1 枚で 66k pts 節約
 > 7/30 JL408 FRA T3 20:10 → NRT T2 7/31 16:15（予約済み PNR EKWC4T）；JW → FRA T3 タクシー ~25 分（S-Bahn S8/S9 Frankfurt Flughafen 11 分 + S-Bahn 駅から T3 内部シャトルオプション含む）
-> day-by-day 詳細未策定
+> **v5.2 ペース設計**：3 日間で観光半日は 1 回のみ；**仕事半日は 7/29 午前**（フランクフルト 9:00-13:00 = 日本時間 16:00-20:00、東京の午後をカバー）；7/30 出発日の午前は完全フリー。⚠️ **Lafleur 2★ は夏季休業 2026-07-06~08-13（公式サイト確認）で不可** — フランクフルトは 7 月末が一斉 Sommerpause（MAIN TOWER 7/20-8/9 休 / Gustav・Weinsinn は閉店済み）→ 7/29 夜は **RAUSCH（2026 新規 2★）第一候補 / Lohninger（2026 新規 1★）第二候補** 🔴 要予約（予約前に夏季休業無しを確認）。Rüdesheim 日帰りは断念 — ラインのリースリングは Kleinmarkthalle のワイン売場で調達。
+
+#### 7/28（火）Day 20 — ICE でフランクフルト着 + Sachsenhausen アップルワイン酒場（軽め）
+- 🚄 10:59 Interlaken Ost → 16:09 Frankfurt Hbf（ICE 106 + 596、Mannheim 同ホーム乗換 7 分、1 等 12 号車 45/46 席）
+- 16:15 徒歩 ~5 分 → **JW Marriott チェックイン**（conf #71632783；チタン SNA は宿泊 5 日前 = 7/23 提出）
+- 16:30-18:30 部屋で休憩（5 時間の列車後にひと息）
+- 18:30 軽く外出：ホテルは Zeil のすぐ横 — **MyZeil 屋上**からスカイライン眺望（徒歩 3 分）
+- **19:30 🍺 夕食 Sachsenhausen アップルワイン酒場 Adolf Wagner**（Schweizer Str. 71；代替 Atschel / Zum Gemalten Haus）— フランクフルト名物 **Apfelwein + シュニッツェル + Grüne Soße（緑のソース）**；ドレスコード不要・通常予約不要；ホテルからタクシー ~10 分 or 徒歩 ~25 分
+- 21:00 食後散歩 **Eiserner Steg 鉄橋**（マイン川 + 金融街スカイライン夜景）→ **Römerberg レーマー広場夜景** → 徒歩 ~15 分でホテルへ
+
+#### 7/29（水）Day 21 — 午前は仕事半日 + 午後は旧市街/買い物 + ファインダイニング
+- 09:00 起床 + ホテル朝食
+- **09:30-13:00 💻 仕事**（部屋 / Executive Lounge；= 日本時間 16:30-20:00、東京の午後をカバー）
+- **13:15 🥨 昼食 Kleinmarkthalle 屋内市場**（ホテル徒歩 ~7 分；**Schreiber のソーセージスタンド**が地元の名物、月-土営業・18:00 閉店）＋ **市場のワイン売場でラインのリースリング購入**（wishlist 項目をここで解決、空港より品揃え良）
+- 14:30 **Römerberg + Neue Altstadt 新旧市街**昼バージョン + 大聖堂外観（散歩 ~1h）
+- **15:30 🏛 Goethe Haus ゲーテハウス**（Großer Hirschgraben 23-25、~45 分、18:00 閉館）
+- **16:30-18:30 🛍 買い物：Goethestraße（高級ブランド街）+ Zeil**（1 店 ≥€70.01 ごとに免税書類をもらう；店は ~20:00 閉店）
+- **19:00 🍽 夕食ファインダイニング** 🔴 **要予約（Lafleur 代替）**：
+  - **第一候補 RAUSCH** — 2026 新規 **2★**、火-土 18:30 開始（☎ +49 69 66817701）
+  - **第二候補 Lohninger** — 2026 新規 **1★**、オーストリア料理（fine 版ウィンナーシュニッツェル）、Schweizer Str. 1 Sachsenhausen マイン川沿い、火-土（lohninger.de）
+  - 保険 Carmelo Greco（1★ イタリアン — イタリアを出て 8 日なので優先度低）；⚠️ どこも予約前に夏季休業無しを確認
+
+#### 7/30（木）Day 22 — 出発日（完全フリー）+ FRA 免税手続き + JL408 帰国
+- 自然に起床 + ゆっくり朝食
+- 午前 **完全フリー**（マイン川沿い散歩 / Städel 美術館（10:00 開館）/ 買い足し / パッキング）；日本の木曜午後に会議がある場合は仕事半日をこの午前に移動可（7/29 午前をフリーに）
+- チタンで **16:00 レイトチェックアウト**をバッファとして申請、ただし **15:00 にチェックアウト・出発** → タクシー ~25 分 → **15:30 FRA T3 着**
+- ⚠️ **旧メモ「18:00 出発」より 3h 前倒し — 免税手続きが全部この日に集中**：指輪 + 全行程の買い物 → 税関スタンプ + Global Blue/Planet カウンター（ハイシーズンは 1h+ 待ちあり、T3 は新ターミナルで勝手が分からないため余裕を持つ）；**預け荷物内の免税品は預ける前に税関で提示；指輪は手荷物・未着用・レシート+書類一式**
+- 16:30 JAL ビジネス チェックイン → 保安検査 → ラウンジで夕食
+- ✈️ **20:10 JL408 FRA T3 → NRT T2 7/31 16:15**（PNR EKWC4T、13h05）
 
 ---
 
@@ -379,19 +443,16 @@
 ## 🛍️ 買い物リスト（ミラノコア + バルセロナサブ）
 
 ### イタリアブランド（リスト 9/10）
-- **Quadrilatero della Moda 旗艦店**：Prada / Miu Miu / Bottega Veneta / Loro Piana / Tod's / Pellico / PARIS 64 / Fendi
-- **Hermès Milano** — Via Montenapoleone 12（事前 SA 予約）
-- **Serravalle Designer Outlet** — 1h 車程、ミラノ市価より 30-40% 安
+- **Serravalle Designer Outlet** — 1h 車程、ミラノ市価より 30-40% 安（v5.0：Quadrilatero 旗艦店予約は取りやめ、買い物は Serravalle + 7/9 Intrend Max Mara に集約）
 
 ### スペイン
 - **Loewe** Passeig de Gràcia 旗艦
-- **Hermès BCN** Passeig de Gràcia 77
 
 ### 食物 / ワイン持ち帰り
 - Chianti DOCG 6-12 本 + Tuscan EVOO（フィレンツェ）
 - Assyrtiko Santorini 火山岩白ワイン（サントリーニ）
 - スペインイベリア生ハム（バルセロナ Boqueria）
-- ライン リースリング（Rüdesheim）
+- ライン リースリング（v5.2：Rüdesheim へは行かず → **7/29 フランクフルト Kleinmarkthalle のワイン売場**で購入）
 - 全行程 €70.01/店閾値以上は Tax Free フォーム取得忘れずに
 
 ---
@@ -400,21 +461,18 @@
 
 | 日付 | 都市 | レストラン | 星 | 状態 / 備考 |
 |---|---|---|---|---|
-| **7/9 (木)** | ミラノ | Trippa or Ratanà | 推奨 / 1★ | 🚧 レトロ hipster / 当代ミラノ料理 |
-| **7/10 (金)** | ミラノ | **Cracco** or **Seta @ Mandarin Oriental** | **2★** / **2★** | 🚧 Galleria 内 / Mandarin Oriental — **60-90 日前予約必須** |
-| **7/11 (土)** | ヴェネツィア | **Antiche Carampane** | クラシック地元 | 🚧 San Polo 地区、クモガニ spaghetti — 14 日前 email |
-| **7/12 (日) 昼** | Burano | **Trattoria al Gatto Nero** | 推奨 | 🚧 島最高シーフードリゾット — 7-14 日前 email |
-| **7/12 (日) 夜** | ヴェネツィア | **Osteria alle Testiere** | クラシック地元 | 🚧 12 席小店シーフード — **60 日前 email 最難** ⚠️ |
-| **7/13 (月)** | フィレンツェ | Sostanza / Buca Lapi / Pinchiorri | クラシック / 1880 / **3★** | 🚧 到着夕暮れ全景後ディナー |
-| **7/14 (火)** | フィレンツェ | **La Bottega del Buon Caffè** or **Ora d'Aria** or Il Latini | 1★ / 1★ / 家族 | 🚧 Arno 河畔 / 当代 Tuscan / 家族長卓 |
-| **7/15 (水) 昼** | Chianti | **Rinuccio 1180 @ Antinori** | 推奨 | 🚧 パノラマ Chianti view 園中レストラン — 60 日前予約 |
-| **7/15 (水) 夜** | ローマ | Roscioli / Pierluigi / Da Enzo al 29 | クラシック | 🚧 Trastevere 旧市街ディナー |
+| **7/9 (木) 19:00** | ミラノ Brera | **Stendhal Brera**（リゾット + 郷土肉料理）| 妻の予約 | ✅ **予約済み** 2 名（Zenchef 167A-1B06-C207-A80E）；⚠️ キャンセルは ≥3h 前 |
+| **7/11 (土) 夜** | ヴェネツィア | ~~Trattoria alla Vedova~~ → **Hostaria Osottoosopra** | bacari / 伝統料理 | 🕐 **確認待ち**（AC Hotel フロントへ代行予約を返信依頼済み）；Santa Croce 164、+39 333 802 7830；❌ alla Vedova は 7/11 定休（ホテル電話確認済み） |
+| **7/12 (日) 夜** | ヴェネツィア | **Osteria al Portego** | bacari 気軽 | ✅ **予約済み**（AC Hotel フロント代行確認、19:00、2026-07-05）|
+| **7/13 (月) 19:30** | フィレンツェ Oltrarno | **All'Antico Ristoro di' Cambi**（妻のお気に入り）| 🥩 ビステッカ | ✅ **予約済み** 2 名（Di Miao, confermata）；食後 Ponte Santa Trinita ライトアップ |
+| **7/14 (火) 21:15** | フィレンツェ Oltrarno | **Zeb**（San Miniato、坂下すぐ）| 🍝 ステーキ以外（生パスタ）| 🟡 **メール予約リクエスト済み（確認待ち）** 2 名；Piazzale 日没後すぐ |
+| **7/15 (水) 夜 20:00** | ローマ 旧市街 | **Pierluigi**（Piazza de' Ricci）| シーフード + テラス | ✅ **予約済み** 2 名（conf AB6J4UBUCBY）；⚠️ キャンセル ≥24h、さもなくば €50/人 |
 | **7/17 (金) 18:30** | サントリーニ Imerovigli | **Lycabettus @ Andronis** | cliff fine dining | ✅ **予約済み** ref `1Iq_055...` — Cliff Area / honeymoon / front-row request；⚠️ 130 段階段なしエレベーター |
 | **7/18 (土) 13:00 昼** | サントリーニ Ammoudi Bay | **Sunset Ammoudi** | シーフードランチ | ✅ **予約済み** ref `QMfr8X2...` — front-row sea view リクエスト；赤崖青海日中対比 |
 | **7/18 (土) 夜** | サントリーニ Imerovigli | ~~La Maison @ Imerovigli~~ | ~~**1★**~~ | ❌ v4.8 Lycabettus 7/17 + Sunset Ammoudi 7/18 昼に置換（La Maison 予約せず）|
 | **7/19 (日) 17:00** | サントリーニ Oia | **Kastro** | Oia 古城日没 | ✅ **予約済み** ref `lWpO32r...` — "first line" / honeymoon sunset；⚠️ 最低消費 €45/人（18-20:30）/ 最大 2h / no-show €45/人 |
-| **7/22 (水)** | バルセロナ | ABaC or Lasarte | **3★** / **3★** | 🚧 Disfrutar 廃案、代替選 |
-| **7/28 (火)** | フランクフルト | Lafleur | **2★** | 🚧 fine dining |
+| **7/23 (木) 夜** | バルセロナ | ~~Lasarte 三ツ星~~ → **Born 周辺で気まま** | — | ❌ **2026-07-05 ユーザーがミシュラン取りやめ**：予約なし、気分で walk-in |
+| **7/29 (水) 19:00 目標** | フランクフルト | **RAUSCH**（第一候補）/ **Lohninger**（第二候補）| **2★** / **1★**（いずれも 2026 新規）| 🔴 **要予約**；~~Lafleur 2★~~ ❌ 夏季休業 7/6-8/13 で不可；RAUSCH ☎ +49 69 66817701（火-土 18:30-）/ Lohninger オーストリア料理 Schweizer Str. 1（火-土）；予約前に夏季休業無しを確認；保険 Carmelo Greco 1★ |
 
 ---
 
@@ -456,15 +514,13 @@
 |---|---|---|---|
 | Doge's Palace Secret Itineraries | 7/13 | 60 日 | palazzoducale.visitmuve.it |
 | Uffizi skip-the-line | 7/14 | 30 日 | uffizi.it |
-| Sagrada Família + 塔 | 7/20 | 30 日 | sagradafamilia.org |
-| Casa Batlló + Casa Milà 共通券 | 7/21 | 14 日 | barcelonaturisme.com |
-| Park Güell Monumental Zone | 7/20 | 14 日 | parkguell.barcelona |
+| ✅ **Sagrada Família 日本語ガイドツアー + 塔** | **7/22 (水) 09:00** | **予約済 Klook MXW879435** | 集合 **08:50** Carrer de Sardenya 311, Local 3 · [`Attractions/7:22 Sagrada Familia.pdf`](Attractions/7:22%20Sagrada%20Familia.pdf) |
+| ✅ **Casa Batlló**（General Visit – Gold）| **7/22 (水) 15:00** | **予約済 #102085084**（€43×2）| [`Attractions/7:22 Casa Batlló.pdf`](Attractions/7:22%20Casa%20Batlló.pdf)；⚠️ チケット記載 15:00（17:00 ではない）；Casa Milà は行かない（妻案になし）|
+| ✅ **Park Güell**（General · Monumental Zone）| **7/24 (金) 10:00** | **予約済 #8713018**（€18×2、記名）| [`Attractions/7:24 Park Güell.pdf`](Attractions/7:24%20Park%20Güell.pdf)；30 分入場窓・再入場不可 |
 | ✅ **ユングフラウヨッホ**（Good Morning）| 7/27 | **予約済み #295536** | Wengen 07:46↔12:38, 2 等, Amex · [`Attractions/7:27 Jungfraujoch.pdf`](Attractions/7:27%20Jungfraujoch.pdf) |
 | ✅ **Gelmerbahn**（106% ケーブル）| 7/26 | **予約済み #2A55DFA4** | 上 12:12 / 下 14:00, CHF 80, ⚠️ 工事歩道 ~30 分 · [`Attractions/7:26 Gelmerbahn.pdf`](Attractions/7:26%20Gelmerbahn.pdf) |
 | #5 Gimmelwald ケーブル（Stechelberg）| 7/27 | 現場 | CHF 6.40 片道 / schilthorn.ch |
 | ~~Rheinfall / Schilthorn 頂上~~ | — | — | #10/Schilthorn カット済み（シミュレーション A 不含）|
-| Hermès Milano SA 予約 | 7/10 | 2-3 週間 email |
-| Hermès BCN SA 予約 | 7/21 | 2-3 週間 email |
 | Serravalle Outlet 専用車 | 7/11 | 14 日 | 専用 driver Milano |
 
 ---
@@ -477,7 +533,7 @@
 | 独立 / 非ポイントホテル 5 泊（Sandblu LXR 2N ¥244k + Wengen Belvedere 2N CHF 1,434 + Zurich Marriott 1N 510 CHF）| ~€2,500-3,500 |
 | 区間航空券 + 高速鉄道（2 名含 23kg 預け）| ~€2,500-3,500 |
 | ミシュラン 9 食 2 名 | ~€4,000-6,000 |
-| 観光地入場券 + tour（Chianti 専用車 / Doge / Uffizi 等）| ~€2,000 |
+| 観光地入場券 + tour（Doge / ミラノ Duomo 等）| ~€2,000 |
 | 買い物（贅沢品本体除く）| 個人次第 |
 | 地上交通 + 雑費 | ~€1,000 |
 
@@ -490,13 +546,11 @@
 1. ✅ ~~Lauterbrunnen 独立精品~~ → **Wengen Belvedere 予約済み**（#5963.885.781）；残り：7/26 専用車 + Gelmerbahn 予約 + ユングフラウチケット
 2. 🟠 **JW Marriott Frankfurt** ✅ 予約済み — チタン SNA 提出（Deluxe → Executive Suite 確率中等）
 3. 🟠 **チタン SNA 予約済み 8 軒提出**（Casa Brera / AC Venezia / W Florence / Sheraton Roma / EDITION 確率高）
-4. 🟡 **ミシュランレストラン** Cracco / Osteria alle Testiere / Pinchiorri / La Maison / ABaC（60-90 日前；Osteria alle Testiere 7/12 最難）
-5. 🟡 **Antinori Chianti 7/15 半日 + Rinuccio 1180 ランチ**（60 日前 + 専用車）
-6. 🟡 **Duomo 屋根 7/9 + Duomo クーポラ Florence 7/14**（30 日前タイムスロット）
-7. 🟢 **Hermès Milano SA 7/9 + Hermès BCN 7/22 SA 予約**（2-3 週間前 email）
-8. 🟢 **Mystique アップグレード email**（**2026-06-01 ~ 06-08 ウィンドウ** ⚠️ 即送）
-9. 🟢 **Serravalle Outlet 7/10 専用車 RT**（14 日前）
-10. ✅ ~~ユングフラウ + Gelmerbahn~~ **予約済み**（#295536 / #2A55DFA4）；Gimmelwald ケーブル現場購入（CHF 6.40）
+4. 🟡 **ミシュランレストラン** Osteria alle Testiere / Pinchiorri / La Maison / ABaC（60-90 日前；Osteria alle Testiere 7/12 最難；ミラノ Cracco/Seta は取りやめ、v5.0 で 7/10 夜は Da Pepèn テイクアウトに変更）
+5. 🟡 **Duomo 屋根 7/9 + Duomo クーポラ Florence 7/14**（30 日前タイムスロット）
+6. 🟢 **Mystique アップグレード email**（**2026-06-01 ~ 06-08 ウィンドウ** ⚠️ 即送）
+7. 🟢 **Serravalle Outlet 7/10 専用車 RT**（14 日前）
+8. ✅ ~~ユングフラウ + Gelmerbahn~~ **予約済み**（#295536 / #2A55DFA4）；Gimmelwald ケーブル現場購入（CHF 6.40）
 
 ---
 

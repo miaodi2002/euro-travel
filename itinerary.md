@@ -45,16 +45,14 @@
 **🚧 v4.8.4 待规划：**
 - **苏黎世 7/25-26（1N）已订** — day-by-day 待定（7/25 16:40 ZRH 抵达 → 不赶 SBB 当晚去 Interlaken，市区慢吃 + Bahnhofstrasse 散步 + Limmat 河边）
 - ✅ **Wengen 2N（7/26-28）已订** — Grand Hotel Belvedere（Beaumier 5★，Deluxe – Jungfrau View, 含早, #5963.885.781）/ day-by-day 锁"模拟 A"（#1 少女峰 + #2 Staubbach + #3 Gelmerbahn + #5 Gimmelwald；7/26 私人司机）
-- **法兰克福 2N（7/28-30）已订 JW Marriott** — day-by-day 待定（7/28 16:09 抵 Frankfurt Hbf 步行 ~5min → JW Marriott；7/29 整日 Lafleur 米其林 / Römerberg / Goethe Haus / Zeil 购物 / 莱茵雷司令；7/30 早 leisurely → 18:00 taxi → FRA T3）
+- ✅ **法兰克福 2N（7/28-30）day-by-day v5.2 锁版（2026-07-05）** — 7/28 抵达晚 = Sachsenhausen 苹果酒馆 + 夜景；7/29 上午**工作半天** + 下午老城/购物 + fine dining；7/30 全空 + **15:00 提早出发**（FRA 退税集中在此）。⚠️ **Lafleur 夏休 2026-07-06~08-13 不可行**（官网确认）→ 换 **RAUSCH（2★）/ Lohninger（1★）** 🔴 待订
 
 **下次继续（按 todo.md 优先级）：**
 1. 🟡 米其林餐厅批量订（按 v4.6 日期，最难是 Osteria alle Testiere 7/12）
-2. 🟡 Antinori Chianti 7/15 半日 + Rinuccio 1180 午餐预约（60 天前）
-3. 🟡 Duomo 屋顶 7/9 + Duomo 穹顶 Florence 7/14（30 天前时段票）
-4. 🔴 **钛金 SNA** 10 家酒店各家提交（Casa Brera / AC Venezia / W Florence / Sheraton Roma / Mystique / EDITION / Zurich Marriott / JW Marriott FRA 概率较高；MXP Sheraton 1N 可选）
-5. 🟢 Hermès Milano SA 7/9 + Hermès BCN 7/22（2-3 周前 email）
-6. 🟢 Mystique 升级 email（**2026-06-01 ~ 06-08 窗口** ⚠️ 今天 6/6）
-7. ✅ ~~Lauterbrunnen 独立精品~~ → 改订 **Wengen Belvedere**（已订 #5963.885.781）
+2. 🟡 Duomo 屋顶 7/9 + Duomo 穹顶 Florence 7/14（30 天前时段票）
+3. 🔴 **钛金 SNA** 10 家酒店各家提交（Casa Brera / AC Venezia / W Florence / Sheraton Roma / Mystique / EDITION / Zurich Marriott / JW Marriott FRA 概率较高；MXP Sheraton 1N 可选）
+4. 🟢 Mystique 升级 email（**2026-06-01 ~ 06-08 窗口** ⚠️ 今天 6/6）
+5. ✅ ~~Lauterbrunnen 独立精品~~ → 改订 **Wengen Belvedere**（已订 #5963.885.781）
 
 ---
 
@@ -103,158 +101,148 @@
 
 ## 🗺️ Day-by-Day 详细行程（v4.8 — 意大利锁版 / 酒店实际选择已反映 / 圣托里尼起待规划）
 
-### 米兰 / Milano（3 晚 · MXP Sheraton 1N + Casa Brera LC 2N · **v4.6 节奏锁版 + v4.8 酒店更新**）
+### 米兰 / Milano（3 晚 · MXP Sheraton 1N + Casa Brera LC 2N · **v5.0 太太重做版（2026-06-28）**）
 
-> **v4.6 节奏原则**：起床 ≥09:00 / 每天 3-4 个核心活动 / 长午餐 + 缓冲 / 不特种兵 / 太太 3 个食物愿望全保留 / Hermès SA 保留 / 购物核心 = Outlet（Quadrilatero 仅 Hermès SA）
+> **v5.0 太太重做版**：太太按自己需求重排（取代旧 v4.6/v4.8）。**已订**：Duomo 屋上テラス 7/9 · Stendhal Brera 晚餐 7/9 · Serravalle Easy Shopping 巴士 7/10 · Frecciarossa 7/11。⚠️ **Duomo 仅露台（不含大教堂内部）**；7/10 购物日后 = Da Pepèn 外带 + 房间小酌（无米其林）。
+> 🏨 **住**：7/8 **Sheraton Malpensa**（机场，T1 直连）→ 7/9-11 **Casa Brera**（Brera 区，#71361226）。🚖 **移动**：7/9 早 **Taxi 直达 Sheraton Malpensa → Casa Brera**（**前晚请酒店预约**，Malpensa→市中心固定价 €104，~50min 门到门）；市内全步行（Brera/Duomo 都近）；7/10 Serravalle 巴士（Via Fatebenefratelli 4，酒店步行 2min）；7/11 taxi 回 Centrale 赶 15:45 火车。⚠️ Duomo 露台**禁大件行李** → 先到 Casa Brera 放行李再去；07:30 出发即从容。
 
-#### 7/8（三）Day 0 — MXP 机场过夜（v4.8 调整）
-- 20:15 抵 MXP T1（EK091）
+#### 7/8（三）Day 0 — 移动日 → MXP 机场过夜
+- 终日 **HND T3 → DXB T3 → MXP T1**（EK313 + EK091，Ref **M8NHD2**），抵 MXP 20:15
 - 20:45 出关 + 取行李
-- 21:00 步行 / 摆渡 → **Sheraton Milan Malpensa Airport Hotel**（T1 直连，conf #71359009，Classic Room 1 King, 45k pts + €6）
-- 21:30 check-in + Bonvoy 钛金 lounge（如有）
-- 22:00 简餐 + 睡
+- 21:00 🏨 步行/摆渡 → **Sheraton Milan Malpensa Airport**（**T1 直连**，conf #71359009，Classic Room 1 King，45k pts + €6）check-in
+- **21:15 📝 备忘：check-in 时顺口跟前台预约明早 07:30 出发的车（Sheraton Malpensa → Casa Brera，固定价约 €104）**——别忘了这步，否则明早现叫车没有保证
+- 22:00 简餐 + 睡（隔日早班，早睡）
 
-#### 7/9（四）Day 1 — Malpensa → Casa Brera + Duomo + Hermès + 食物探店
-- 07:30 起，Sheraton MXP 早餐（钛金福利）
-- 08:30 check-out + Malpensa Express MXP T1 → Milano Centrale（53min, €13/人，每 30min 一班）
-- 09:25 抵 Centrale → taxi 7min → **Casa Brera, a Luxury Collection Hotel**（Piazzetta M. Bossi 2，Brera 区, conf #71361226, Superior 2 Single, 246k pts + €48）
-- 09:45 早 check-in 寄行李（Bonvoy 钛金 lounge）
-- 11:30 步行 12min → Duomo
-- **12:00-13:30 Duomo 大教堂内部 + 屋顶 Terrace**（电梯 €20，提前订时段票）
-- 13:30 Galleria Vittorio Emanuele II + Prada Galleria 1913 首店（顺路）
-- **14:00 🥖 Da Pepèn 帕尼尼午餐**（Via Marcello Malpighi 3）— 太太愿望 ✓
-- **15:30-17:00 🛍️ Hermès Milano SA 预约**（Via Montenapoleone 12，提前 2-3 周 email）
-- **17:15 🍦 CIACCO Gelato**（Via Spadari 13）— 太太愿望 ✓
-- **17:45 🍫 Cioccolatitaliani**（Via S. Raffaele 6, Galleria 旁）— 太太愿望 ✓
-- 18:30 返 Casa Brera 休息（从 Galleria 步行 10min 经 Via Manzoni）
-- **19:30 Aperitivo @ Camparino in Galleria**（Negroni 发源地）
-- **20:30 晚餐 Trippa**（hipster 复古米兰菜，无 reservation 排队）or **Ratanà**（1★ 当代米兰菜，需订）
-- 23:00 回 Casa Brera
+#### 7/9（四）Day 1 — Malpensa → Casa Brera + 市内观光 + 购物 + 美食
+- 07:00 起 + Sheraton MXP 早餐（钛金福利）
+- 07:30 🏨 退房 → 🚕 **Taxi（前晚请酒店预约好）Sheraton Malpensa → Casa Brera**（~50km，~50min；Malpensa→米兰市中心**固定价 €104**）
+- ~08:25 抵 **Casa Brera, a Luxury Collection Hotel**（Piazzetta M. Bossi 2，Brera，conf #71361226，Superior 2 Single，246k pts + €48）→ **早 check-in / 寄行李**（钛金 lounge；⚠️ **Duomo 露台禁大件行李，先放下再去**）
+- 08:45 步行 ~12min → Duomo
+- 09:15 Duomo 到着（提前 15min；实际集合 **9:25**）
+- **09:30 ☀️ Duomo 屋上テラス** ✅ **已订**（GetYourGuide **GYGZGZZAW6KN** / PIN X#hTN+nV，2 大人，¥8,106，[`Attractions/7:9 Duomo Terrace.pdf`](Attractions/7:9%20Duomo%20Terrace.pdf)）⚠️ **仅露台、不含大教堂内部**；电梯在 Duomo 背面；禁大包/食物/玻璃品、着装遮肩遮膝
+- 10:10 🎨 **Brera 绘画馆**（Pinacoteca di Brera，往酒店方向步行 10min）
+- **12:00 🥟 Luini Panzerotti**（Via Santa Radegonda 16，Duomo 后；1888 创业炸披萨 panzerotti）
+- **12:30 🛍 Intrend（Max Mara）**（Largo Corsia dei Servi 15，Duomo 步行 3min）
+- 14:30 🏰 **Castello Sforzesco** 散策
+- **15:30 🍝 Piazza Sempione 6**（生意面 €12、水免费、面包 €1；营业 12:00-22:30）
+- **16:30 🍦 CIACCO**（Via Marghera 29A，米兰 No.1 Gelato）— 太太愿望 ✓
+- 18:30 🏨 回 Casa Brera 休憩（Brera，离 Stendhal 步行 ~5min）
+- **19:00 🍷 晚餐 Stendhal Brera** ✅ **已订**（Google/Zenchef ID **167A-1B06-C207-A80E**，2 位，Via San Marco；⚠️ 取消需 ≥3h，[`Restaurants/7:9 Milano Stendhal Brera.pdf`](Restaurants/7:9%20Milano%20Stendhal%20Brera.pdf)）
 
-#### 7/10（五）Day 2 — Serravalle Outlet 全日
-- 08:30 起
-- 09:15 早餐
-- 09:45 私车出发（Casa Brera 门口 pickup）
-- 10:45-16:00 **Serravalle Designer Outlet**（5h+ 含 13:30 简餐）
-  - 主品牌：Prada / Miu Miu / Bottega Veneta / Loro Piana / Tod's / Fendi / Hogan / Pellico / Max Mara / Pomellato（市价 -30~40%）
-- 16:00 私车返米兰（1h）
-- 17:00 抵 Casa Brera，整理战利品 + 拍照
-- 17:00-19:00 休息 / 换衣
-- **19:30 米其林晚餐 Cracco**（Galleria 2★）or **Seta @ Mandarin Oriental**（2★） — **提前 60-90 天订**
-- 23:00 回 Casa Brera
+#### 7/10（五）Day 2 — Serravalle Shopping Day
+- 10:05 集合 **Via Fatebenefratelli 4**（酒店步行 2min，Biosseri 餐厅前）
+- **10:15 🚌 Serravalle Easy Shopping 巴士出发** ✅ **已订**（Frigerio Viaggi，2 名，**€66**，Ref **V1FU0EFC4Z000C85PSMT**；含 Fashion Passport 额外 10% off + Hands-Free Shopping，[`Attractions/7:10 Serravalle Shuttle.pdf`](Attractions/7:10%20Serravalle%20Shuttle.pdf)）
+- 11:15 抵 Serravalle
+- **11:15-18:00 🛍 购物**：Fendi / Celine / Prada / Miu Miu / Bottega Veneta / Loro Piana / Tod's / Pellico / Pomellato / Jil Sander / **Hogan**（~13:30 美食广场轻食；💡 Max Mara 已在 7/9 Intrend 买、此处可跳过）
+- **18:30 🚌 返程巴士**（Serravalle Starbucks 前）→ ~19:30 米兰 Via Fatebenefratelli 下车
+- **20:00 🥪 Da Pepèn 外带**（Via Marcello Malpighi 3，~22:00 关；马肉酱帕尼诺）— 太太愿望 ✓
+- 20:30 🍷 酒店房间小酌
 
-#### 7/11（六）Day 3 — Brera 区直接慢散步 + Frecciarossa 转威尼斯（v4.8 优势：Casa Brera 在 Brera 中心，出门即到）
-- 09:00 起
-- 10:00 早餐 Casa Brera（钛金 lounge / 慢吃）
-- 11:30 步行 5min → **Castello Sforzesco**（外观，米兰公爵城堡，Casa Brera 西南 500m）
-- 12:00 **Parco Sempione** 散步（米兰中央公园，林荫）
-- 12:30 步行 → **Brera 区漫游**（Casa Brera 周边，米兰最 artsy 街区，石板路 + boutique）
-- **13:00 Brera 午餐 — Trattoria Milanese**（米兰菜经典 cotoletta + ossobuco）or **N'Ombra de Vin**（19C 酒窖 + cicchetti，Brera 区内）
-- 14:15 **☕ Café Fioraio Bianchi**（花屋咖啡馆，IG 网红点，Brera 内）+ 最后散步
-- 14:30 返 Casa Brera 取行李
-- 14:45 taxi 7min → Milano Centrale（or 步行 30min）
-- 🚄 **15:45 Frecciarossa 9741 Business → 18:12 Venezia S. Lucia**（2h27）
-  - PNR **Y8JE9N**, 座 1/16A (Sakoda) + 1/16B (Miao), €63.80/2 人
-- 18:20 出 SL 站 → 步行 **5-7min** → **AC Hotel Venezia**（Rio Terà Sant'Andrea 466, Cannaregio, conf #71335812, 1 Queen, 146k pts + €14）— v4.8：无需水上 taxi
-- 18:30 check-in（Bonvoy 钛金 SNA / lounge 视酒店）
-- 19:15 步行 → San Polo 区（过 Scalzi 桥 → Rio Terà di S. Apollonia 路线，约 25min）or 水上 taxi €30
-- **21:00 🦞 晚餐 Antiche Carampane** — 经典 Venetian 海鲜（蜘蛛蟹 spaghetti、sarde in saor、海鲜烩饭）— **必订 14 天前**
-- 23:00 散步回 AC Hotel（夜间运河浪漫）
+#### 7/11（六）Day 3（上午·米兰）— Café + Brera + Galleria + 午餐 → 转威尼斯
+- 09:00 起 + 🏨 **Casa Brera 退房，行李寄存前台**（轻装出门）
+- **10:00 🌸 Café Fioraio Bianchi**（花屋咖啡，Brera 区 Via Montebello 7；IG 网红，早餐 + 咖啡）— 太太追加
+- 10:30 **Brera 区散策**（石板路 + boutique + 画廊）
+- **11:00 🍫 Cioccolatitaliani**（Via S. Raffaele 6，Galleria 旁；蛋筒底注巧克力）— 太太愿望 ✓
+- **11:30 📸 Galleria Vittorio Emanuele II**（世界最老商场，Prada 本店，拍照点）
+- **12:00 🍽 午餐 Trattoria Milanese**（Via Santa Marta 11；米兰传统菜 cotoletta 炸牛排 / ossobuco）— 太太追加；⚠️ **无在线订位**（Quandoo 页面明确写"不可线上订，请直接联系餐厅"），需电话预约：**+39 02 8645 1991**（周六午餐热门，建议出发前打电话订）
+- 13:30 回 Casa Brera 取行李
+- 14:00 🚕 taxi ~7min → **Milano Centrale**
+- 🚄 **15:45 Frecciarossa 9741 Business → Venezia**（接下方威尼斯段 7/11）
 
 ---
 
-### 威尼斯 / Venezia（2 晚 · AC Hotel Venezia · **v4.6 节奏锁版 + v4.8 酒店更新**）
+### 威尼斯 / Venezia（2 晚 · AC Hotel Venezia · **v4.9 太太愿望版重建（2026-06-28）**）
 
-> **v4.6 锁版**：均衡型主线 / 半日 Burano（跳过 Murano）/ 公爵宫只外观 / 都经典本地晚餐（无米其林）/ 含黄昏 Gondola 穿叹息桥下
-> **v4.8 更新**：AC Hotel 在 Cannaregio 区 Santa Lucia 站旁（步行 5-7min），离 San Marco/Rialto 步行 15-20min。早 Vaporetto 起点 Fondamente Nove 步行 12min 即到
+> **v4.9 重建**：放弃旧 v4.6（Burano + 米其林）。按太太 5 大愿望重排 → 🚣贡多拉钻叹息桥 / 🌉过 Rialto / 😮‍💨叹息桥内外 / 🔮Murano 玻璃 / 🍦Gallonetto 冰淇淋。节奏舒适均衡（每天 3 核心 + 留白）；**只去 Murano（不去 Burano）**；大教堂**进内部**；晚餐随性 **bacari**（非米其林）。
+> ⚠️ **真实星期已修正**：7/11 **六** / 7/12 **日** / 7/13 **一**（旧版星期标错一天 → 已规避周日大教堂下午才开、Rialto 鱼市周日周一休 等坑）。
+> **已订**：🏛️公爵宫 7/12 14:00（€70，含叹息桥内部）· ⛪大教堂 7/13 11:30 完整票（€60）。**🕐 待确认**：贡多拉（Danieli 私船，已邮件 Gondolieri Travel）· 晚餐 ×2（已请酒店代订）。
+> **位置**：AC Hotel 在 Cannaregio Santa Lucia 站旁（步行 5-7min）；中心步行 ~12-15min 到 Rialto；Murano 走 Fondamente Nove + 4.1 线。
+> ✅ **米兰段已由太太重做并回填（见上方「米兰 v5.0」段）**。
 
-#### 7/12（日）Day 4 — Burano 半日 + Rialto + Cicchetti + Gondola + Osteria
-- 09:00 起
-- 10:00 早餐 AC Hotel
-- 11:00 步行 12min → **Fondamente Nove 站**（v4.8：AC Hotel 在 Cannaregio，离 Fondamente Nove 比 Gritti 还近）
-- 11:15 Vaporetto Line 12 → Burano 直达（40min）
-- **12:05 🎨 抵 Burano** — 全球最色彩缤纷的渔村
-- 12:05-13:00 Via Galuppi 主街 + 彩色房子 + **Casa di Bepi**（网红斑马屋）拍照
-- **13:00 🦐 Trattoria al Gatto Nero 午餐** — Burano 最佳海鲜 risotto（**必订 7-14 天前**）
-- 14:30 蕾丝店（500 年 Burano lace 历史）+ 自由拍照
-- 15:30 Vaporetto Line 12 → 返威尼斯（50min）
-- 16:30 抵 Fondamente Nove → 步行 → Rialto（15min）
-- **16:45 🌉 Rialto 桥** + Grand Canal 全景 — 太太愿望 ✓
-- 17:00 Rialto 街区漫步
-- **17:30 🍷 Cantina Do Mori 巴酒**（1462 年最老 bacaro，cicchetti + 葡萄酒，站着吃 45min，现场无需订）
-- 18:30 步行 → 圣马可附近 gondola 站
-- **19:00 🚣 黄昏 Gondola 30min** — 经典路线穿 **Bridge of Sighs 桥下** + 小运河（€80/船）— 太太愿望 ✓
-- 19:45 步行回 AC Hotel（约 25min，经 Rialto + Strada Nuova）or 水上 taxi
-- 20:15 短换衣
-- 20:15 步行 / Vaporetto → Osteria（San Marco 区）
-- **20:30 🐟 晚餐 Osteria alle Testiere** — 12 座小店海鲜专门（**必订 60 天前**，最难订）
-- 23:00 回 AC Hotel（夜 Vaporetto 1 号 Rialto → Ferrovia ~15min）
+#### 7/11（六）Day 3 — Frecciarossa 抵威尼斯 + 威尼斯第 1 晚（v4.9）
+- 🚄 **15:45 Frecciarossa 9741 Business → 18:12 Venezia S. Lucia**（2h27）— PNR **Y8JE9N**, 座 1/16A (Sakoda) + 1/16B (Miao), €63.80/2 人（上午米兰段见上方「米兰 v5.0」7/11）
+- 18:20 出 SL 站 → 步行 **5-7min** → **AC Hotel Venezia**（Rio Terà Sant'Andrea 466, Cannaregio, conf #71335812, 1 Queen, 146k pts + €14）— v4.8：无需水上 taxi
+- 18:30 check-in（报 honeymoon/纪念；问钛金 **SNA 套房升级** + 周一行李寄存）
+- 18:50 放行李、轻装出门
+- **19:15 🍷 Vino Vero**（Fondamenta Misericordia，步行 ~12min）— 运河边自然酒 + cicchetti 开胃（站着吃，无需订）
+- **20:30 🍽️ 晚餐 Hostaria Osottoosopra**（Santa Croce 164，+39 333 802 7830；威尼斯传统菜带点现代创意）— 🕐 **待确认**：❌ alla Vedova 7/11 当天休息（酒店前台已致电确认关门），酒店推荐 Osottoosopra 或 Ae Cravate 替代，已回信请前台代订 Osottoosopra
+- **21:45 🌉 Rialto 桥夜景** — 第 1 次过桥，大运河灯影 — 太太愿望 ✓
+- **22:10 🍦 Gelateria Gallonetto** — 周六开到 ~22:30，第 1 次冰淇淋 — 太太愿望 ✓
+- 22:30 沿 Strada Nuova 散步回 AC Hotel
 
-#### 7/13（一）Day 5 — 圣马可 + 叹息桥 + Frecciarossa 转佛罗伦萨
-- 09:00 起
-- 10:00 早餐 AC Hotel
-- 11:15 Vaporetto 1 号 Ferrovia → San Marco-Vallaresso（~30min, scenic Grand Canal 全程）or 步行 25min
-- 11:30 抵 **Piazza San Marco**
-- 11:30-12:00 **🏛️ 圣马可广场 + 大教堂外观**（基立卡金面 + Loggia 拱柱）
-- 12:00 步行 → 公爵宫外观
-- **12:15 🌉 叹息桥 Ponte dei Sospiri** 从 **Ponte della Paglia** 拍 — 太太愿望 ✓
-- 12:30 Riva degli Schiavoni 滨水步道散步
-- **13:00 ☕ Caffè Florian 咖啡**（1720, 世界最老咖啡馆，露天广场座）
-- 13:45 Vaporetto 1 → 返 Ferrovia（30min）或 步行回 AC Hotel
-- 14:15 AC Hotel 取行李 → 步行 5min → Venezia S. Lucia
-- 14:30 抵 SL，55min buffer
+#### 7/12（日）Day 4 — Murano 玻璃 + 圣马可簇 + 日落贡多拉
+- 08:00 早餐（酒店 / **Panificio Volpe** 犹太区面包房，7:00 开）
+- 09:00 步行 ~18min → **Fondamente Nove** → **Vaporetto 4.1**（~10min）
+- **09:45 🔮 抵 Murano** — 沿 Fondamenta dei Vetrai 逛玻璃展厅（碰上现场吹制可免费看几眼）；可选 **Museo del Vetro 玻璃博物馆**（€10）— 太太愿望 ✓
+  - 选购认 **「Vetro Artistico Murano」商标 + 扫 QR 验真 + 要授权证书**（防中国进口仿品）
+- 12:00 Murano 轻午餐 / 返程
+- 12:15 Vaporetto 返 → 转 **San Marco**（~45min，一次性大转场，不再来回横跳）
+- **13:15 🍽️ 午餐 Sepa**（Calle de la Bissa，Rialto 旁，墨鱼小盘随性，无需订）；途中 **🌉 第 2 次过 Rialto（白天）** — 太太愿望 ✓
+- **14:00 🏛️ 公爵宫 Palazzo Ducale**（✅ **已订** €70，计时 14:00）— 标准线**从内部穿过叹息桥**进新监狱 — 太太愿望 ✓（叹息桥·内侧）
+- **16:00 😮‍💨 Ponte della Paglia 拍叹息桥外景**（免费）— 太太愿望 ✓（叹息桥·外侧）
+- 16:20 Piazza San Marco 闲逛拍照；想坐 **Caffè Florian** 听乐队就给 ~70min（两人露天 ~€35–50，含 €6–8/人 乐队费）；**🍦 Gallonetto** 路上第 2 次冰淇淋
+- 17:00 回酒店小憩 / 换衣
+- **19:00 🍽️ 晚餐 Osteria al Portego**（Castello bacaro）✅ **已订**（AC Hotel 前台代订确认，2026-07-05 邮件回复）
+- 20:15 步行到 **Danieli / San Zaccaria 码头**（⚠️ 钻叹息桥只能从这里上船，非 Bacino Orseolo）
+- **20:30 🚣 日落贡多拉钻叹息桥**（🕐 **待确认**：已邮件 Gondolieri Travel 锁私船 ~€130–155；未回则现场 walk-up €110，跟船夫说 «sotto il Ponte dei Sospiri»）— 太太愿望 ✓；日落 20:58
+- 21:05 圣马可广场夜景（人少灯美）小酌
+- 21:40 Vaporetto 1/2 号 San Marco → Ferrovia（~25–30min）→ AC Hotel
+
+#### 7/13（一）Day 5 — 圣马可大教堂 + 收尾 + Frecciarossa 转佛罗伦萨（佛夜：ノヴェッラ薬局 + ビステッカ + 老桥夜景）
+- 08:30 慢早餐（酒店 / Panificio Volpe）
+- 09:30 退房 + **行李寄存酒店**
+- 09:45–11:15 从容散步去 San Marco：**🌉 第 3 次过 Rialto（白天）** + 最后玻璃/面具/纸品采购（昨天没拍够的叹息桥外景可补拍）
+- **11:30 ⛪ 圣马可大教堂**（✅ **已订** €60，完整票：正殿金马赛克 + **Pala d'Oro 金祭坛** + Loggia 阳台）— 太太愿望 ✓
+  - ⚠️ **遮肩遮膝**（带薄披肩）；背包/行李 >40×30×20cm 不可带入（寄存 Ateneo San Basso）；不含钟楼
+- 12:45 午餐 **Sepa / Farini**（Rialto 旁，柜台速食，别久坐）
+- 13:30 走/Vaporetto 回程 → 取行李
+- 14:15 步行 5min → Venezia S. Lucia
+- 14:50 站台候车
 - 🚄 **15:26 Frecciarossa 9427 Business → 17:39 Firenze SMN**（2h13）
   - PNR **Y8J8TN**, 座 2/16A (Miao) + 2/16B (Sakoda), €119.80/2 人
 - 17:42 步行 **3min** → **W Florence**（Via del Melarancio 1, SMN 站正对面）— v4.8：W Florence 紧邻车站
-- 17:45 **W Florence check-in**（conf #71329387, Deluxe 1 King, 182k pts + €32，Bonvoy 钛金 SNA / Living Room lounge）
-- 19:00 taxi 10min → **Piazzale Michelangelo**
-- 19:00-20:00 **🌅 黄昏全景 + 青铜 David 副本**（不用进 Accademia 排队，露天广场）
-- 20:00 散步下山经 Rose Garden 玫瑰园
-- 20:45 步行回 Arno 河边 → W Florence
-- **21:00 晚餐**：**Trattoria Sostanza**（黄油鸡 + Tuscan T-bone 经典）or **Buca Lapi**（1880 最老 cantina）or **Pinchiorri**（3★ splurge）
+- 17:45 **W Florence check-in**（conf #71329387, Deluxe 1 King, 182k pts + €32，Bonvoy 钛金 SNA / Living Room lounge）→ 放行李
+- **18:15 💎 ノヴェッラ薬局** — 太太愿望 ✓ **Officina Profumo-Farmaceutica di Santa Maria Novella**（Via della Scala 16，离酒店步行 5-7min；世界最老药局 1221，每天开到 20:00）。Acqua di SMN 香水 / Pot-Pourri 香包 / 玫瑰水 / 手工皂 / Iris 香水；frescoed 历史厅 + 小博物馆，免费 walk-in，30-45min（开门 09:30 或傍晚最清静，11-16 时人多；非欧盟凭护照可退税，满 €70）
+- **19:30 🥩 ビステッカ晚餐 @ All'Antico Ristoro di' Cambi** ✅ **已订**（confermata，预约人 Di Miao，2 位，[`Restaurants/7:13 Firenze Cambi.pdf`](Restaurants/7:13%20Firenze%20Cambi.pdf)）— 太太愿望 ✓ 太太最爱（San Frediano/Oltrarno，Via Sant'Onofrio 1r，1950 砖拱老馆，本地味佛式丁骨牛排，~€60/kg）；离酒店步行 ~20min 或打车 ~10min（餐后步行 ~12min 到 Ponte Santa Trinita 看夜景）
+- **21:00 🌃 ヴェッキオ橋夜景** — 太太愿望 ✓ 走到 **Ponte Santa Trinita**（下游 3-4min）看蓝调亮灯倒影（7 月日落 20:54，**蓝调 21:00-21:30 最佳**，全黑后失蓝天对比）→ gelato → 慢走过亮灯 Ponte Vecchio 回 W Florence
 
 ---
 
 ### 佛罗伦萨 / Firenze（**2 晚** · W Florence · **v4.6 节奏锁版 + v4.8 酒店更新**）+ 罗马 / Roma（1 晚 · Sheraton Roma Parco de' Medici）
 
-> **v4.6 锁版**：佛 2N（含 Antinori Chianti 半日，无 Uffizi / Accademia 博物馆）+ 罗马 1N 黄昏快闪 + Trastevere 晚餐
+> **v4.9 佛罗伦萨重建（太太愿望版，2026-06-28）**：7/13 夜 = ノヴェッラ薬局 + ビステッカ + 老桥(Ponte Santa Trinita)夜景；7/14 = 色石戒指（Cassetti / Fratelli Piccini / Alessandro Dari）+ ドゥオーモ + ミケランジェロ広場日落；**7/15 = 上午自由行动**（原 Antinori 酒庄因 7/15 全约满取消）。⚠️ **Pisa 斜塔经太太同意去掉**。放掉旧版 Boboli 花园 + Tornabuoni 时装购物。Fratelli Piccini 周一关 → 珠宝必排 7/14(周二)
+> **v4.6 锁版**：佛 2N（无 Uffizi / Accademia 博物馆）+ 罗马 1N 黄昏快闪 + Trastevere 晚餐
 > **v4.8 更新**：W Florence 在 SMN 站旁老城北 — Mercato Centrale 5min，Duomo 8min；Sheraton Roma Parco de' Medici 紧邻 FCO 机场（不在 Termini），7/15 夜 sightseeing 后 taxi 30min 回酒店，7/16 早 FCO 10-15min
 
-#### 7/14（二）Day 6 — Duomo + Mercato + Boboli + 老城购物
-- 09:00 起
-- 10:00 早餐 W Florence（Living Room lounge）
-- **11:00 Duomo + Brunelleschi 穹顶登顶**（463 级，1.5h，**必须提前订时段票**）
-  - 同票含 Baptistry 洗礼堂（Gates of Paradise）+ 钟楼 Giotto's
-- **12:30 Baptistry** 内部（金马赛克穹顶 15min）
-- 13:00 步行 → **Mercato Centrale 中央市场**（10min）
-- **13:00 🍴 Mercato Centrale 午餐**：一楼传统市场（生鲜、奶酪、火腿）+ **二楼 Food Hall 现做**（Lampredotto 牛肚三明治、Bistecca alla Fiorentina 现切）
-- 14:30 步行 → **Ponte Vecchio 老桥**（5min）
-- 15:00 过桥 → **Pitti 宫殿外观 + Boboli 花园**（3h 户外园林）
-- 17:30 步行回北岸经 Santa Trinita 桥
-- **18:00 🍷 Procacci**（Via de' Tornabuoni 64）— **Antinori 家自营店**
-  - 买 Chianti Classico DOCG 6-12 瓶 + 旗舰 Tignanello（超级 Toscana）+ Truffle Panini 配 VinPouch 真空包
-- 19:00 **Tornabuoni 街高端购物** — Salvatore Ferragamo（佛罗伦萨本地诞生）/ Gucci / Pucci
-- **20:30 晚餐**：**La Bottega del Buon Caffè**（1★ Arno 河边）or **Ora d'Aria**（1★ 当代 Tuscan）or **Il Latini**（家庭长桌经典）
+#### 7/14（二）Day 6 — 色石戒指（Ponte Vecchio）+ ドゥオーモ + Alessandro Dari + ミケランジェロ広場日落
+- 09:30 起 + 早餐 W Florence（Living Room lounge）
+- **10:30 💍 Ponte Vecchio 选色石戒指（今日重头戏，上午桥上最清静）** — 太太愿望 ✓
+  - **Cassetti**（Ponte Vecchio 54/R，1926；碧玺/蓝宝石/坦桑石，自家 atelier 可定制；周一-六 10:30-19:00、周日 11:00-19:00）`ponte54@cassetti.it` / +39 055 287361 — 注：54/R 才是珠宝旗舰，29/33/52/56R 是手表
+  - **Fratelli Piccini**（Ponte Vecchio 21/23r，1903；红宝石/祖母绿/蓝宝石，Vasari 廊下 atelier 可定制/改款；**周二-六 10:30-19:00，周日+周一全关**）WhatsApp +39 366 823 1542 / `fp@fratellipiccini.com`
+  - 💡 **只逛不用预约**，两家都 walk-in 自由参观；上午 10:30 桥上最清静=最佳时段，带两本护照（买了好开退税）。**只在看中、要认真选购高价戒指时**才值得约私室（看裸石、谈证书/改圈/退税）
+  - ⚠️ **Rajola 桥上已无门店**（老店 1960s 关闭、品牌迁那不勒斯）→ 想要平价彩色半宝石风可看桥上 **Gioielleria Vaggi（Ponte Vecchio 2R）** 等
+- 13:00 午餐（Mercato Centrale 二楼 Food Hall：Lampredotto 牛肚 + 现切 Bistecca，或 Signoria 附近小馆）
+- **14:30 ⛪ ドゥオーモ Duomo** — 太太愿望 ✓ 大教堂内部（免费需券）+ Baptistry 洗礼堂（金马赛克穹顶）；**可选**登 Brunelleschi 穹顶 463 级（需提前订时段票，duomo.firenze.it，~30 天前）
+- ~17:00 （若戒指当日改圈）回桥 **取戒指**（19:00 关门前）→ 过桥进 **Oltrarno**
+- **17:30 🎨 Alessandro Dari**（Via San Niccolò 115/R，Oltrarno；雕金×色石艺术孤品，€5 工房博物馆；⚠️ 离桥步行 **~15min（非笔记说的 3min）**，与 Piazzale 同方向；认真买先电话 +39 055 244747 约确认大师在）
+- 18:45 上坡步行/taxi → **ミケランジェロ広場 Piazzale Michelangelo** — 太太愿望 ✓ 青铜 David 副本 + aperitivo
+- **20:54 🌅 日落** + 全城 + 亮灯 Ponte Vecchio 俯瞰（蓝调 21:00-21:30）→ 下山
+- **21:15 🍝 晚餐 @ Zeb（非牛排，跟 7/13 错开）** — 🟡 **已发邮件订 21:15 / 2 位（待 Zeb 回复确认周二营业）**；Via San Miniato 2r（Porta San Miniato，从 Piazzale 下山仅 7-10min），鲜意面/千层面 Bib Gourmand 小店（~17 座）；☎️ +39 055 234 2864 / mangia@zebgastronomia.com｜⚠️ 周二晚是 4-10 月季节加场，厨房到 22:30；备选 Il Santo Bevitore（开到 23:30，打车 ~10min）
 
-#### 7/15（三）Day 7 — Antinori Chianti 半日 + Frecciarossa 转罗马
-- 07:30 早餐 W Florence
-- 08:30 私车 → **Antinori nel Chianti Classico @ Bargino**（40min，W Florence 门口 pickup）
-- **09:30-13:30 🍷 Antinori 体验**：
-  - 葡萄酒博物馆 + 酒窖 1h
-  - 品酒 4-5 款 45min
-  - **Rinuccio 1180 餐厅午餐**（panoramic Chianti view）
-- **采购**：Chianti Classico DOCG + Tuscan EVOO 橄榄油（专业泡沫缓冲打包）
-- 14:00 私车返佛罗伦萨（40min）
-- 14:45 W Florence 取行李
+#### 7/15（三）Day 7 — 自由行动（上午）+ Frecciarossa 转罗马
+- 上午 **自由行动**（睡懒觉 / 补逛老城·珠宝·咖啡馆 / 打包行李）— 原 Antinori 酒庄因 7/15 当天全约满取消，腾出整个上午自由安排
+- 中午 自由午餐（SMN / 老城附近）
+- 14:45 W Florence 取行李（退房可寄存）
 - 15:30 步行 3min → Firenze SMN
 - 🚄 **16:14 Frecciarossa 9543 Business → 17:49 Roma Termini**（1h35）
   - PNR **Y4U5A5**, 座 2/3D (Miao) + 2/4D (Sakoda), €91.80/2 人
 - 17:55 出 Termini → **taxi 30min** → **Sheraton Roma Parco de' Medici**（Viale Salvatore Rebecchini 145, EUR/Magliana, conf #71320466, Superior King Garden View, 24k pts + €15）— ⚠️ v4.8 注意：酒店紧邻 FCO 不在 Termini，先寄行李 or 先 sightseeing 后回
   - **选项 A（推荐）**：18:00 taxi 寄行李 → 19:00 taxi 回市中心 sightseeing（车程 25min）
   - **选项 B（省 1 段 taxi）**：直接背小包 sightseeing，22:30 后再 taxi 回酒店（行李大可寄 Termini 行李房 €6/24h）
-- **19:00 黄昏快闪 4 景点**：Pantheon → Piazza Navona → Trevi Fountain（黄昏灯亮）→ Spanish Steps（90min）
-- **20:30 晚餐 Trastevere 区**：**Roscioli Salumeria con Cucina**（罗马教科书餐厅，必订）or **Pierluigi**（海鲜 + piazza）or **Da Enzo al 29**（典型罗马家常菜）
-- 23:00 taxi 30min 回 Sheraton Parco de' Medici
+- **19:00 老城傍晚漫步（餐前）**：Pantheon → Piazza Navona（~50min；离 Pierluigi 步行 8-12min）
+- **20:00 🍷 晚餐 @ Pierluigi** ✅ **已订**（conf **AB6J4UBUCBY** / SevenRooms，2 位，Piazza de' Ricci 144，[`Restaurants/7:15 Roma Pierluigi.pdf`](Restaurants/7:15%20Roma%20Pierluigi.pdf)）— 1938 海鲜名店 + 文艺复兴小广场露台；⚠️ 取消需 ≥24h，否则 €50/人（建议向店家确认/要露台位）
+- **21:45 餐后夜游**：Trevi Fountain（夜间亮灯最美）→ Spanish Steps（7 月日落 20:45，夜景灯光）
+- 22:45 taxi ~30min 回 Sheraton Parco de' Medici（店家可代叫车；次日早 FCO 航班）
 
 #### 7/16（四）Day 8 — 离意飞圣托里尼（转场日）— v4.8 优化：紧邻 FCO 大幅缩短早晨流程
 - **06:30 起 → 07:00 Sheraton Parco de' Medici 退房**（v4.8 优势：起床晚 1.5h vs 原 St. Regis Rome 方案）
@@ -290,16 +278,64 @@
 
 ---
 
-### 巴塞罗那 / Barcelona（5 晚 · The Barcelona EDITION · 7/20-25 · 🚧 day-by-day 待规划）
+### 巴塞罗那 / Barcelona（5 晚 · The Barcelona EDITION · 7/20-25 · ✅ **v5.1 太太版锁定（2026-07-05）**）
 
-> **v4.8 更新**：The Barcelona EDITION ✅ 已订（conf #71415491, Avinguda de Francesc Cambó 14, Born 区, Room 1 King, 5N = 509,500 pts + €132，其中 7/23 用 4N 兑换证免房省 125,500 pts）
-> **位置变化**：原计划 Hotel Arts（海滨摩天楼）→ 实际 EDITION（Born 区老城中心）
-> - Picasso 美术馆步行 **1min**
-> - Gòtic 区步行 5min / Las Ramblas 步行 10min
-> - Born 夜生活 / Mercat del Born 即在隔壁
-> - Passeig de Gràcia（Casa Batlló/Hermès BCN）步行 12min
-> - Barceloneta 沙滩步行 12min（虽不在海滨但很近）
-> - day-by-day 详细行程待逐步规划
+> **v5.1 太太版**：太太出草案 → Claude 全店铺/景点 web 核实修订（悠闲节奏：每天 1 个核心 + 吃）。**已订**：⛪ Sagrada 日语导览团+塔 7/22 09:00（Klook）· 🏛 Casa Batlló 7/22 **15:00**（Gold；⚠️ 票面 15:00 非草案 17:00）。**巴塞全部票已订 ✅**（Sagrada 7/22 + Casa Batlló 7/22 + Park Güell 7/24）。**❌ Lasarte 已放弃**（2026-07-05 用户决定：7/23 晚不订店，Born 附近看心情 walk-in）。
+> 🏨 **住**：The Barcelona EDITION（conf #71415491, Av. Francesc Cambó 14, Born 区, 5N = 509.5k pts + €132）。Picasso 美术馆 1min / Gòtic 5min / Passeig de Gràcia 步行 12min / Barceloneta 海滩步行 ~20min。
+> 📌 **通用策略**：不可预约 tapas 店（Vaso de Oro / Cervecería Catalana / Vinitus）统一 **19:00 前到店**；❌ **伊比利亚火腿禁带回日本**（日本禁肉制品入境 + 西班牙 ASF 疫情 2025-11 起全面停止进口）— Boqueria 现场吃，伴手礼改橄榄油（La Chinata）/藏红花/Turrón/葡萄酒；⚠️ 出发前查 IG：@paris64world（pop-up 是否营业）+ @quimetiquimet（确认无年假）。
+
+#### 7/20（一）Day 12 — 移动日 → Born 初日 + 海滩
+- ✈️ **10:00 VY3315 JTR → 12:20 BCN T1**（PNR EKHTKG, Fly Grande, 座 1A/1B）
+- 12:50 出关取行李 → 🚕 taxi ~30min（~€35-40，带行李比 Aerobús 省心）
+- 13:30 🏨 **The Barcelona EDITION** check-in（钛金早入住/寄行李；报 honeymoon）
+- 14:30 **El Born 散策**：Mercat del Born + Santa Maria del Mar + 顺路 **La Chinata Born 店**（Passeig del Born 11；橄榄油伴手礼在此补）
+- 16:30 步行 ~20-25min → **Barceloneta 海滩**（7 月水温 25-26°C；⚠️ 偷窃高发：轮流下水、护照留酒店保险箱）
+- **18:45 🍺 晚餐 Cervecería Vaso de Oro**（Carrer de Balboa 6；不可预约，19:00 前到；自酿啤酒 + 招牌 solomillo con foie 牛柳鹅肝；周一开 ✓，9 月才夏休）
+- 20:30 海滨长廊散步 → 慢走回酒店
+
+#### 7/21（二）Day 13 — LOEWE + タパス日
+- 10:00 出门，步行/taxi → Passeig de Gràcia
+- 10:30 **La Chinata**（Diputació 262，LOEWE 2min 外）/ PdG 橱窗（⚠️ LOEWE 11:00 才开门，非 10:30）
+- **11:00 🛍 CASA LOEWE**（Passeig de Gràcia 35，Casa Lleó Morera 名宅内 512㎡ 旗舰，毕加索陶瓷收藏；无需预约）
+- 11:45 🚕 ~10min → Poble Sec
+- **12:00 🍷 午餐 Quimet & Quimet**（Poeta Cabanyes 25；周二中午开 ✓；不可预约站立小店 ~1h 轮转，开店冲 11:55 到即第一波；montaditos + 罐头海鲜）
+- 14:00 地铁/taxi → 北 Eixample：**PARIS/64 pop-up**（Rosselló 195；⚠️ 快闪店，7 月营业出发前查 IG）→ **natura**（Passeig de Gràcia 122-124，2min 外）
+- 15:30 沿 **Passeig de Gràcia 由北向南慢逛**（Casa Milà 外观顺路拍照）→ 咖啡 / 回酒店休息
+- **18:45 🍤 晚餐 Cervecería Catalana**（Mallorca 236；不可预约，19:00 前到、接受吧台位更快）
+
+#### 7/22（三）Day 14 — 高迪日 ⛪
+- 08:15 出门 🚕 ~10min（或地铁）→ Sagrada Família 区
+- **08:50 集合 The Touring Pandas**（⚠️ **Carrer de Sardenya 311, Local 3 — 不是教堂正门**；迟到不退款）
+- **09:00 ⛪ Sagrada Família 日语导览团 + 塔楼** ✅ **已订**（Klook **MXW879435**，Voucher 1049592785/86，[`Attractions/7:22 Sagrada Familia.pdf`](Attractions/7:22%20Sagrada%20Familia.pdf)）— 1h30 内部导览 + 30min 塔楼（电梯上/**螺旋楼梯下**），结束后可自由停留；免费取消至 7/21 09:00
+- ~11:45 出 → **12:00 🍽 午餐 El Glop Gaudí**（Carrer de València 443，步行 3min；🟢 建议 OpenTable 提前订 12:00-12:30 位）
+- 13:45 地铁 L2 / 散步消食 → Passeig de Gràcia
+- **15:00 🏛 Casa Batlló** ✅ **已订**（General Visit – Gold #102085084, €43×2, [`Attractions/7:22 Casa Batlló.pdf`](Attractions/7:22%20Casa%20Batlló.pdf)；⚠️ 迟到宽限仅 15min；含 Dragon's Rooftop 屋顶；~1.5h → 16:30 出）
+- 16:30-18:15 PdG 慢逛补货 / 回酒店休息
+- **18:45 🥘 晚餐 Vinitus**（Consell de Cent 333；不可预约，19:00 前到）
+- （JON CAKE 原案在今日 → **挪 7/23 下午茶**，Casa Batlló 步行圈内无门店）
+
+#### 7/23（四）Day 15 — 旧市街 + Born 随性夜
+- 09:30 穿 Gòtic 散步 → **10:00 🥓 La Boqueria / Mercat de Sant Josep**（周四开 ✓；10 点后游客涌入宜早；**火腿现场吃**：推荐 627 号摊 **Joan, La Llar del Pernil** 现切 + 鲜榨果汁；❌ **一片都不能带回日本**）
+- 11:00 ☕ **Buenas Migas**（Plaça del Bonsuccés 6，市场步行 4-5min，focaccia + 露台）
+- 11:45 顺路 **DesignPlace**（Carrer del Pi 11，哥特区本地设计选物）→ 慢走回 Born
+- 午后：**海滩 / 自由 / 午睡**（悠闲留白）
+- **16:30 🍰 JONCAKE & COFFEE**（Sant Pere Més Baix 36，酒店 2-3min；巴斯克焦芝士蛋糕；🟢 热门口味会售罄，当天上午电话/IG 预留切块）
+- 18:00 回酒店休息
+- **19:30 🍽 晚餐：Born 附近随性 walk-in**（❌ Lasarte 已放弃 — 看心情选家门口 bacari/tapas，不预订）
+
+#### 7/24（五）Day 16 — Park Güell + 自由日
+- 09:15 出门 → **V19 公交**（Pl. Antoni Maura 站，酒店步行 2min）~30-35min 直达 **Albert Llanas**（公园东侧入口，下坡进园不爬坡）
+- **10:00 🌈 Park Güell Monumental Zone** ✅ **已订**（Booking **8713018**，General €18×2，记名 MIAO DI + SAKODA AIRI，[`Attractions/7:24 Park Güell.pdf`](Attractions/7:24%20Park%20Güell.pdf)）— **10:00-10:30 内入场**；园内不限时但**出园不可再入**；带护照备查；~2h：Banc de Trencadís 马赛克长椅 + 正门蜥蜴
+- 12:00 下山 → Gràcia 区午餐或回城
+- 午后：**お気に入りリピート / 行き残し / 海滩 / 补购物**（自由）
+- 晚：**好きな店で〆**（随性；Born 家门口 bacari/tapas walk-in）
+
+#### 7/25（六）Day 17 — 出发 → 苏黎世（转瑞士段）
+- 上午自由（Born 咖啡 + 打包；**SWISS 在线值机提前做**）
+- 11:45 🏨 退房 → **12:00 🚕 taxi → BCN T1**（周六中午 25-35min，~€32-38）
+- ~12:35 到 T1（值机截止 **14:10**；⚠️ 暑期周六安检可排 20-40min）
+- ⚠️ **西班牙购物退税在 BCN 办**：7/25 飞瑞士 = 离开 EU 关税区，LOEWE 等西班牙购物的 Tax Free 单在 **T1 DIVA 自助机**验证（托运行李前办）；瑞士入境个人免税额 CHF 150/人 留意
+- ✈️ **14:55 LX1955 → 16:40 ZRH**（PNR 7BWRK8, 座 16D/E）→ 接「瑞士段」7/25
 
 ---
 
@@ -338,12 +374,40 @@
 
 ---
 
-### 法兰克福 / Frankfurt + 离欧（2 晚 + 7/30 离欧 · 7/28-30 · 🚧 day-by-day 待规划 / 酒店已订 ✅）
+### 法兰克福 / Frankfurt + 离欧（2 晚 + 7/30 离欧 · 7/28-30 · ✅ **day-by-day v5.2 锁版（2026-07-05）**）
 
 > 7/28 ICE 106 + ICE 596 Interlaken Ost 10:59 → Frankfurt Hbf 16:09（已订）→ 步行 **~5min** → **JW Marriott Hotel Frankfurt**（Thurn-und-Taxis-Platz 2, Innenstadt 中心，conf #71632783, Deluxe 1 King, 66k pts + 1 兑换证）
 > **v4.8.4 更新**：原 Roomers Frankfurt（Autograph, 待订）→ 实际 **JW Marriott Frankfurt** ✅ — JW 在 Hauptbahnhof + Zeil 步行街附近（Roomers 在 Sachsenhausen 美术馆区，相比更 boutique）；用 1 张 4N 类兑换证省 66k pts
 > 7/30 JL408 FRA T3 20:10 → NRT T2 7/31 16:15（已订 PNR EKWC4T）；JW → FRA T3 taxi ~25min（含 S-Bahn 选项 S8/S9 Frankfurt Flughafen 11min + S-Bahn 站到 T3 内部 shuttle）
-> day-by-day 详细行程待逐步规划
+> **v5.2 节奏设计**：3 天只排 1 个观光半天；**工作半天放 7/29 上午**（法兰克福 9:00-13:00 = 日本 16:00-20:00，正好覆盖东京下午）；7/30 出发日上午全空机动。⚠️ **Lafleur 2★ 夏休 2026-07-06~08-13（官网确认）不可行** — 法兰克福 7 月底集体 Sommerpause（MAIN TOWER 7/20-8/9 关 / Gustav・Weinsinn 已永久歇业）→ 7/29 晚换 **RAUSCH（2026 新晋 2★）首选 / Lohninger（2026 新晋 1★）备选** 🔴 待订（订前先确认无夏休）。Rüdesheim 一日游放弃 — 莱茵雷司令在 Kleinmarkthalle 酒摊解决。
+
+#### 7/28（二）Day 20 — ICE 抵法兰克福 + Sachsenhausen 苹果酒馆（轻）
+- 🚄 10:59 Interlaken Ost → 16:09 Frankfurt Hbf（ICE 106 + 596，Mannheim 同站台换乘 7min，1 等 12 车 45/46 座）
+- 16:15 步行 ~5min → **JW Marriott check-in**（conf #71632783；钛金 SNA 入住前 5 天 = 7/23 提交）
+- 16:30-18:30 房间休整（5h 火车后缓一缓）
+- 18:30 出门轻逛：酒店即在 Zeil 旁 — **MyZeil 屋顶**远眺天际线（步行 3min）
+- **19:30 🍺 晚餐 Sachsenhausen 苹果酒馆 Adolf Wagner**（Schweizer Str. 71；备选 Atschel / Zum Gemalten Haus）— 法兰克福名物 **Apfelwein 苹果酒 + Schnitzel 配 Grüne Soße 绿酱**；无需盛装、一般无需预订；酒店 taxi ~10min 或步行 ~25min
+- 21:00 餐后散步 **Eiserner Steg 铁桥**（Main 河 + 银行区天际线夜景）→ **Römerberg 罗马广场夜景** → 步行 ~15min 回酒店
+
+#### 7/29（三）Day 21 — 上午工作半天 + 下午老城/购物 + fine dining
+- 09:00 起 + 酒店早餐
+- **09:30-13:00 💻 工作**（房间 / Executive Lounge；= 日本时间 16:30-20:00，覆盖东京下午）
+- **13:15 🥨 午餐 Kleinmarkthalle 室内市场**（酒店步行 ~7min；**Schreiber 香肠柜台**本地人名物，周一-六开、18:00 关）＋ **市场酒摊买莱茵雷司令 Riesling**（wishlist 项在此解决，选择比机场好）
+- 14:30 **Römerberg + Neue Altstadt 新老城**白天版 + 大教堂外观（散步 ~1h）
+- **15:30 🏛 Goethe Haus 歌德故居**（Großer Hirschgraben 23-25，~45min，18:00 关）
+- **16:30-18:30 🛍 购物：Goethestraße（奢侈品街）+ Zeil**（每单 ≥€70.01 索退税表；商店 ~20:00 关）
+- **19:00 🍽 晚餐 fine dining** 🔴 **待订（替代 Lafleur）**：
+  - **首选 RAUSCH** — 2026 新晋 **2★**，周二-六 18:30 起（☎ +49 69 66817701）
+  - **备选 Lohninger** — 2026 新晋 **1★**，奥地利菜（fine 版维也纳炸牛排），Schweizer Str. 1 Sachsenhausen Main 河边，周二-六（lohninger.de）
+  - 保底 Carmelo Greco（1★ 意大利菜 — 刚离意 8 天，不优先）；⚠️ 订前都先确认无夏休
+
+#### 7/30（四）Day 22 — 出发日（全空）+ FRA 退税 + JL408 回国
+- 睡到自然醒 + 慢早餐
+- 上午 **自由机动**（Main 河边散步 / Städel 美术馆（10:00 开）/ 补购物 / 打包）；如日本周四下午有会，可把工作半天挪到此上午（7/29 上午改自由）
+- 钛金申请 **16:00 延迟退房**作缓冲，但 **15:00 退房出发** → taxi ~25min → **15:30 抵 FRA T3**
+- ⚠️ **比旧笔记"18:00 出发"提前 3h — 退税全压在这天**：戒指 + 全程购物 → 海关盖章 + Global Blue/Planet 柜台（旺季排队可 1h+，T3 新航站楼流程不熟多留裕量）；**托运行李内退税品在托运前给海关查验；戒指随身手提、未佩戴、收据+表格备齐**
+- 16:30 JAL 商务 check-in → 安检 → lounge 晚餐
+- ✈️ **20:10 JL408 FRA T3 → NRT T2 7/31 16:15**（PNR EKWC4T，13h05）
 
 ---
 
@@ -377,19 +441,16 @@
 ## 🛍️ 购物清单（米兰为核心 + 巴塞副线）
 
 ### 意大利品牌（清单 9/10）
-- **Quadrilatero della Moda 旗舰店**：Prada / Miu Miu / Bottega Veneta / Loro Piana / Tod's / Pellico / PARIS 64 / Fendi
-- **Hermès Milano** — Via Montenapoleone 12（提前 SA 预约）
-- **Serravalle Designer Outlet** — 1h 车程，比米市价低 30-40%
+- **Serravalle Designer Outlet** — 1h 车程，比米市价低 30-40%（v5.0：已放弃 Quadrilatero 旗舰店预约，购物集中在 Serravalle + 7/9 Intrend Max Mara）
 
 ### 西班牙
 - **Loewe** Passeig de Gràcia 旗舰
-- **Hermès BCN** Passeig de Gràcia 77
 
 ### 食物 / 葡萄酒带回
 - Chianti DOCG 6-12 瓶 + Tuscan EVOO（佛罗伦萨）
 - Assyrtiko Santorini 火山岩白葡萄酒（圣托里尼）
 - 西班牙伊比利亚火腿（巴塞罗那 Boqueria）
-- 莱茵雷司令 Riesling（Rüdesheim）
+- 莱茵雷司令 Riesling（v5.2：Rüdesheim 不去 → **7/29 法兰克福 Kleinmarkthalle 市场酒摊**购入）
 - 全程 €70.01/家店门槛以上记得索要 Tax Free 表格
 
 ---
@@ -398,21 +459,18 @@
 
 | 日期 | 城市 | 餐厅 | 星级 | 状态 / 备注 |
 |---|---|---|---|---|
-| **7/9 (四)** | 米兰 | Trippa or Ratanà | 推荐 / 1★ | 🚧 复古 hipster / 当代米兰菜 |
-| **7/10 (五)** | 米兰 | **Cracco** or **Seta @ Mandarin Oriental** | **2★** / **2★** | 🚧 Galleria 内 / Mandarin Oriental — **60-90 天前必订** |
-| **7/11 (六)** | 威尼斯 | **Antiche Carampane** | 经典本地 | 🚧 San Polo 区，蜘蛛蟹 spaghetti — 14 天前 email |
-| **7/12 (日) 午** | Burano | **Trattoria al Gatto Nero** | 推荐 | 🚧 全岛最佳海鲜 risotto — 7-14 天前 email |
-| **7/12 (日) 晚** | 威尼斯 | **Osteria alle Testiere** | 经典本地 | 🚧 12 座小店海鲜 — **60 天前 email 最难订** ⚠️ |
-| **7/13 (一)** | 佛罗伦萨 | Sostanza / Buca Lapi / Pinchiorri | 经典 / 1880 / **3★** | 🚧 抵店黄昏全景后晚餐 |
-| **7/14 (二)** | 佛罗伦萨 | **La Bottega del Buon Caffè** or **Ora d'Aria** or Il Latini | 1★ / 1★ / 家庭 | 🚧 Arno 河边 / 当代 Tuscan / 家庭长桌 |
-| **7/15 (三) 午** | Chianti | **Rinuccio 1180 @ Antinori** | 推荐 | 🚧 panoramic Chianti view 园中餐厅 — 60 天前订 |
-| **7/15 (三) 晚** | 罗马 | Roscioli / Pierluigi / Da Enzo al 29 | 经典 | 🚧 Trastevere 老城晚餐 |
+| **7/9 (四) 19:00** | 米兰 Brera | **Stendhal Brera**（Risotto + 地方肉菜）| 太太订 | ✅ **已订** 2 位（Zenchef 167A-1B06-C207-A80E）；⚠️ 取消 ≥3h |
+| **7/11 (六) 晚** | 威尼斯 | ~~Trattoria alla Vedova~~ → **Hostaria Osottoosopra** | bacari / 传统菜 | 🕐 **待确认**（已回信请 AC Hotel 前台代订）；Santa Croce 164，+39 333 802 7830；❌ alla Vedova 7/11 当天休息（酒店已致电确认） |
+| **7/12 (日) 晚** | 威尼斯 | **Osteria al Portego** | bacari 随性 | ✅ **已订**（AC Hotel 前台代订确认，19:00，2026-07-05）|
+| **7/13 (一) 19:30** | 佛罗伦萨 Oltrarno | **All'Antico Ristoro di' Cambi**（太太最爱）| 🥩 ビステッカ（佛式牛排）| ✅ **已订** 2 位（Di Miao, confermata）；餐后 Ponte Santa Trinita 老桥夜景 |
+| **7/14 (二) 21:15** | 佛罗伦萨 Oltrarno | **Zeb**（San Miniato，下山近）| 🍝 非牛排（鲜意面 Bib Gourmand）| 🟡 **已发邮件订（待确认）** 2 位；Piazzale 日落后下山即到 |
+| **7/15 (三) 晚 20:00** | 罗马 老城 | **Pierluigi**（Piazza de' Ricci）| 海鲜 + 露台 | ✅ **已订** 2 位（conf AB6J4UBUCBY）；⚠️ 取消 ≥24h 否则 €50/人 |
 | **7/17 (五) 18:30** | 圣托里尼 Imerovigli | **Lycabettus @ Andronis** | cliff fine dining | ✅ **已订** ref `1Iq_055...` — Cliff Area / honeymoon / front-row request；⚠️ 130 级楼梯无电梯 |
 | **7/18 (六) 13:00 午** | 圣托里尼 Ammoudi Bay | **Sunset Ammoudi** | 海鲜 lunch | ✅ **已订** ref `QMfr8X2...` — front-row sea view 请求；红崖蓝海日间对比 |
 | **7/18 (六) 晚** | 圣托里尼 Imerovigli | ~~La Maison @ Imerovigli~~ | ~~**1★**~~ | ❌ v4.8 改为 Lycabettus 7/17 + Sunset Ammoudi 7/18 午餐替代（不订 La Maison）|
 | **7/19 (日) 17:00** | 圣托里尼 Oia | **Kastro** | Oia 古堡日落 | ✅ **已订** ref `lWpO32r...` — "first line" / honeymoon sunset；⚠️ 最低消费 €45/人（18-20:30）/ max 2h / no-show €45/人 |
-| **7/22 (三)** | 巴塞罗那 | ABaC or Lasarte | **3★** / **3★** | 🚧 Disfrutar 已弃，替代选 |
-| **7/28 (二)** | 法兰克福 | Lafleur | **2★** | 🚧 fine dining |
+| **7/23 (四) 晚** | 巴塞罗那 | ~~Lasarte 3★~~ → **Born 附近随性** | — | ❌ **2026-07-05 用户放弃米其林**：不订店，看心情 walk-in |
+| **7/29 (三) 19:00 目标** | 法兰克福 | **RAUSCH**（首选）/ **Lohninger**（备选）| **2★** / **1★**（均 2026 新晋）| 🔴 **待订**；~~Lafleur 2★~~ ❌ 夏休 7/6-8/13 不可行；RAUSCH ☎ +49 69 66817701（Di-Sa 18:30-）/ Lohninger 奥地利菜 Schweizer Str. 1（Di-Sa）；订前确认无夏休；保底 Carmelo Greco 1★ |
 
 ---
 
@@ -454,15 +512,13 @@
 |---|---|---|---|
 | Doge's Palace Secret Itineraries | 7/13 | 60 天 | palazzoducale.visitmuve.it |
 | Uffizi skip-the-line | 7/14 | 30 天 | uffizi.it |
-| Sagrada Família + 塔楼 | 7/20 | 30 天 | sagradafamilia.org |
-| Casa Batlló + Casa Milà 联票 | 7/21 | 14 天 | barcelonaturisme.com |
-| Park Güell Monumental Zone | 7/20 | 14 天 | parkguell.barcelona |
+| ✅ **Sagrada Família 日语导览团 + 塔楼** | **7/22 (三) 09:00** | **已订 Klook MXW879435** | 集合 **08:50** Carrer de Sardenya 311, Local 3 · [`Attractions/7:22 Sagrada Familia.pdf`](Attractions/7:22%20Sagrada%20Familia.pdf) |
+| ✅ **Casa Batlló**（General Visit – Gold）| **7/22 (三) 15:00** | **已订 #102085084**（€43×2）| [`Attractions/7:22 Casa Batlló.pdf`](Attractions/7:22%20Casa%20Batlló.pdf)；⚠️ 票面 15:00 非 17:00；Casa Milà 不去（太太版无）|
+| ✅ **Park Güell**（General · Monumental Zone）| **7/24 (五) 10:00** | **已订 #8713018**（€18×2，记名票）| [`Attractions/7:24 Park Güell.pdf`](Attractions/7:24%20Park%20Güell.pdf)；30min 入场窗、出园不可再入 |
 | ✅ **Jungfraujoch**（Good Morning）| 7/27 | **已订 #295536** | Wengen 07:46↔12:38, 2 等, Amex · [`Attractions/7:27 Jungfraujoch.pdf`](Attractions/7:27%20Jungfraujoch.pdf) |
 | ✅ **Gelmerbahn**（106% 缆车）| 7/26 | **已订 #2A55DFA4** | 上 12:12 / 下 14:00, CHF 80, ⚠️施工步行~30min · [`Attractions/7:26 Gelmerbahn.pdf`](Attractions/7:26%20Gelmerbahn.pdf) |
 | #5 Gimmelwald 缆车（Stechelberg）| 7/27 | 现场 | CHF 6.40 单程 / schilthorn.ch |
 | ~~Rheinfall / Schilthorn 顶~~ | — | — | #10/Schilthorn 已砍（模拟 A 不含）|
-| Hermès Milano SA 预约 | 7/10 | 2-3 周 email |
-| Hermès BCN SA 预约 | 7/21 | 2-3 周 email |
 | Serravalle Outlet 私车 | 7/11 | 14 天 | 私人 driver Milano |
 
 ---
@@ -475,7 +531,7 @@
 | 独立 / 非点数酒店 5 晚（Sandblu LXR 2N ¥244k + Wengen Belvedere 2N CHF 1,434 + Zurich Marriott 1N 510 CHF）| ~€2,500-3,500 |
 | 段间机票 + 高铁（2 人含 23kg 托运） | ~€2,500-3,500 |
 | 米其林 9 顿 2 人 | ~€4,000-6,000 |
-| 景点门票 + tour（Chianti 私车 / Doge / Uffizi 等） | ~€2,000 |
+| 景点门票 + tour（Doge / 米兰 Duomo 等） | ~€2,000 |
 | 购物（不含奢侈品本身）| 视个人 |
 | 地面交通 + 杂费 | ~€1,000 |
 
@@ -488,13 +544,11 @@
 1. ✅ ~~Lauterbrunnen 独立精品~~ → **Wengen Belvedere 已订**（#5963.885.781）；剩：7/26 私车 + Gelmerbahn 预约 + 少女峰票
 2. 🟠 **JW Marriott Frankfurt** ✅ 已订 — 提交钛金 SNA（Deluxe → Executive Suite 概率中等）
 3. 🟠 **钛金 SNA 8 家已订酒店提交**（Casa Brera / AC Venezia / W Florence / Sheraton Roma / EDITION 概率较高）
-4. 🟡 **米其林餐厅** Cracco / Osteria alle Testiere / Pinchiorri / La Maison / ABaC（60-90 天前；Osteria alle Testiere 7/12 是最难的）
-5. 🟡 **Antinori Chianti 7/15 半日 + Rinuccio 1180 午餐**（60 天前 + 私车）
-6. 🟡 **Duomo 屋顶 7/9 + Duomo 穹顶 Florence 7/14**（30 天前时段票）
-7. 🟢 **Hermès Milano SA 7/9 + Hermès BCN 7/22 SA 预约**（2-3 周前 email）
-8. 🟢 **Mystique 升级 email**（**2026-06-01 ~ 06-08 窗口** ⚠️ 今天 6/6 — 立即发）
-9. 🟢 **Serravalle Outlet 7/10 私车 RT**（14 天前）
-10. ✅ ~~少女峰 + Gelmerbahn~~ **已订**（#295536 / #2A55DFA4）；Gimmelwald 缆车现场买（CHF 6.40）
+4. 🟡 **米其林餐厅** Osteria alle Testiere / Pinchiorri / La Maison / ABaC（60-90 天前；Osteria alle Testiere 7/12 是最难的；米兰 Cracco/Seta 已放弃，v5.0 7/10 晚改 Da Pepèn 外带）
+5. 🟡 **Duomo 屋顶 7/9 + Duomo 穹顶 Florence 7/14**（30 天前时段票）
+6. 🟢 **Mystique 升级 email**（**2026-06-01 ~ 06-08 窗口** ⚠️ 今天 6/6 — 立即发）
+7. 🟢 **Serravalle Outlet 7/10 私车 RT**（14 天前）
+8. ✅ ~~少女峰 + Gelmerbahn~~ **已订**（#295536 / #2A55DFA4）；Gimmelwald 缆车现场买（CHF 6.40）
 
 ---
 

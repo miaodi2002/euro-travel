@@ -1,6 +1,6 @@
 # 🧭 2026 夏 欧洲行 — 主索引
 
-> **最后更新**：2026-06-06（v4.8 — 8 家酒店 7/8-7/25 全订；5 段机票 + 4 段地面交通全订）
+> **最后更新**：2026-07-05（v5.2 — **法兰克福 day-by-day 锁版**：7/28 苹果酒馆 / 7/29 上午工作+下午老城购物+fine dining / 7/30 全空+15:00 提早去 FRA 退税；⚠️ **Lafleur 夏休 7/6-8/13 不可行** → RAUSCH 2★ / Lohninger 1★ 待订。v5.1 — 巴塞罗那 day-by-day 锁版：Sagrada 日语导览团+塔 7/22 09:00（Klook）+ Casa Batlló 7/22 15:00 Gold 已订入库；✅ Park Güell 7/24 10:00 已订入库 — **巴塞全部票收官**；❌ Lasarte 已放弃 — 7/23 晚 Born 随性 walk-in）
 > **维护**：Claude 同步（用户加 PDF 后告知文件名 → Claude 读 PDF → 提取关键信息 → 更新本文件 + `INDEX_jp.md` + `itinerary.md` + `itinerary_jp.md` + memory + `tasks/todo.md`）
 > **日本語版**：[`INDEX_jp.md`](INDEX_jp.md)（同步维护）
 > **主行程书**：[`itinerary.md`](itinerary.md)（中文）+ [`itinerary_jp.md`](itinerary_jp.md)（日本語版，同步维护）
@@ -16,8 +16,8 @@
 | 意大利高铁 | **3/3** ✅ | 0 | Frecciarossa Business |
 | 跨国火车 | **1/1** ✅ | 0 | DB ICE 106+596 |
 | 酒店 | **11 家 / 22 晚** ✅ | 0 | **全部已订**（v4.8.5 Belvedere Wengen 补订瑞士最后一段）|
-| 景点票（瑞士）| **2** ✅ | 0 | Gelmerbahn 7/26 + Jungfraujoch 7/27（均已付，见「已订景点票」段）|
-| 餐厅 | **3 家**（圣托里尼 honeymoon）| 多家（意 / 巴塞 米其林）| 米其林批量订是优先项 |
+| 景点票 | **9** ✅ | 0 | **米兰 Duomo 露台 7/9 + Serravalle 巴士 7/10** + 威尼斯 Palazzo Ducale 7/12 + Basilica 7/13 + **巴塞 Sagrada 导览团 + Casa Batlló 7/22 + Park Güell 7/24** + Gelmerbahn 7/26 + Jungfraujoch 7/27（均已付）|
+| 餐厅 | **6 家**（米 Stendhal + 佛 Cambi + 罗 Pierluigi + 圣托里尼 honeymoon 3）| 数家（意 / 法兰克福）| ❌ 巴塞米其林已放弃（7/23 晚随性 walk-in）；法兰克福 fine dining 换店中 |
 
 **支付汇总**：
 - 机票：JPY 199,040（JL Award 税）+ UA 90k miles + $122.80 + €356.10 + €566.20
@@ -55,13 +55,13 @@
 | 1 | **7/28 (二)** | Lauterbrunnen → Frankfurt | [`Tickets/7:28 Lauterbrunnen → Frankfurt.txt`](Tickets/7:28%20Lauterbrunnen%20→%20Frankfurt.txt) ＋ DB Navigator App | ICE 106 + ICE 596 | Interlaken Ost 10:59 (Pl.5) → Mannheim Hbf 15:22 (Pl.3) → **同站台 7min 换乘 Gleis 3→2** → Mannheim 15:29 (Pl.2) → Frankfurt(Main)Hbf 16:09 (Pl.9)，5h10m / 1 换乘 | **车厢 12, 座 45 + 46**（两段同位，Handybereich 手机区）| **Sparpreis Europa 1 等 €211.78/2 人** · 预订号 **878050552107** · 票码 **K53YL8EZ** · CIV 1080 · 订于 2026-05-31 · [bahn.de view journey](https://int.bahn.de/en/buchung/start?vbid=ae8b5082%2D68d2%2D449c%2Da6e3%2D6ec0517b00a9) |
 
 ### 本地接驳（现场买/酒店安排）
-- 7/9 Malpensa Express MXP T1 → Milano Centrale（v4.8：从 Sheraton MXP 早 8:30）
+- 7/9 **Taxi** Sheraton Malpensa → Casa Brera（v5.0：**前晚酒店预约**，Malpensa→米兰市中心固定价 €104，~50min 门到门；放行李后步行 12min 到 Duomo 露台 09:30）
 - 7/11 + 7/13 威尼斯水上 taxi（v4.8 不强需 — AC Hotel 步行 SL 站 5-7min）
 - 7/16 早 taxi 10-15min（Sheraton Parco de' Medici → FCO；不需 Leonardo Express）
 - 7/20 BCN Aerobús A1
 - 7/26 **私人司机** Zurich → Brünig 观景 → Gelmerbahn → Lauterbrunnen（行李随车）→ 齿轨 12min 上 Wengen（Belvedere；酒店 Wengen 站接驳）
 - 7/28 BOB Wengen → Lauterbrunnen → Interlaken Ost（早 ~15min 预留下山赶 10:59 ICE）
-- 私车：7/10 Serravalle / 7/15 Antinori Chianti / 7/16 JTR→Oia / 7/20 Sandblu→JTR
+- 私车：7/10 Serravalle / 7/16 JTR→Oia / 7/20 Sandblu→JTR
 
 ---
 
@@ -85,16 +85,20 @@
 
 ---
 
-## 🍽️ 已订餐厅（3 家 / 圣托里尼 honeymoon）
+## 🍽️ 已订餐厅（7 家：米兰 1 + 威尼斯 1 + 佛罗伦萨 1 + 罗马 1 + 圣托里尼 honeymoon 3）
 
-> 全 3 家都已在 booking note 写明 **honeymoon + front-row 请求**
+> 圣托里尼 3 家都已在 booking note 写明 **honeymoon + front-row 请求**；佛罗伦萨 Cambi = 牛排晚餐（太太愿望）
 > 全程 +30 2286 系（i-host.gr 平台）
 
 | # | 日期 | 时刻 | 城市 / 区 | 餐厅 | 文件 | Booking Ref | 人数 | 备注 / 政策 |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **7/17 (五)** | **18:30** | 圣托里尼 Imerovigli | **Lycabettus @ Andronis**（cliff fine dining）| [`Restaurants/7:17 Santorini Lycabettus Andronis.pdf`](Restaurants/7:17%20Santorini%20Lycabettus%20Andronis.pdf) | `1Iq_055oTQGziX3tkevg_w` | 2 | Cliff Area, +30 22861 86602；⚠️ **130 级楼梯无电梯**；迟到 >15min 失位；取消 <48h 不退订金；不接 <13 岁 / 宠物 |
-| 2 | **7/18 (六)** | **13:00** 午 | 圣托里尼 Ammoudi Bay | **Sunset Ammoudi**（红崖蓝海下海鲜午餐）| [`Restaurants/7:18 Santorini Sunset Ammoudi.pdf`](Restaurants/7:18%20Santorini%20Sunset%20Ammoudi.pdf) | `QMfr8X2KTQa0UOU5sAXz9g` | 2 | Ammoudi Bay 渔村，Oia 下方 300 级楼梯；+30 2286 071614；选午餐是为了白日里看红崖 vs 蓝海对比 |
-| 3 | **7/19 (日)** | **17:00** | 圣托里尼 Oia | **Kastro**（Oia 古堡日落 first-line）| [`Restaurants/7:19 Santorini Kastro.pdf`](Restaurants/7:19%20Santorini%20Kastro.pdf) | `lWpO32ryT3iakU8fw83u-g` | 2 | "First line" 已订；+30 22860 71045；⚠️ 迟到 >15min 失位；no-show 信用卡扣 €45/人；最多停留 2h；**日落时段 18:00-20:30 最低消费 €45/人**（7 月日落 ~20:30）|
+| 1 | **7/9 (四)** | **19:00** | 米兰 Brera | **Ristorante Stendhal Brera**（Risotto + 地方肉菜 + 意酒；太太订）| [`Restaurants/7:9 Milano Stendhal Brera.pdf`](Restaurants/7:9%20Milano%20Stendhal%20Brera.pdf) | Google/Zenchef **167A-1B06-C207-A80E** | 2 | Via San Marco；+39 02 6604 0049；⚠️ 取消 ≥3h |
+| 2 | **7/12 (日)** | **19:00** | 威尼斯 Castello | **Osteria al Portego**（bacaro 随性）| — | AC Hotel 前台代订 | 2 | 由 AC Hotel Venezia 前台代为确认（2026-07-05 邮件）；7/11 晚餐 alla Vedova 当天休息，酒店推荐 **Hostaria Osottoosopra**（Santa Croce 164，+39 333 802 7830）待确认中 |
+| 3 | **7/13 (一)** | **19:30** | 佛罗伦萨 Oltrarno (San Frediano) | **Antico Ristoro di' Cambi**（佛式牛排 bistecca，太太最爱）| [`Restaurants/7:13 Firenze Cambi.pdf`](Restaurants/7:13%20Firenze%20Cambi.pdf) | 邮件 confermata（无单独 ref）| 2 | 预约人 Di Miao；info@anticoristorodicambi.it / +39 055 217134；Via Sant'Onofrio 1r；~€60/kg 现切；周一开；餐后步行 Ponte Santa Trinita 夜景 |
+| 4 | **7/15 (三)** | **20:00** | 罗马 老城 (Piazza de' Ricci) | **Pierluigi**（1938 海鲜 + 文艺复兴小广场露台）| [`Restaurants/7:15 Roma Pierluigi.pdf`](Restaurants/7:15%20Roma%20Pierluigi.pdf) | `AB6J4UBUCBY`（SevenRooms）| 2 | Piazza de' Ricci 144；+39 06 6868717；⚠️ 取消 ≥24h 否则 €50/人；建议确认/要露台位 |
+| 5 | **7/17 (五)** | **18:30** | 圣托里尼 Imerovigli | **Lycabettus @ Andronis**（cliff fine dining）| [`Restaurants/7:17 Santorini Lycabettus Andronis.pdf`](Restaurants/7:17%20Santorini%20Lycabettus%20Andronis.pdf) | `1Iq_055oTQGziX3tkevg_w` | 2 | Cliff Area, +30 22861 86602；⚠️ **130 级楼梯无电梯**；迟到 >15min 失位；取消 <48h 不退订金；不接 <13 岁 / 宠物 |
+| 6 | **7/18 (六)** | **13:00** 午 | 圣托里尼 Ammoudi Bay | **Sunset Ammoudi**（红崖蓝海下海鲜午餐）| [`Restaurants/7:18 Santorini Sunset Ammoudi.pdf`](Restaurants/7:18%20Santorini%20Sunset%20Ammoudi.pdf) | `QMfr8X2KTQa0UOU5sAXz9g` | 2 | Ammoudi Bay 渔村，Oia 下方 300 级楼梯；+30 2286 071614；选午餐是为了白日里看红崖 vs 蓝海对比 |
+| 7 | **7/19 (日)** | **17:00** | 圣托里尼 Oia | **Kastro**（Oia 古堡日落 first-line）| [`Restaurants/7:19 Santorini Kastro.pdf`](Restaurants/7:19%20Santorini%20Kastro.pdf) | `lWpO32ryT3iakU8fw83u-g` | 2 | "First line" 已订；+30 22860 71045；⚠️ 迟到 >15min 失位；no-show 信用卡扣 €45/人；最多停留 2h；**日落时段 18:00-20:30 最低消费 €45/人**（7 月日落 ~20:30）|
 
 **圣托里尼 day-by-day 重要节点 lock**：
 - 7/17（Mystique 第 2 晚）→ Lycabettus 18:30
@@ -103,13 +107,25 @@
 
 ---
 
-## 🎟️ 已订景点票（瑞士 Bernese Oberland）
+## 🎟️ 已订景点票
 
 | # | 日期 | 景点 | 文件 | 预订号 | 时刻 / 班次 | 人数 | 支付 |
 |---|---|---|---|---|---|---|---|
-| 1 | **7/26 (日)** | **Gelmerbahn**（世界最陡 106% 缆车）| [`Attractions/7:26 Gelmerbahn.pdf`](Attractions/7:26%20Gelmerbahn.pdf) | **2A55DFA4**（Invoice 7050237）| 上山 **12:12**（-12:24）/ 下山 **14:00**（-14:12）| 2 | **CHF 80**（20×2 上 + 20×2 下；Amex 已付）|
-| 2 | **7/27 (一)** | **Jungfraujoch – Top of Europe**（Good Morning, 2 等）| [`Attractions/7:27 Jungfraujoch.pdf`](Attractions/7:27%20Jungfraujoch.pdf) | **295536** | Wengen 07:46 → KS 08:08 / KS 08:28 → JJ 09:11；山顶 ~2h；JJ 11:15 → KS 11:54 / KS 12:14 → Wengen 12:38 | 2 | Amex（含座位预约）|
+| 1 | **7/9 (四)** | **米兰 Duomo 屋上テラス**（⚠️ **仅露台、不含大教堂内部**；电梯在 Duomo 背面）| [`Attractions/7:9 Duomo Terrace.pdf`](Attractions/7:9%20Duomo%20Terrace.pdf) | GetYourGuide **GYGZGZZAW6KN** / PIN **X#hTN+nV** | **09:30** 入场（集合 9:25）| 2 | **¥8,106**（GYG，2 大人，Veneranda Fabbrica；7/8 09:30 前可全退）|
+| 2 | **7/10 (五)** | **Serravalle Easy Shopping 巴士**（Frigerio Viaggi shuttle 往返）| [`Attractions/7:10 Serravalle Shuttle.pdf`](Attractions/7:10%20Serravalle%20Shuttle.pdf) | **V1FU0EFC4Z000C85PSMT**（票 W1F70…VAU8N + W1FU0…U7U90）| pickup **10:15** Via Fatebenefratelli 4 / 返 18:30 | 2 | **€66**（33×2，已付；含 Fashion Passport 10% + Hands-Free）|
+| 3 | **7/12 (日)** | **威尼斯 Palazzo Ducale 公爵宫**（St. Mark's Square Museums 联票；**标准线含叹息桥内部**＋Correr＋考古＋Marciana 图书馆）| [`Attractions/7:12 Palazzo Ducale.pdf`](Attractions/7:12%20Palazzo%20Ducale.pdf) | Tran **TLITE0138667690926**；Cod. **CZ8NZ4UKDC** + **50GG23UNG9** | **14:00** 入场（计时票）| 2 | **€70**（€35×2，Vivaticket/MUVE，2026-06-28 开票，PRINT@HOME）|
+| 4 | **7/13 (一)** | **威尼斯 Basilica di San Marco 圣马可大教堂**（完整票 Complete：正殿金马赛克＋**Pala d'Oro 金祭坛**＋Museo/Loggia dei Cavalli 阳台；不含钟楼）| [`Attractions/7:13 Basilica San Marco_Miao.pdf`](Attractions/7:13%20Basilica%20San%20Marco_Miao.pdf) + [`_Sakoda`](Attractions/7:13%20Basilica%20San%20Marco_Sakoda.pdf) | Order **171-VT32G6T** / Conf. **SPHP3MFHZAMM**；Ref 171-L74OKBG (Miao) + 171-IH5GA5C (Sakoda) | **11:30–12:00** 入场（计时票）| 2 | **€60**（€30×2，tickets.basilicasanmarco.it，2026-06-28，⚠️不可改不可退）|
+| 5 | **7/22 (三)** | **巴塞罗那 Sagrada Família 日语导览团 + 塔楼**（Klook · The Touring Pandas；1h30 内部导览 + 30min 塔楼，结束后可自由停留）| [`Attractions/7:22 Sagrada Familia.pdf`](Attractions/7:22%20Sagrada%20Familia.pdf) | Klook **MXW879435**（Voucher 1049592785 + 1049592786）| **09:00 出发**（⚠️ **08:50 前**到集合点 **Carrer de Sardenya 311, Local 3**，非教堂正门）| 2 | Klook 已付（含圣家堂 + 塔楼门票 + 日语导览）|
+| 6 | **7/22 (三)** | **巴塞罗那 Casa Batlló**（GENERAL VISIT – GOLD 档）| [`Attractions/7:22 Casa Batlló.pdf`](Attractions/7:22%20Casa%20Batlló.pdf) | Reservation **102085084**（票 303684202-1/2 + 303684203-2/2）| **15:00** 入场 ⚠️（太太笔记写 17:00，**以票面 15:00 为准**）| 2 | **€86**（€43×2, tax incl., Clorian 官方）|
+| 7 | **7/24 (五)** | **巴塞罗那 Park Güell**（General ticket · Monumental Zone）| [`Attractions/7:24 Park Güell.pdf`](Attractions/7:24%20Park%20Güell.pdf) | Booking **8713018**（记名：MIAO DI + SAKODA AIRI）| **10:00** 入场（时段后 30min 内有效）| 2 | **€36**（€18×2, TVA incl., 官方 parkguell.barcelona）|
+| 8 | **7/26 (日)** | **Gelmerbahn**（世界最陡 106% 缆车）| [`Attractions/7:26 Gelmerbahn.pdf`](Attractions/7:26%20Gelmerbahn.pdf) | **2A55DFA4**（Invoice 7050237）| 上山 **12:12**（-12:24）/ 下山 **14:00**（-14:12）| 2 | **CHF 80**（20×2 上 + 20×2 下；Amex 已付）|
+| 9 | **7/27 (一)** | **Jungfraujoch – Top of Europe**（Good Morning, 2 等）| [`Attractions/7:27 Jungfraujoch.pdf`](Attractions/7:27%20Jungfraujoch.pdf) | **295536** | Wengen 07:46 → KS 08:08 / KS 08:28 → JJ 09:11；山顶 ~2h；JJ 11:15 → KS 11:54 / KS 12:14 → Wengen 12:38 | 2 | Amex（含座位预约）|
 
+⚠️ **Palazzo Ducale**：标准 St. Mark's Square Museums 联票（非 Secret Itineraries），标准参观线**从内部穿过叹息桥**进新监狱；A4 打印或出示 QR 入场（入口 Porta del Frumento）；不可带大件行李。联票另含 **Museo Correr** 限时入场（需另选时段；如有单独 Correr PDF 发来一并归档）。
+⚠️ **Basilica di San Marco**：完整票（含 Pala d'Oro + Loggia，不含钟楼）；**着装遮肩遮膝**（宗教场所），背包/行李 >40×30×20cm 不可带入（寄存 Ateneo San Basso）；准时（前后 5min 宽限），参观约 60–90min；⚠️ 不可改/退。
+⚠️ **Sagrada Família 导览团**：集合点**不在教堂** — The Touring Pandas 办公室（Carrer de Sardenya 311, Local 3），09:00 出发 **08:50 前到**；迟到/no-show 不退款；免费取消至 **7/21 09:00**（巴塞时间）；塔楼电梯上、**螺旋楼梯下**；手机出示 voucher；6 岁以上可参加、不可轮椅。
+⚠️ **Casa Batlló**：Gold 档，票面入场 **15:00**（太太笔记 17:00 有误，以票面为准）；QR 出示入场，Passeig de Gràcia 43。
+⚠️ **Park Güell**：记名票（园方可查证件核对持票人，带护照/照片）；**10:00 后 30 分钟内入场**；园内不限时但**出园不可再入**。
 ⚠️ **Gelmerbahn**：施工期，停车场/巴士站到山下站需步行 **~30min**（陡阶/临时步道）；凭 voucher 取票须发车前 ≥15min。下站坐标 46.613630, 8.308530。
 ⚠️ **Jungfraujoch**：座位预约**仅对所订班次有效**；每段发车前 10min 到场，跟蓝色「with seat reservation」标识。Good Morning 需 13:17 前下撤（你们 11:15 ✅）。早班 07:46 → ~07:25 离 Belvedere（请酒店早开 / grab-and-go 早餐）。
 
@@ -144,7 +160,7 @@
 - **意大利高铁**：3 段全订 ✅
 - **跨国火车**：1 段已订（TXT 行程说明已存，无 PDF 票面 — 实际票在 DB Navigator App）
 - **酒店**：**11 家 22 晚全订**（7/8-7/30）✅
-- **餐厅**：3 家 honeymoon 锁定（圣托里尼 7/17-19）/ 多家意大利 + 巴塞罗那米其林待订（详 itinerary.md 顶级餐厅清单）
+- **餐厅**：6 家已订（米兰 Stendhal Brera 7/9 + 佛罗伦萨 Cambi 7/13 + 罗马 Pierluigi 7/15 + 圣托里尼 honeymoon 3 家 7/17-19）/ 多家意大利 + 巴塞罗那米其林待订（详 itinerary.md 顶级餐厅清单）
 - **Bonvoy 占比**：10/11（Sandblu LXR 也是 Marriott 系，但通过 Amex 旅程 FHR 预订非 Bonvoy 兑换）
 - **总 Bonvoy 点数耗**：1,542,500 pts + €247 现金税
 - **总省下兑换证价值**：191,500 pts（EDITION 4N cert 125.5k + JW Marriott 1N cert 66k）

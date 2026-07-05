@@ -1,6 +1,6 @@
 # 🧭 2026 夏 ヨーロッパ旅行 — メイン索引
 
-> **最終更新**：2026-06-06（v4.8 — ホテル 8 軒 7/8-7/25 予約完了；航空券 5 区間 + 地上交通 4 区間すべて予約済み）
+> **最終更新**：2026-07-05（v5.2 — **フランクフルト day-by-day 確定**：7/28 アップルワイン酒場 / 7/29 午前仕事+午後旧市街・買い物+fine dining / 7/30 完全フリー+15:00 前倒しで FRA 免税手続き；⚠️ **Lafleur 夏季休業 7/6-8/13 で不可** → RAUSCH 2★ / Lohninger 1★ 要予約。v5.1 — バルセロナ day-by-day 確定：Sagrada 日本語ガイドツアー+塔 7/22 09:00（Klook）+ Casa Batlló 7/22 15:00 Gold 登録済み；✅ Park Güell 7/24 10:00 予約登録 — **バルセロナ全チケット完了**；❌ Lasarte は取りやめ — 7/23 夜は Born 周辺で気まま walk-in）
 > **メンテナンス**：Claude が同期維持（ユーザーが PDF 追加 → ファイル名伝達 → Claude が PDF 読込 → 情報抽出 → 本ファイル + `INDEX.md` + `itinerary.md` + `itinerary_jp.md` + memory + `tasks/todo.md` を更新）
 > **中国語版**：[`INDEX.md`](INDEX.md)（同期維持）
 > **メイン旅程書**：[`itinerary.md`](itinerary.md)（中国語マスター）+ [`itinerary_jp.md`](itinerary_jp.md)（日本語版、同期維持）
@@ -16,8 +16,8 @@
 | イタリア高速鉄道 | **3/3** ✅ | 0 | Frecciarossa Business |
 | 国際列車 | **1/1** ✅ | 0 | DB ICE 106+596 |
 | ホテル | **11 軒 / 22 泊** ✅ | 0 | **全予約完了**（v4.8.5 Belvedere Wengen でスイス最終区間予約）|
-| アトラクション（スイス）| **2** ✅ | 0 | Gelmerbahn 7/26 + Jungfraujoch 7/27（決済済、「予約済みアトラクション」参照）|
-| レストラン | **3 軒**（サントリーニ honeymoon）| 多軒（イタリア / バルセロナ ミシュラン）| ミシュラン一括予約は最優先 |
+| アトラクション | **9** ✅ | 0 | **ミラノ Duomo テラス 7/9 + Serravalle バス 7/10** + ヴェネツィア Palazzo Ducale 7/12 + Basilica 7/13 + **バルセロナ Sagrada ガイドツアー + Casa Batlló 7/22 + Park Güell 7/24** + Gelmerbahn 7/26 + Jungfraujoch 7/27（決済済）|
+| レストラン | **6 軒**（ミ Stendhal + フィ Cambi + ロ Pierluigi + サントリーニ honeymoon 3）| 数軒（イタリア / フランクフルト）| ❌ バルセロナのミシュランは取りやめ（7/23 夜は気まま walk-in）；フランクフルト fine dining 変更中 |
 
 **支払い総計**：
 - 航空券：JPY 199,040（JL Award 税）+ UA 90k マイル + $122.80 + €356.10 + €566.20
@@ -55,13 +55,13 @@
 | 1 | **7/28 (火)** | Lauterbrunnen → Frankfurt | [`Tickets/7:28 Lauterbrunnen → Frankfurt.txt`](Tickets/7:28%20Lauterbrunnen%20→%20Frankfurt.txt) ＋ DB Navigator App | ICE 106 + ICE 596 | Interlaken Ost 10:59 (Pl.5) → Mannheim Hbf 15:22 (Pl.3) → **同プラットホーム 7分乗換 Gleis 3→2** → Mannheim 15:29 (Pl.2) → Frankfurt(Main)Hbf 16:09 (Pl.9)，5h10m / 1回乗換 | **12号車, 座席 45 + 46**（両区間同座席, Handybereich 携帯使用エリア）| **Sparpreis Europa 1等 €211.78/2名** · 予約番号 **878050552107** · チケットコード **K53YL8EZ** · CIV 1080 · 予約日 2026-05-31 · [bahn.de 旅程確認](https://int.bahn.de/en/buchung/start?vbid=ae8b5082%2D68d2%2D449c%2Da6e3%2D6ec0517b00a9) |
 
 ### 現地アクセス交通（現地購入/ホテル手配）
-- 7/9 Malpensa Express MXP T1 → Milano Centrale（v4.8：Sheraton MXP から朝 8:30）
+- 7/9 **タクシー** Sheraton Malpensa → Casa Brera（v5.0：**前夜にホテル予約**、Malpensa→ミラノ中心の定額 €104、~50分 door-to-door；荷物を置いてから徒歩 12分で Duomo テラス 09:30）
 - 7/11 + 7/13 ヴェネツィア水上タクシー（v4.8 不要 — AC Hotel から SL 駅徒歩 5-7 分）
 - 7/16 朝タクシー 10-15 分（Sheraton Parco de' Medici → FCO；Leonardo Express 不要）
 - 7/20 BCN Aerobús A1
 - 7/26 **プライベートドライバー** Zurich → Brünig 景観 → Gelmerbahn → Lauterbrunnen（荷物車載）→ 登山電車 12分で Wengen（Belvedere；ホテルが Wengen 駅送迎）
 - 7/28 BOB Wengen → Lauterbrunnen → Interlaken Ost（下山分 ~15分早めに出て 10:59 ICE）
-- 専用車：7/10 Serravalle / 7/15 Antinori Chianti / 7/16 JTR→Oia / 7/20 Sandblu→JTR
+- 専用車：7/10 Serravalle / 7/16 JTR→Oia / 7/20 Sandblu→JTR
 
 ---
 
@@ -83,16 +83,20 @@
 
 ---
 
-## 🍽️ 予約済みレストラン（3 軒 / サントリーニ honeymoon）
+## 🍽️ 予約済みレストラン（7 軒：ミラノ 1 + ヴェネツィア 1 + フィレンツェ 1 + ローマ 1 + サントリーニ honeymoon 3）
 
-> 3 軒すべて booking note に **honeymoon + front-row リクエスト**を明記済み
+> サントリーニ 3 軒は booking note に **honeymoon + front-row リクエスト**を明記済み；フィレンツェ Cambi はステーキディナー（妻の願望）
 > 全件 +30 2286 系（i-host.gr プラットフォーム）
 
 | # | 日付 | 時刻 | 都市 / エリア | レストラン | ファイル | Booking Ref | 人数 | 備考 / ポリシー |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **7/17 (金)** | **18:30** | サントリーニ Imerovigli | **Lycabettus @ Andronis**（cliff fine dining）| [`Restaurants/7:17 Santorini Lycabettus Andronis.pdf`](Restaurants/7:17%20Santorini%20Lycabettus%20Andronis.pdf) | `1Iq_055oTQGziX3tkevg_w` | 2 | Cliff Area, +30 22861 86602；⚠️ **130 段の階段、エレベーターなし**；15 分以上の遅刻は席を失う；48 時間前以降のキャンセルはデポジット返金なし；13 歳未満 / ペット不可 |
-| 2 | **7/18 (土)** | **13:00** 昼 | サントリーニ Ammoudi Bay | **Sunset Ammoudi**（赤崖と青海のシーフードランチ）| [`Restaurants/7:18 Santorini Sunset Ammoudi.pdf`](Restaurants/7:18%20Santorini%20Sunset%20Ammoudi.pdf) | `QMfr8X2KTQa0UOU5sAXz9g` | 2 | Ammoudi Bay 漁村、Oia の下に 300 段の階段；+30 2286 071614；ランチを選んだのは赤崖 vs 青海のコントラストを日中見るため |
-| 3 | **7/19 (日)** | **17:00** | サントリーニ Oia | **Kastro**（Oia 古城日没 first-line）| [`Restaurants/7:19 Santorini Kastro.pdf`](Restaurants/7:19%20Santorini%20Kastro.pdf) | `lWpO32ryT3iakU8fw83u-g` | 2 | "First line" 予約済み；+30 22860 71045；⚠️ 15 分以上の遅刻は席を失う；no-show はカードに €45/人 請求；最大滞在 2 時間；**日没時間帯 18:00-20:30 は最低 €45/人**（7 月日没 ~20:30）|
+| 1 | **7/9 (木)** | **19:00** | ミラノ Brera | **Ristorante Stendhal Brera**（リゾット + 地方の肉料理 + イタリアワイン；妻が予約）| [`Restaurants/7:9 Milano Stendhal Brera.pdf`](Restaurants/7:9%20Milano%20Stendhal%20Brera.pdf) | Google/Zenchef **167A-1B06-C207-A80E** | 2 | Via San Marco；+39 02 6604 0049；⚠️ キャンセル ≥3h |
+| 2 | **7/12 (日)** | **19:00** | ヴェネツィア Castello | **Osteria al Portego**（気軽な bacaro）| — | AC Hotel フロント代行 | 2 | AC Hotel Venezia フロントが代行確認（2026-07-05 メール）；7/11 のディナー予定だった alla Vedova は定休のため、ホテル推薦の **Hostaria Osottoosopra**（Santa Croce 164、+39 333 802 7830）を代行予約依頼中 |
+| 3 | **7/13 (月)** | **19:30** | フィレンツェ Oltrarno (San Frediano) | **Antico Ristoro di' Cambi**（フィオレンティーナ bistecca、妻のお気に入り）| [`Restaurants/7:13 Firenze Cambi.pdf`](Restaurants/7:13%20Firenze%20Cambi.pdf) | メール confermata（個別 ref なし）| 2 | 予約者 Di Miao；info@anticoristorodicambi.it / +39 055 217134；Via Sant'Onofrio 1r；~€60/kg；月曜営業；食後 Ponte Santa Trinita ライトアップ |
+| 4 | **7/15 (水)** | **20:00** | ローマ 旧市街 (Piazza de' Ricci) | **Pierluigi**（1938 シーフード + ルネサンス小広場テラス）| [`Restaurants/7:15 Roma Pierluigi.pdf`](Restaurants/7:15%20Roma%20Pierluigi.pdf) | `AB6J4UBUCBY`（SevenRooms）| 2 | Piazza de' Ricci 144；+39 06 6868717；⚠️ キャンセル ≥24h、さもなくば €50/人；テラス席を確認/リクエスト |
+| 5 | **7/17 (金)** | **18:30** | サントリーニ Imerovigli | **Lycabettus @ Andronis**（cliff fine dining）| [`Restaurants/7:17 Santorini Lycabettus Andronis.pdf`](Restaurants/7:17%20Santorini%20Lycabettus%20Andronis.pdf) | `1Iq_055oTQGziX3tkevg_w` | 2 | Cliff Area, +30 22861 86602；⚠️ **130 段の階段、エレベーターなし**；15 分以上の遅刻は席を失う；48 時間前以降のキャンセルはデポジット返金なし；13 歳未満 / ペット不可 |
+| 6 | **7/18 (土)** | **13:00** 昼 | サントリーニ Ammoudi Bay | **Sunset Ammoudi**（赤崖と青海のシーフードランチ）| [`Restaurants/7:18 Santorini Sunset Ammoudi.pdf`](Restaurants/7:18%20Santorini%20Sunset%20Ammoudi.pdf) | `QMfr8X2KTQa0UOU5sAXz9g` | 2 | Ammoudi Bay 漁村、Oia の下に 300 段の階段；+30 2286 071614；ランチを選んだのは赤崖 vs 青海のコントラストを日中見るため |
+| 7 | **7/19 (日)** | **17:00** | サントリーニ Oia | **Kastro**（Oia 古城日没 first-line）| [`Restaurants/7:19 Santorini Kastro.pdf`](Restaurants/7:19%20Santorini%20Kastro.pdf) | `lWpO32ryT3iakU8fw83u-g` | 2 | "First line" 予約済み；+30 22860 71045；⚠️ 15 分以上の遅刻は席を失う；no-show はカードに €45/人 請求；最大滞在 2 時間；**日没時間帯 18:00-20:30 は最低 €45/人**（7 月日没 ~20:30）|
 
 **サントリーニ day-by-day 重要時刻 lock**：
 - 7/17（Mystique 2 泊目）→ Lycabettus 18:30
@@ -101,13 +105,25 @@
 
 ---
 
-## 🎟️ 予約済みアトラクション（スイス Bernese Oberland）
+## 🎟️ 予約済みアトラクション
 
 | # | 日付 | アトラクション | ファイル | 予約番号 | 時刻 / 便 | 人数 | 支払 |
 |---|---|---|---|---|---|---|---|
-| 1 | **7/26 (日)** | **Gelmerbahn**（世界最急 106% ケーブルカー）| [`Attractions/7:26 Gelmerbahn.pdf`](Attractions/7:26%20Gelmerbahn.pdf) | **2A55DFA4**（Invoice 7050237）| 上り **12:12**（-12:24）/ 下り **14:00**（-14:12）| 2 | **CHF 80**（20×2 上 + 20×2 下；Amex 決済済）|
-| 2 | **7/27 (月)** | **Jungfraujoch – Top of Europe**（Good Morning, 2等）| [`Attractions/7:27 Jungfraujoch.pdf`](Attractions/7:27%20Jungfraujoch.pdf) | **295536** | Wengen 07:46 → KS 08:08 / KS 08:28 → JJ 09:11；山頂 ~2h；JJ 11:15 → KS 11:54 / KS 12:14 → Wengen 12:38 | 2 | Amex（座席予約込み）|
+| 1 | **7/9 (木)** | **ミラノ Duomo 屋上テラス**（⚠️ **テラスのみ・大聖堂内部は含まない**；エレベーターは Duomo 裏側）| [`Attractions/7:9 Duomo Terrace.pdf`](Attractions/7:9%20Duomo%20Terrace.pdf) | GetYourGuide **GYGZGZZAW6KN** / PIN **X#hTN+nV** | **09:30** 入場（集合 9:25）| 2 | **¥8,106**（GYG、2 大人、Veneranda Fabbrica；7/8 09:30 前まで全額返金）|
+| 2 | **7/10 (金)** | **Serravalle Easy Shopping バス**（Frigerio Viaggi シャトル往復）| [`Attractions/7:10 Serravalle Shuttle.pdf`](Attractions/7:10%20Serravalle%20Shuttle.pdf) | **V1FU0EFC4Z000C85PSMT**（チケット W1F70…VAU8N + W1FU0…U7U90）| pickup **10:15** Via Fatebenefratelli 4 / 帰 18:30 | 2 | **€66**（33×2、支払済；Fashion Passport 10% + Hands-Free 含む）|
+| 3 | **7/12 (日)** | **ヴェネツィア Palazzo Ducale ドゥカーレ宮殿**（St. Mark's Square Museums 共通券；**標準ルートでため息橋の内側を通過**＋Correr＋考古学＋Marciana 図書館）| [`Attractions/7:12 Palazzo Ducale.pdf`](Attractions/7:12%20Palazzo%20Ducale.pdf) | Tran **TLITE0138667690926**；Cod. **CZ8NZ4UKDC** + **50GG23UNG9** | **14:00** 入場（時間指定券）| 2 | **€70**（€35×2、Vivaticket/MUVE、2026-06-28 発券、PRINT@HOME）|
+| 4 | **7/13 (月)** | **ヴェネツィア Basilica di San Marco サンマルコ寺院**（完全券 Complete：本堂の黄金モザイク＋**Pala d'Oro 黄金祭壇**＋Museo/Loggia dei Cavalli テラス；鐘楼は別）| [`Attractions/7:13 Basilica San Marco_Miao.pdf`](Attractions/7:13%20Basilica%20San%20Marco_Miao.pdf) + [`_Sakoda`](Attractions/7:13%20Basilica%20San%20Marco_Sakoda.pdf) | Order **171-VT32G6T** / Conf. **SPHP3MFHZAMM**；Ref 171-L74OKBG (Miao) + 171-IH5GA5C (Sakoda) | **11:30–12:00** 入場（時間指定券）| 2 | **€60**（€30×2、tickets.basilicasanmarco.it、2026-06-28、⚠️変更・払戻不可）|
+| 5 | **7/22 (水)** | **バルセロナ Sagrada Família 日本語ガイドツアー + 塔**（Klook · The Touring Pandas；内部ガイド 1h30 + 塔 30 分、終了後は自由滞在可）| [`Attractions/7:22 Sagrada Familia.pdf`](Attractions/7:22%20Sagrada%20Familia.pdf) | Klook **MXW879435**（Voucher 1049592785 + 1049592786）| **09:00 出発**（⚠️ **08:50 まで**に集合 **Carrer de Sardenya 311, Local 3** — 教会正面ではない）| 2 | Klook 決済済（聖堂 + 塔入場 + 日本語ガイド込み）|
+| 6 | **7/22 (水)** | **バルセロナ Casa Batlló**（GENERAL VISIT – GOLD）| [`Attractions/7:22 Casa Batlló.pdf`](Attractions/7:22%20Casa%20Batlló.pdf) | Reservation **102085084**（チケット 303684202-1/2 + 303684203-2/2）| **15:00** 入場 ⚠️（メモは 17:00 だが**チケット記載は 15:00**）| 2 | **€86**（€43×2, 税込, Clorian 公式）|
+| 7 | **7/24 (金)** | **バルセロナ Park Güell**（General ticket · Monumental Zone）| [`Attractions/7:24 Park Güell.pdf`](Attractions/7:24%20Park%20Güell.pdf) | Booking **8713018**（記名：MIAO DI + SAKODA AIRI）| **10:00** 入場（指定時刻から 30 分以内有効）| 2 | **€36**（€18×2, TVA 込, 公式 parkguell.barcelona）|
+| 8 | **7/26 (日)** | **Gelmerbahn**（世界最急 106% ケーブルカー）| [`Attractions/7:26 Gelmerbahn.pdf`](Attractions/7:26%20Gelmerbahn.pdf) | **2A55DFA4**（Invoice 7050237）| 上り **12:12**（-12:24）/ 下り **14:00**（-14:12）| 2 | **CHF 80**（20×2 上 + 20×2 下；Amex 決済済）|
+| 9 | **7/27 (月)** | **Jungfraujoch – Top of Europe**（Good Morning, 2等）| [`Attractions/7:27 Jungfraujoch.pdf`](Attractions/7:27%20Jungfraujoch.pdf) | **295536** | Wengen 07:46 → KS 08:08 / KS 08:28 → JJ 09:11；山頂 ~2h；JJ 11:15 → KS 11:54 / KS 12:14 → Wengen 12:38 | 2 | Amex（座席予約込み）|
 
+⚠️ **Palazzo Ducale**：標準 St. Mark's Square Museums 共通券（Secret Itineraries ではない）、標準ルートで**ため息橋の内側を通過**して新牢獄へ；A4 印刷または QR 提示で入場（入口 Porta del Frumento）；大型荷物持込不可。共通券には **Museo Correr** の時間指定入場も含まれる（別途時間枠の選択が必要；別 Correr PDF があれば一緒に保存）。
+⚠️ **Basilica di San Marco**：完全券（Pala d'Oro + Loggia 込み、鐘楼は別）；**肩と膝を隠す服装**（宗教施設）、40×30×20cm を超えるバッグ/荷物持込不可（Ateneo San Basso に預ける）；時間厳守（前後 5分 の猶予）、見学 約 60–90分；⚠️ 変更・払戻不可。
+⚠️ **Sagrada Família ガイドツアー**：集合場所は**教会ではない** — The Touring Pandas オフィス（Carrer de Sardenya 311, Local 3）、09:00 出発 **08:50 までに集合**；遅刻/no-show 返金なし；無料キャンセルは **7/21 09:00**（バルセロナ時間）まで；塔はエレベーター上り・**螺旋階段下り**；モバイルバウチャー提示；6 歳以上、車いす不可。
+⚠️ **Casa Batlló**：Gold チケット、入場時刻は**チケット記載 15:00**（メモの 17:00 は誤り）；QR 提示で入場、Passeig de Gràcia 43。
+⚠️ **Park Güell**：記名チケット（本人確認の可能性あり、パスポート携帯推奨）；**10:00 から 30 分以内に入場**；園内は時間無制限だが**再入場不可**。
 ⚠️ **Gelmerbahn**：工事中、駐車場/バス停から下駅まで徒歩 **~30分**（急階段/仮設歩道）；voucher でのチケット受取は発車 15分前まで。下駅座標 46.613630, 8.308530。
 ⚠️ **Jungfraujoch**：座席予約は予約便のみ有効；各区間 発車 10分前に到着、青「with seat reservation」表示に従う。Good Morning は 13:17 までに下山（11:15 ✅）。始発 07:46 → ~07:25 に Belvedere 出発（早め朝食 / grab-and-go を依頼）。
 
@@ -142,7 +158,7 @@
 - **イタリア高速鉄道**：3 区間すべて予約済み ✅
 - **国際列車**：1 区間予約済み（TXT 旅程説明あり、PDF チケットなし — 実チケットは DB Navigator App）
 - **ホテル**：**11 軒 22 泊 全予約完了**（7/8-7/30）✅
-- **レストラン**：3 軒 honeymoon 確定（サントリーニ 7/17-19）/ イタリア + バルセロナのミシュラン多軒未予約（詳細 itinerary.md トップレストラン一覧）
+- **レストラン**：6 軒予約済み（ミラノ Stendhal Brera 7/9 + フィレンツェ Cambi 7/13 + ローマ Pierluigi 7/15 + サントリーニ honeymoon 3 軒 7/17-19）/ イタリア + バルセロナのミシュラン多軒未予約（詳細 itinerary.md トップレストラン一覧）
 - **Bonvoy 比率**：10/11（Sandblu LXR も Marriott 系だが Amex 旅程 FHR で予約のため Bonvoy 交換ではない）
 - **総 Bonvoy ポイント消費**：1,542,500 pts + €247 現金税
 - **総節約アワード価値**：191,500 pts（EDITION 4N cert 125.5k + JW Marriott 1N cert 66k）
