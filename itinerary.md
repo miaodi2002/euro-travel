@@ -179,7 +179,7 @@
 - 12:00 Murano 轻午餐 / 返程
 - 12:15 Vaporetto 返 → 转 **San Marco**（~45min，一次性大转场，不再来回横跳）
 - **13:15 🍽️ 午餐 Sepa**（Calle de la Bissa，Rialto 旁，墨鱼小盘随性，无需订）；途中 **🌉 第 2 次过 Rialto（白天）** — 太太愿望 ✓
-- **14:00 🏛️ 公爵宫 Palazzo Ducale**（✅ **已订** €70，计时 14:00）— 标准线**从内部穿过叹息桥**进新监狱 — 太太愿望 ✓（叹息桥·内侧）
+- **14:00 🏛️ 公爵宫 Palazzo Ducale**（✅ **已订** €70，计时 14:00）— 标准线**从内部穿过叹息桥**进新监狱 — 太太愿望 ✓（叹息桥·内侧）；⚠️ Vivaticket 要求 **PRINT@HOME 整页 A4 打印**（过闸机可折 4 折扫码）
 - **16:00 😮‍💨 Ponte della Paglia 拍叹息桥外景**（免费）— 太太愿望 ✓（叹息桥·外侧）
 - 16:20 Piazza San Marco 闲逛拍照；想坐 **Caffè Florian** 听乐队就给 ~70min（两人露天 ~€35–50，含 €6–8/人 乐队费）；**🍦 Gallonetto** 路上第 2 次冰淇淋
 - 17:00 回酒店小憩 / 换衣
@@ -193,7 +193,7 @@
 - 08:30 慢早餐（酒店 / Panificio Volpe）
 - 09:30 退房 + **行李寄存酒店**
 - 09:45–11:15 从容散步去 San Marco：**🌉 第 3 次过 Rialto（白天）** + 最后玻璃/面具/纸品采购（昨天没拍够的叹息桥外景可补拍）
-- **11:30 ⛪ 圣马可大教堂**（✅ **已订** €60，完整票：正殿金马赛克 + **Pala d'Oro 金祭坛** + Loggia 阳台）— 太太愿望 ✓
+- **11:30 ⛪ 圣马可大教堂**（✅ **已订** €60，完整票：正殿金马赛克 + **Pala d'Oro 金祭坛** + Loggia 阳台；**入场窗 11:30-12:00**）— 太太愿望 ✓
   - ⚠️ **遮肩遮膝**（带薄披肩）；背包/行李 >40×30×20cm 不可带入（寄存 Ateneo San Basso）；不含钟楼
 - 12:45 午餐 **Sepa / Farini**（Rialto 旁，柜台速食，别久坐）
 - 13:30 走/Vaporetto 回程 → 取行李
@@ -274,6 +274,7 @@
 >   - 在 Oia 下方 Ammoudi 渔村，下 300 级楼梯（或 driver 接送）
 > - **7/19 (日) 17:00 Kastro**（Oia 古堡日落 "first line"）— ref `lWpO32ryT3iakU8fw83u-g` / +30 22860 71045
 >   - ⚠️ 迟到 >15min 失位；no-show €45/人扣信用卡；max 2h；日落时段 18:00-20:30 最低消费 €45/人（7 月 Oia 日落 ~20:30）
+>   - ⚠️ **订位名 = SAKODA AIRI**（到店报太太名字）；**17:00 入席 + max 2h ≈ 19:00 离席，日落 20:30 在离席之后** — 想桌上看日落需现场与店家沟通延时，或离席后在古堡观景点看
 >
 > day-by-day 详细行程待逐步规划（餐厅时刻 slot 已固定，活动节奏围绕这 3 个点设计；Sandblu 段可古城 + Akrotiri 火山遗址 + Vlychada 沙滩）
 
@@ -286,7 +287,7 @@
 > 📌 **通用策略**：不可预约 tapas 店（Vaso de Oro / Cervecería Catalana / Vinitus）统一 **19:00 前到店**；❌ **伊比利亚火腿禁带回日本**（日本禁肉制品入境 + 西班牙 ASF 疫情 2025-11 起全面停止进口）— Boqueria 现场吃，伴手礼改橄榄油（La Chinata）/藏红花/Turrón/葡萄酒；⚠️ 出发前查 IG：@paris64world（pop-up 是否营业）+ @quimetiquimet（确认无年假）。
 
 #### 7/20（一）Day 12 — 移动日 → Born 初日 + 海滩
-- ✈️ **10:00 VY3315 JTR → 12:20 BCN T1**（PNR EKHTKG, Fly Grande, 座 1A/1B）
+- ✈️ **10:00 VY3315 JTR → 12:20 BCN T1**（PNR EKHTKG, Fly Grande, 座 1A/1B）— ⚠️ **值机柜台 09:20 关闭**（起飞前 40min；登机口 20min 前截止）；确认邮件≠登机牌，提前在线值机
 - 12:50 出关取行李 → 🚕 taxi ~30min（~€35-40，带行李比 Aerobús 省心）
 - 13:30 🏨 **The Barcelona EDITION** check-in（钛金早入住/寄行李；报 honeymoon）
 - 14:30 **El Born 散策**：Mercat del Born + Santa Maria del Mar + 顺路 **La Chinata Born 店**（Passeig del Born 11；橄榄油伴手礼在此补）
@@ -358,6 +359,7 @@
 - ~14:45 司机 Handegg → Meiringen → Interlaken → **Lauterbrunnen 站**（~1h20，Wengen 无车私车到此）~16:05
 - ~16:10-16:55 **#2 Staubbach** 谷底步行到瀑布脚（近距离水雾）；行李交 Belvedere 的 Lauterbrunnen 接驳 / 寄存
 - ~17:00 齿轨 **Lauterbrunnen → Wengen** 12min → **~17:20 Belvedere check-in**（站口酒店接驳）→ 傍晚 onsen spa + 少女峰晚景 + 晚餐
+  - ⚠️ **Booking 订单上预计到店时间写的是 14:00-15:00，与实际 ~17:20 不符** — 给酒店发 grab-and-go 早餐邮件时一并告知晚到
 - ⚠️ **硬约束**：12:12 上山 + 30min 施工步道 + 取票 → **最晚 ~11:10 必须到 Handegg 停车场**（即苏黎世 ~08:30 前发车）；想从容吃上山前午餐就 ~08:15 发
 
 **7/27 (一) — 少女峰 + Gimmelwald（😓 偏累，唯一硬核日）· 已订定时班次 #295536**
@@ -383,7 +385,7 @@
 > **v5.2 节奏设计**：3 天只排 1 个观光半天；**工作半天放 7/29 上午**（法兰克福 9:00-13:00 = 日本 16:00-20:00，正好覆盖东京下午）；7/30 出发日上午全空机动。⚠️ **Lafleur 2★ 夏休 2026-07-06~08-13（官网确认）不可行** — 法兰克福 7 月底集体 Sommerpause（MAIN TOWER 7/20-8/9 关 / Gustav・Weinsinn 已永久歇业）→ 7/29 晚换 **RAUSCH（2026 新晋 2★）首选 / Lohninger（2026 新晋 1★）备选** 🔴 待订（订前先确认无夏休）。Rüdesheim 一日游放弃 — 莱茵雷司令在 Kleinmarkthalle 酒摊解决。
 
 #### 7/28（二）Day 20 — ICE 抵法兰克福 + Sachsenhausen 苹果酒馆（轻）
-- 🚄 10:59 Interlaken Ost → 16:09 Frankfurt Hbf（ICE 106 + 596，Mannheim 同站台换乘 7min，1 等 12 车 45/46 座）
+- 🚄 10:59 Interlaken Ost → 16:09 Frankfurt Hbf（ICE 106 + 596，Mannheim 同站台换乘 7min，1 等 12 车 45/46 座）— ⚠️ 记名票**查票须出示护照**；Zugbindung 严格绑定所订两班车，不可改乘其他班次
 - 16:15 步行 ~5min → **JW Marriott check-in**（conf #71632783；钛金 SNA 入住前 5 天 = 7/23 提交）
 - 16:30-18:30 房间休整（5h 火车后缓一缓）
 - 18:30 出门轻逛：酒店即在 Zeil 旁 — **MyZeil 屋顶**远眺天际线（步行 3min）
