@@ -14,51 +14,6 @@
 
 ---
 
-## 📍 進捗復元ポイント（2026-06-06 v4.8.5）
-
-**確定済み：**
-- ✅ 国際線航空券全 5 区間（e-ticket PDF 全確認）
-- ✅ **ホテル 7/8-7/30 全 11 軒 22N**（INDEX.md 完全明細）：
-  - Sheraton Milan Malpensa 1N（7/8）/ Casa Brera LC 2N（7/9-11）
-  - AC Hotel Venezia 2N（7/11-13）
-  - W Florence 2N（7/13-15）
-  - Sheraton Roma Parco de' Medici 1N（7/15-16）
-  - Mystique LC 2N（7/16-18、ウェットアルーアスイート 324k pts）+ Sandblu LXR 2N（7/18-20、Amex 旅程 ¥244k 含 FHR US$125）
-  - The Barcelona EDITION 5N（7/20-25、4N 引換証で 1 泊無料）
-  - **Zurich Marriott 1N（7/25-26）✨ v4.8.3 新規** — 510 CHF 現金会員フレキシブル、Limmat 河畔 Neumuehlequai 42
-  - **Grand Hotel Belvedere Wengen 2N（7/26-28）✨ v4.8.5 新規** — Beaumier 5★、Deluxe – Jungfrau View、¥289,456 / CHF 1,434.32、不可退改
-  - **JW Marriott Frankfurt 2N（7/28-30）✨ v4.8.4 新規** — 66k pts + 1 引換証（Roomers 代替）、Innenstadt/Zeil Thurn-und-Taxis-Platz 2
-- ✅ **サントリーニ honeymoon 3 軒**（全 front-row リクエスト / i-host.gr）：
-  - 7/17 (金) 18:30 **Lycabettus @ Andronis**（Imerovigli cliff）
-  - 7/18 (土) 13:00 **Sunset Ammoudi**（Ammoudi Bay 赤崖シーフードランチ）
-  - 7/19 (日) 17:00 **Kastro**（Oia 古城日没 first-line）
-- ✅ 区間交通全予約（イタリア高速鉄道 3 区間 + DB ICE Lauterbrunnen→FRA）
-- ✅ **イタリア Day-by-Day 確定**：ミラノ 3N + ヴェネツィア 2N + フィレンツェ 2N + ローマ 1N + 7/16 移動日（**3-2-2-1**）
-- ✅ イタリアペース原則：起床 ≥09:00 / 詰め込みなし / 美術館スキップ / 買い物コア = アウトレット
-
-**⚠️ 実際のホテル選択が原計画と異なるため、ロジ変更注意（詳細 `INDEX.md` 主要変更表）：**
-- **ミラノ 7/8**：MXP 空港 Sheraton 泊 — **Malpensa Express 終電の心配なし**、翌朝市内へ Casa Brera 入り
-- **ミラノ 7/9-11**：Casa Brera は **Brera 地区中心** — Day 3 (7/11) 散策がそのままスタート
-- **ヴェネツィア**：AC Hotel は Santa Lucia 駅付近 Cannaregio — 徒歩 5-7 分、**水上タクシー不要**；San Marco/Rialto から徒歩 ~15 分
-- **フィレンツェ**：W Florence は SMN 駅横 — Mercato Centrale わずか 5 分
-- **ローマ 7/15-16**：⚠️ **Sheraton Parco de' Medici は FCO 空港隣接**（Termini ではない）— 7/15 夕方観光後タクシー 30 分でホテル；**7/16 朝便は Leonardo Express 不要、タクシー 10-15 分で FCO 直行**
-- **サントリーニ 7/18-20**：Sandblu LXR は **Ancient Thira / Pyrgos 地区**（Imerovigli ではない）、景観/雰囲気が異なる；FHR 特典 US$125 飲食クレジット + 朝食 2 名 + 部屋アップグレード
-- **バルセロナ**：EDITION は **Born 地区 / 旧市街中心**（Hotel Arts 海辺ではない）— Picasso 美術館徒歩 1 分 / Gòtic 5 分 / 海辺徒歩 12 分
-
-**🚧 v4.8.5 未策定：**
-- **チューリッヒ 7/25-26（1N）予約済み** — day-by-day 未策定（7/25 16:40 ZRH 到着 → 当日 Interlaken へ SBB で行かず、市内でゆっくり食事 + Bahnhofstrasse 散策 + Limmat 河畔）
-- ✅ **Wengen 2N（7/26-28）予約済み** — Grand Hotel Belvedere（Beaumier 5★、Deluxe – Jungfrau View、含朝食、#5963.885.781）/ day-by-day「シミュレーション A」確定（#1 ユングフラウヨッホ + #2 Staubbach + #3 Gelmerbahn + #5 Gimmelwald；7/26 専用車）
-- ✅ **フランクフルト 2N（7/28-30）day-by-day v5.2 確定版（2026-07-05）** — 7/28 到着夜 = Sachsenhausen アップルワイン酒場 + 夜景；7/29 午前**仕事半日** + 午後旧市街/買い物 + fine dining；7/30 完全フリー + **15:00 前倒し出発**（FRA 免税手続き集中）。⚠️ **Lafleur 夏季休業 2026-07-06~08-13 で不可**（公式サイト確認）→ **RAUSCH（2★）/ Lohninger（1★）** に変更 🔴 要予約
-
-**次回継続（todo.md 優先順）：**
-1. 🟡 ミシュラン一括予約（v4.6 日程に従い、最難は Osteria alle Testiere 7/12）
-2. 🟡 Duomo 屋根 7/9 + Duomo クーポラ Florence 7/14（30 日前タイムスロット）
-3. 🔴 **チタンエリート SNA** 10 軒ホテル各申請（Casa Brera / AC Venezia / W Florence / Sheraton Roma / Mystique / EDITION / Zurich Marriott / JW Marriott FRA 確率高；MXP Sheraton 1N オプション）
-4. 🟢 Mystique アップグレード email（**2026-06-01 ~ 06-08 ウィンドウ** ⚠️ 残り少ない）
-5. ✅ ~~Lauterbrunnen 独立精品~~ → **Wengen Belvedere 予約済み**（#5963.885.781）
-
----
-
 ## 📌 v4.2 コア変更（2026-04-26）
 - **BCN 3→5 泊**（7/20-25）— ユーザー要望
 - **スイス 5→3 泊**（Lauterbrunnen 7/25-28 のみ、Zurich 宿泊取消）
@@ -546,24 +501,11 @@
 
 ---
 
-## 📋 重要予約優先順（v4.8）
-
-1. ✅ ~~Lauterbrunnen 独立精品~~ → **Wengen Belvedere 予約済み**（#5963.885.781）；残り：7/26 専用車 + Gelmerbahn 予約 + ユングフラウチケット
-2. 🟠 **JW Marriott Frankfurt** ✅ 予約済み — チタン SNA 提出（Deluxe → Executive Suite 確率中等）
-3. 🟠 **チタン SNA 予約済み 8 軒提出**（Casa Brera / AC Venezia / W Florence / Sheraton Roma / EDITION 確率高）
-4. 🟡 **ミシュランレストラン** Osteria alle Testiere / Pinchiorri / La Maison / ABaC（60-90 日前；Osteria alle Testiere 7/12 最難；ミラノ Cracco/Seta は取りやめ、v5.0 で 7/10 夜は Da Pepèn テイクアウトに変更）
-5. 🟡 **Duomo 屋根 7/9 + Duomo クーポラ Florence 7/14**（30 日前タイムスロット）
-6. 🟢 **Mystique アップグレード email**（**2026-06-01 ~ 06-08 ウィンドウ** ⚠️ 即送）
-7. 🟢 **Serravalle Outlet 7/10 専用車 RT**（14 日前）
-8. ✅ ~~ユングフラウ + Gelmerbahn~~ **予約済み**（#295536 / #2A55DFA4）；Gimmelwald ケーブル現場購入（CHF 6.40）
-
----
-
 ## 📂 関連ファイル
 - `INDEX.md` / `INDEX_jp.md` — メイン索引（航空券 + 列車 + ホテル + 同期協定統一）
 - `itinerary.md` — 中国語版マスター旅程書（本日本語版と同期維持）
 - `tasks/todo_current.md` — 進捗追跡 checklist
-- `wishlist.md` — 妻の願望リスト（ミラノ Da Pepèn / CIACCO / Cioccolatitaliani + ヴェネツィア Rialto / 嘆きの橋）— **詳細旅程作成時に統合**
+- `wishlist.md` — 妻の願望リスト（すべて上記 day-by-day に統合済み、記録として保持）
 - `~/.claude/plans/ethereal-frolicking-falcon.md` — 内部計画過程
 - `~/.claude/projects/-Users-di-miao-Work-travel/memory/` — 長期メモリ（ユーザー好み / プロジェクトスナップショット）
 

@@ -1,7 +1,7 @@
 # 🧭 2026 夏 欧洲行 — 主索引
 
 > **最后更新**：2026-07-05（v5.4 — 雅典酒店已入库：**Athens Airport Living Spaces**（Booking.com #5745.404.178，Spata 机场附近，7/15 15:00-7/16 11:00，€140.60，不可退改）；**Pierluigi 7/15 晚餐用户已在线取消**，7/15 晚改为机场商务舱贵宾厅用餐。v5.3 — ⚠️ **UA 行程重大变更**：原 7/16 FCO→ATH→JTR（AZ720+A3368）被 United 改签为 waitlist 且转机断裂，电话联系 United 后重新确认，**新行程 = AZ722 7/15 (三) 21:50 FCO → 7/16 (四) 00:45 ATH + A3368 15:05→15:55 ATH→JTR（不变）**，同 PNR AZZ0QN，商务舱不变，无额外费用。罗马 Sheraton Roma Parco de' Medici 酒店（1N）已取消，罗马段改为直接转机不过夜。v5.2 — 法兰克福 day-by-day 锁版；v5.1 — 巴塞罗那 day-by-day 锁版）
-> **维护**：Claude 同步（用户加 PDF 后告知文件名 → Claude 读 PDF → 提取关键信息 → 更新本文件 + `INDEX_jp.md` + `itinerary.md` + `itinerary_jp.md` + memory + `tasks/todo.md`）
+> **维护**：Claude 同步（用户加 PDF 后告知文件名 → Claude 读 PDF → 提取关键信息 → 更新本文件 + `INDEX_jp.md` + `itinerary.md` + `itinerary_jp.md` + memory + `tasks/todo_current.md`）
 > **日本語版**：[`INDEX_jp.md`](INDEX_jp.md)（同步维护）
 > **主行程书**：[`itinerary.md`](itinerary.md)（中文）+ [`itinerary_jp.md`](itinerary_jp.md)（日本語版，同步维护）
 > **TODO 进度**：[`tasks/todo_current.md`](tasks/todo_current.md)（live；旧 `todo.md` 已停用）

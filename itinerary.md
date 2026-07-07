@@ -9,51 +9,7 @@
 > **意大利城市分配（v4.6 锁版）**：米兰 3N + 威尼斯 2N + 佛罗伦萨 2N + 罗马 1N = 8N
 > **酒店组合**：v5.4 → **11 家全订 22N**（米兰 3N + 威 2N + 佛 2N + ~~罗 1N~~❌已取消 + 雅典 1N（Athens Airport Living Spaces）+ 圣 4N + 巴 5N + 苏黎世 1N + **Wengen 2N** + 法兰克福 2N）
 > **酒店索引**：`INDEX.md`（同步协议 + 完整 8 家明细）
-> **TODO 进度**：见 `tasks/todo.md`
-
----
-
-## 📍 进度恢复点（2026-06-06 v4.8）
-
-**已锁定：**
-- ✅ 全部跨国机票（5 段，e-ticket PDF 全核对）
-- ✅ **酒店 7/8-7/26 共 9 家 18N**（INDEX.md 完整明细）：
-  - Sheraton Milan Malpensa 1N（7/8）/ Casa Brera LC 2N（7/9-11）
-  - AC Hotel Venezia 2N（7/11-13）
-  - W Florence 2N（7/13-15）
-  - Sheraton Roma Parco de' Medici 1N（7/15-16）
-  - Mystique LC 2N（7/16-18，Wet Allure Suite 324k pts）+ Sandblu LXR 2N（7/18-20，Amex 旅程 ¥244k 含 FHR US$125）
-  - The Barcelona EDITION 5N（7/20-25，含 4N 兑换证免房）
-  - **Zurich Marriott 1N（7/25-26）✨ v4.8.3 新增** — 510 CHF 现金会員フレキシブル，Limmat 河边 Neumuehlequai 42
-  - **JW Marriott Frankfurt 2N（7/28-30）✨ v4.8.4 新增** — 66k pts + 1 兑换证（替代原 Roomers），Innenstadt/Zeil Thurn-und-Taxis-Platz 2
-- ✅ **圣托里尼 honeymoon 3 餐**（全 front-row 请求 / i-host.gr）：
-  - 7/17 (五) 18:30 **Lycabettus @ Andronis**（Imerovigli cliff）
-  - 7/18 (六) 13:00 **Sunset Ammoudi**（Ammoudi Bay 红崖海鲜午餐）
-  - 7/19 (日) 17:00 **Kastro**（Oia 古堡日落 first-line）
-- ✅ 全部段间交通（3 段意大利 Frecciarossa + DB ICE Lauterbrunnen→FRA）
-- ✅ **意大利 Day-by-Day 锁版**：米 3N + 威 2N + 佛 2N + 罗 1N + 7/16 转场日（**3-2-2-1**）
-- ✅ 意大利节奏原则：起床 ≥09:00 / 不特种兵 / 跳过博物馆 / 购物核心 = Outlet
-
-**⚠️ 因酒店实际选择与原计划不同，需注意 logistic 变化（详 `INDEX.md` 关键变化表）：**
-- **米兰 7/8**：MXP 机场 Sheraton 过夜 — **免赶末班 Malpensa Express**，次日清晨入城进 Casa Brera
-- **米兰 7/9-11**：Casa Brera 在 **Brera 区中心** — Day 3 (7/11) 慢散步即出门
-- **威尼斯**：AC Hotel 在 Santa Lucia 站附近 Cannaregio — 步行 5-7min 即到，**无需水上 taxi**；离 San Marco/Rialto 约 15min 步行
-- **佛罗伦萨**：W Florence 在 SMN 站旁 — Mercato Centrale 仅 5min
-- **罗马 7/15-16**：⚠️ **Sheraton Parco de' Medici 紧邻 FCO 机场**（不在 Termini）— 7/15 夜晚 sightseeing 后 taxi 回酒店约 30min；**7/16 早飞机不需 Leonardo Express，taxi 10-15min 直接到 FCO**
-- **圣托里尼 7/18-20**：Sandblu LXR 在 **Ancient Thira / Pyrgos 区**（不在 Imerovigli），视角/氛围不同；FHR 福利 US$125 餐饮信用 + 双早 + 房升
-- **巴塞罗那**：EDITION 在 **Born 区 / 老城中心**（不在 Hotel Arts 海滨）— Picasso 美术馆步行 1min / Gòtic 5min / 海滨步行 12min
-
-**🚧 v4.8.4 待规划：**
-- **苏黎世 7/25-26（1N）已订** — day-by-day 待定（7/25 16:40 ZRH 抵达 → 不赶 SBB 当晚去 Interlaken，市区慢吃 + Bahnhofstrasse 散步 + Limmat 河边）
-- ✅ **Wengen 2N（7/26-28）已订** — Grand Hotel Belvedere（Beaumier 5★，Deluxe – Jungfrau View, 含早, #5963.885.781）/ day-by-day 锁"模拟 A"（#1 少女峰 + #2 Staubbach + #3 Gelmerbahn + #5 Gimmelwald；7/26 私人司机）
-- ✅ **法兰克福 2N（7/28-30）day-by-day v5.2 锁版（2026-07-05）** — 7/28 抵达晚 = Sachsenhausen 苹果酒馆 + 夜景；7/29 上午**工作半天** + 下午老城/购物 + fine dining；7/30 全空 + **15:00 提早出发**（FRA 退税集中在此）。⚠️ **Lafleur 夏休 2026-07-06~08-13 不可行**（官网确认）→ 换 **RAUSCH（2★）/ Lohninger（1★）** 🔴 待订
-
-**下次继续（按 todo.md 优先级）：**
-1. 🟡 米其林餐厅批量订（按 v4.6 日期，最难是 Osteria alle Testiere 7/12）
-2. 🟡 Duomo 屋顶 7/9 + Duomo 穹顶 Florence 7/14（30 天前时段票）
-3. 🔴 **钛金 SNA** 10 家酒店各家提交（Casa Brera / AC Venezia / W Florence / Sheraton Roma / Mystique / EDITION / Zurich Marriott / JW Marriott FRA 概率较高；MXP Sheraton 1N 可选）
-4. 🟢 Mystique 升级 email（**2026-06-01 ~ 06-08 窗口** ⚠️ 今天 6/6）
-5. ✅ ~~Lauterbrunnen 独立精品~~ → 改订 **Wengen Belvedere**（已订 #5963.885.781）
+> **TODO 进度**：见 `tasks/todo_current.md`
 
 ---
 
@@ -546,23 +502,10 @@
 
 ---
 
-## 📋 关键预订优先级（v4.8）
-
-1. ✅ ~~Lauterbrunnen 独立精品~~ → **Wengen Belvedere 已订**（#5963.885.781）；剩：7/26 私车 + Gelmerbahn 预约 + 少女峰票
-2. 🟠 **JW Marriott Frankfurt** ✅ 已订 — 提交钛金 SNA（Deluxe → Executive Suite 概率中等）
-3. 🟠 **钛金 SNA 8 家已订酒店提交**（Casa Brera / AC Venezia / W Florence / Sheraton Roma / EDITION 概率较高）
-4. 🟡 **米其林餐厅** Osteria alle Testiere / Pinchiorri / La Maison / ABaC（60-90 天前；Osteria alle Testiere 7/12 是最难的；米兰 Cracco/Seta 已放弃，v5.0 7/10 晚改 Da Pepèn 外带）
-5. 🟡 **Duomo 屋顶 7/9 + Duomo 穹顶 Florence 7/14**（30 天前时段票）
-6. 🟢 **Mystique 升级 email**（**2026-06-01 ~ 06-08 窗口** ⚠️ 今天 6/6 — 立即发）
-7. 🟢 **Serravalle Outlet 7/10 私车 RT**（14 天前）
-8. ✅ ~~少女峰 + Gelmerbahn~~ **已订**（#295536 / #2A55DFA4）；Gimmelwald 缆车现场买（CHF 6.40）
-
----
-
 ## 📂 相关文件
 - `INDEX.md` — 主索引（机票 + 火车 + 酒店 + 同步协议统一）+ `INDEX_jp.md` 日语版
-- `tasks/todo.md` — 进度跟踪 checklist
-- `wishlist.md` — 太太愿望清单（米兰 Da Pepèn / CIACCO / Cioccolatitaliani + 威尼斯 Rialto / 叹息桥）— **建详细行程时融合**
+- `tasks/todo_current.md` — 进度跟踪 checklist
+- `wishlist.md` — 太太愿望清单（已全部融合进上方 day-by-day，仅作历史记录）
 - `~/.claude/plans/ethereal-frolicking-falcon.md` — 内部规划过程档
 - `~/.claude/projects/-Users-di-miao-Work-travel/memory/` — 长期记忆（用户偏好 / 项目快照）
 

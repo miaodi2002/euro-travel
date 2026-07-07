@@ -1,10 +1,10 @@
 # 🧭 2026 夏 ヨーロッパ旅行 — メイン索引
 
 > **最終更新**：2026-07-05（v5.4 — アテネのホテルを登録済み：**Athens Airport Living Spaces**（Booking.com #5745.404.178、空港近くの Spata、7/15 15:00-7/16 11:00、€140.60、変更・返金不可）；**Pierluigi 7/15 ディナーはユーザーがオンラインで既にキャンセル済み**、7/15 夜は FCO 空港ビジネスラウンジで食事に変更。v5.3 — ⚠️ **UA 旅程の重大変更**：当初の 7/16 FCO→ATH→JTR（AZ720+A3368）が waitlisted かつ乗継不可能に変更されたため、電話で United に連絡し再確定：**新旅程 = AZ722（7/15（水）21:50 FCO → 7/16（木）00:45 ATH）+ A3368（変更なし）**、同一 PNR AZZ0QN、ビジネスクラス変更なし、追加費用なし。ローマ Sheraton Roma Parco de' Medici ホテルはキャンセル済み、ローマ区間は宿泊なしで直行乗継に。v5.2 — フランクフルト day-by-day 確定；v5.1 — バルセロナ day-by-day 確定）
-> **メンテナンス**：Claude が同期維持（ユーザーが PDF 追加 → ファイル名伝達 → Claude が PDF 読込 → 情報抽出 → 本ファイル + `INDEX.md` + `itinerary.md` + `itinerary_jp.md` + memory + `tasks/todo.md` を更新）
+> **メンテナンス**：Claude が同期維持（ユーザーが PDF 追加 → ファイル名伝達 → Claude が PDF 読込 → 情報抽出 → 本ファイル + `INDEX.md` + `itinerary.md` + `itinerary_jp.md` + memory + `tasks/todo_current.md` を更新）
 > **中国語版**：[`INDEX.md`](INDEX.md)（同期維持）
 > **メイン旅程書**：[`itinerary.md`](itinerary.md)（中国語マスター）+ [`itinerary_jp.md`](itinerary_jp.md)（日本語版、同期維持）
-> **TODO 進捗**：[`tasks/todo.md`](tasks/todo.md)
+> **TODO 進捗**：[`tasks/todo_current.md`](tasks/todo_current.md)
 > **デイリー旅程 PDF**：[`Daily/`](Daily/)（2026-07-05 生成、7/8-7/30 の 1 日 1 枚：交通/宿泊/行程/注意事項；⚠️ 行程変更時は該当日を再生成）
 
 ---
